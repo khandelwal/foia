@@ -49,7 +49,7 @@ departments:
   public_liaison: 'Betty White, Phone: (202) 268-7004'
   request_form: https://pfoiapal.usps.com/palMain.aspx
   service_center: 'Phone: (202) 268-7004'
-  top_level: true
+  top_level: false
   website: http://about.usps.com/who-we-are/foia/welcome.htm
 - address:
   - FOIA Contact

@@ -446,51 +446,6 @@ departments:
   - FOIA.Marad@dot.gov
   fax: 202-366-7485
   foia_officer: 'T. Mitchell Hudson, Jr., Phone: (202) 366-5320'
-  keywords:
-  - Administrative practice and procedure
-  - Authority delegations (Government agencies)
-  - Citizenship and naturalization
-  - Claims
-  - Classified information
-  - Common carriers
-  - Courts
-  - Disability benefits
-  - Equal access to justice
-  - Exports
-  - Fishing vessels
-  - Freedom of information
-  - Freight
-  - Freight forwarders
-  - Government contracts
-  - Government employees
-  - Grant programs-education
-  - Grant programs-transportation
-  - Highways and roads
-  - Income taxes
-  - Insurance
-  - Intermodal transportation
-  - Investigations
-  - Investments
-  - Lawyers
-  - Loan programs-transportation
-  - Maritime carriers
-  - Mortgages
-  - National defense
-  - Organization and functions (Government agencies)
-  - Passenger vessels
-  - Penalties
-  - Privacy
-  - Railroads
-  - Reporting and recordkeeping requirements
-  - Schools
-  - Seals and insignia
-  - Seamen
-  - Sunshine Act
-  - Surety bonds
-  - Transportation
-  - Trusts and trustees
-  - Uniform System of Accounts
-  - Vessels
   name: Maritime Administration
   phone: 202-366-5320
   public_liaison: 'Ann Herchenrider, Phone: (202) 366-5165'
@@ -581,37 +536,14 @@ departments:
   service_center: 'Phone: (315) 764-3275'
   top_level: false
   website: http://www.dot.gov/foia/foia_contacts.htm
-- abbreviation: STB
-  address:
+- address:
   - Marilyn R. Levitt
   - FOIA/Privacy Act Officer
   - 395 E Street, SW
   - Washington, DC 20423-0001
-  description: The Surface Transportation Board regulates and decides disputes involving
-    railroad rates, railroad mergers or line sales, and certain other transportation
-    matters.
   emails:
   - FOIA.Privacy@stb.dot.gov
   fax: 202-245-0460
-  keywords:
-  - Administrative practice and procedure
-  - Authority delegations (Government agencies)
-  - Bankruptcy
-  - Brokers
-  - Common carriers
-  - Communications
-  - Confidential business information
-  - Freedom of information
-  - Freight
-  - Freight forwarders
-  - Investigations
-  - Maritime carriers
-  - Motor carriers
-  - Organization and functions (Government agencies)
-  - Railroads
-  - Reporting and recordkeeping requirements
-  - Statistics
-  - Uniform System of Accounts
   misc:
     FOIA/Privacy Act Officer: 'Marilyn R. Levitt, Phone: (202) 245-0269'
   name: Surface Transportation Board
@@ -620,7 +552,6 @@ departments:
   request_form: http://www.stb.dot.gov/stb/efilings.nsf/FOIARequest?OpenForm
   service_center: 'Marilyn R. Levitt, Phone: (202) 245-0269'
   top_level: false
-  usa_id: '49691'
   website: http://www.stb.dot.gov/stb/foia.html
 description: The Department's mission is to serve the United States by ensuring a
   fast, safe, efficient, accessible and convenient transportation system that meets
