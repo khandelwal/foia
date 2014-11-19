@@ -588,27 +588,32 @@ class USALayerTests(TestCase):
 class AverageTimeScaperTests(TestCase):
     def test_parse_table(self):
         '''parses data tables from foia.gov'''
+
         expected_data = {
             'Federal Retirement Thrift Investment Board_2012_FRTIB': {
-                'Complex-Lowest No. of Days': 'NA',
-                'Complex-Average No. of Days': 'NA',
-                'Expedited Processing-Highest No. of Days': 'NA',
-                'Component': 'FRTIB',
-                'Expedited Processing-Lowest No. of Days': 'NA',
-                'Simple-Lowest No. of Days': '1',
-                'Simple-Highest No. of Days': '57',
-                'Simple-Median No. of Days': '20', 'Agency': 'FRTIB',
-                'Complex-Highest No. of Days': 'NA',
-                'Simple-Average No. of Days': '27',
-                'Expedited Processing-Average No. of Days': 'NA',
-                'Expedited Processing-Median No. of Days': 'NA',
-                'Complex-Median No. of Days': 'NA', 'Year': '2012'}}
+                '': 'NA',
+                'expedited_processing_highest_days': 'NA',
+                'expedited_processing_average_days': 'NA',
+                'simple_highest_days': '57',
+                'simple_median_days': '20',
+                'complex_median_days': 'NA',
+                'agency': 'FRTIB',
+                'year': '2012',
+                'expedited_processing_lowest_days': 'NA',
+                'component': 'FRTIB',
+                'simple_lowest_days': '1',
+                'complex_lowest_days': 'NA',
+                'complex_average_days': 'NA',
+                'complex_highest_days': 'NA',
+                'expedited_processing_median_days': 'NA',
+                'simple_average_days': '27'}}
 
         testurl = 'http://www.foia.gov/foia/Services/DataProcessTime.jsp?'
         params = {"advanceSearch": "71001.gt.-999999"}
         params['requestYear'] = '2012'
         params['agencyName'] = 'FRTIB'
         data = average_time_scraper.parse_table(testurl, params, {})
+        print (data)
         self.assertEqual(expected_data, data)
 
         # Won't break with empty tables
@@ -620,8 +625,8 @@ class AverageTimeScaperTests(TestCase):
     def test_zip_and_clean(self):
         '''returns a zipped dictionary with 0s coded as NAs'''
 
-        test_header = ['header 1', 'header 2', 'header 3']
-        test_row = ['2.23', '0', 'NA']
+        test_header = ['header 1', 'header 2', 'header 3', "header 3"]
+        test_row = ['2.23', '0', 'NA', '']
         exp_data = {'header 1': '2.23', 'header 2': 'NA', 'header 3': 'NA'}
         result = average_time_scraper.zip_and_clean(test_header, test_row)
         self.assertEqual(exp_data, result)
@@ -629,7 +634,7 @@ class AverageTimeScaperTests(TestCase):
     def test_get_agency(self):
         '''returns a string in format _%s where %s is the agency name'''
 
-        test_data = {'Agency': "DOS", "other_data": "text blob"}
+        test_data = {'agency': "DOS", "other_data": "text blob"}
         expected_data = '_DOS'
         result = average_time_scraper.get_agency(test_data)
         self.assertEqual(expected_data, result)
@@ -640,12 +645,12 @@ class AverageTimeScaperTests(TestCase):
         test_yaml = {'name': "DOS", "other_data": "text blob"}
         test_data = {
             'DOS_2013DOS': {
-                'Simple-Mean No. of Days': '22', 'Agency': 'DOS',
-                'Year': '2013', 'Component': 'DOS'}}
+                'simple_mean_days': '22', 'agency': 'DOS',
+                'year': '2013', 'component': 'DOS'}}
         expected_data = {
             'name': "DOS", "other_data": "text blob",
             'request_time_stats': {
-                '2013': {'Simple-Mean No. of Days': '22'}}}
+                '2013': {'simple_mean_days': '22'}}}
         result = average_time_scraper.append_time_stats(
             test_yaml, test_data, "_2013", "DOS")
         self.assertEqual(expected_data, result)

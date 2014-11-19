@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from lxml import html
+from bs4 import BeautifulSoup
 import logging
 from glob import glob
 import yaml
@@ -10,7 +10,7 @@ import requests
 
 
 def delete_empty_data(data):
-    '''delete the empty keys for dictionary'''
+    '''Deletes the empty keys in a dictionary'''
     keys = list(data.keys())
     for key in keys:
         if data[key] == "NA":
@@ -19,19 +19,19 @@ def delete_empty_data(data):
 
 
 def append_time_stats(yaml_data, data, year, short_filename):
-    '''appends request time stats to list under key request_time_stats'''
+    '''Appends request time stats to list under key request_time_stats'''
     if not yaml_data.get('request_time_stats'):
         yaml_data['request_time_stats'] = {}
-    del data[yaml_data['name'] + year + short_filename]['Agency']
-    del data[yaml_data['name'] + year + short_filename]['Year']
-    del data[yaml_data['name'] + year + short_filename]['Component']
+    del data[yaml_data['name'] + year + short_filename]['agency']
+    del data[yaml_data['name'] + year + short_filename]['year']
+    del data[yaml_data['name'] + year + short_filename]['component']
     yaml_data['request_time_stats'][year.strip("_")] = \
         delete_empty_data(data[yaml_data['name'] + year + short_filename])
     return yaml_data
 
 
 def patch_yamls(data):
-    """patches yaml files with average times"""
+    """Patches yaml files with average times"""
     for filename in glob("data" + os.sep + "*.yaml"):
         short_filename = '_%s' % filename.strip('.yaml').strip('/data')
         with open(filename) as f:
@@ -52,34 +52,54 @@ def patch_yamls(data):
                 yaml_data, default_flow_style=False, allow_unicode=True))
 
 
-def write_csv(data):
-    '''write data to csv'''
+def make_column_names():
+    '''Generates column names'''
+    columns = ['year', 'agency']
+    kinds = ['simple', 'complex', 'expedited_processing']
+    measures = ['average', 'median', 'lowest', 'highest']
+    names = []
+    for kind in kinds:
+        for measure in measures:
+            names.append('{0}_{1}_days'.format(kind, measure))
+    columns.extend(names)
+    return columns
 
+
+def get_row_data(element, column_names):
+    '''Collects row data using column names'''
+    data = [re.sub("_.*", "", element[0])]
+    for column in column_names:
+        data.append(element[1].get(column))
+    return data
+
+
+def write_csv(data):
+    '''Writes data to csv'''
+    column_names = make_column_names()
     with open('request_time_data.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow([
-            'name', 'year', 'agency', 'simple_average',
-            'simiple_median', 'expedited_average',
-            'expedited_median', 'complex_average', 'complex_median'])
+        writer.writerow(['name'] + column_names)
         for element in data.items():
-            writer.writerow([
-                re.sub("_.*", "", element[0]),
-                element[1].get('Year', 'NA'),
-                element[1].get('Agency', 'NA'),
-                element[1].get('Simple-Average No. of Days', 'NA'),
-                element[1].get('Simple-Median No. of Days', 'NA'),
-                element[1].get(
-                    'Expedited Processing-Average No. of Days', 'NA'),
-                element[1].get(
-                    'Expedited Processing-Median No. of Days', 'NA'),
-                element[1].get('Complex-Average No. of Days', 'NA'),
-                element[1].get('Complex-Median No. of Days', 'NA')
-                ])
+            writer.writerow(get_row_data(element, column_names))
+
+
+def clean_html(html_text):
+    '''Converts <1 to 1 in html text'''
+    return re.sub("><1<", ">1<", html_text)
+
+
+def clean_names(columns):
+    '''Standardizes attribute names'''
+    clean_columns = []
+    for column in columns:
+        column = re.sub(' No. of ', ' ', column)
+        column = re.sub('-| ', '_', column).lower()
+        clean_columns.append(column)
+    return clean_columns
 
 
 def get_html(url, params):
-    '''pull cached html if exists, else creates html file cache'''
-
+    '''Pulls cached html if exists, else creates html file cache'''
     filename = "html/{0}_{1}_timedata.html"
     filename = filename.format(
         params.get('agencyName', "all"), params['requestYear'])
@@ -94,44 +114,69 @@ def get_html(url, params):
 
 
 def zero_to_na(element):
-    '''converts all zeros to string'''
-
+    '''Converts all zeros to string'''
     if element == '0':
         return 'NA'
+    elif not element:
+        return "NA"
     else:
         return str(element)
 
 
 def zip_and_clean(header, row):
-    '''also converts 0 to NAs and zips together a row and header'''
-
+    '''Converts 0 and Nones to NAs and zips together a row and header'''
     return dict(zip(header, map(zero_to_na, row)))
 
 
 def get_agency(value):
-    return '_%s' % value['Agency']
+    '''Returns modified agency names'''
+    return '_%s' % value['agency']
+
+
+def get_key_values(row_items, header, year, title):
+    '''Parses through each table row and returns a key-value pair'''
+    row_array = []
+    for item in row_items:
+        if item.span:
+            row_array.append(item.span.text)
+        else:
+            row_array.append(item.text)
+    value = zip_and_clean(header, row_array)
+    key = title + "_%s" % year + "_%s" % value['agency']
+    return key, value
 
 
 def parse_table(url, params, data):
-    '''gets, caches, and parses url to extract the table data'''
-
-    tree = html.fromstring(get_html(url, params))
-    if tree.xpath('//table//tr//th//a') == []:
-        return data
-    header = [col.text for col in tree.xpath('//table//tr//th//a')]
-    year = '_%s' % params['requestYear']
-    for row in tree.xpath('//table//tr[not(th)]'):
-        value = zip_and_clean(header, row.xpath('.//td//text()'))
-        key = row.xpath('.//span[@title]')[1].values()[0] + year + \
-            get_agency(value)
+    '''Gets, caches, and parses url to extract the table data'''
+    soup = BeautifulSoup(get_html(url, params))
+    year = params['requestYear']
+    table = soup.find("table", {"id": "agencyInfo0"})
+    columns = [column.text for column in table.findAll("th")]
+    columns = clean_names(columns)
+    for row in table.findAll("tr"):
+        row_items = row.findAll("td")
+        if len(row_items) < 2:
+            continue
+        title = row.findAll('span')[1].attrs['title']
+        key, value = get_key_values(row_items, columns, year, title)
         data[key] = value
     return data
 
 
-def all_years(url, params, data):
-    '''loops through yearly data'''
+def get_years():
+    '''Gets year data by scraping the data page '''
+    r = requests.get('http://www.foia.gov/data.html')
+    soup = BeautifulSoup(r.text)
+    boxes = soup.findAll("input", {"type": "checkbox"})
+    years = []
+    for box in boxes:
+        years.extend(re.findall('\d+', box.attrs.get('name', 'Nothing')))
+    return(list(set(years)))
 
-    years = ['2013', '2012', '2011', '2010', '2009', '2008']
+
+def all_years(url, params, data):
+    '''Loops through yearly data'''
+    years = get_years()
     for year in years:
         params["requestYear"] = year
         data = parse_table(url, params, data)
@@ -139,14 +184,13 @@ def all_years(url, params, data):
 
 
 def scrape_times():
-    '''loop through foia.gov data for processing time'''
-
+    '''Loops through foia.gov data for processing time'''
     url = "http://www.foia.gov/foia/Services/DataProcessTime.jsp"
     params = {"advanceSearch": "71001.gt.-999999"}
     data = {}
     data = all_years(url, params, data)
     logging.info("compelete: %s", params.get('agencyName', "all"))
-    agencies = set([value['Agency'] for value in data.values()])
+    agencies = set([value['agency'] for value in data.values()])
     for agency in agencies:
         params["agencyName"] = agency
         data = all_years(url, params, data)

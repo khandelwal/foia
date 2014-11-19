@@ -35,39 +35,39 @@ departments:
   request_form: http://foia.state.gov/foiareq/foialetter.asp
   request_time_stats:
     '2008':
-      Complex-Average No. of Days: '1'
-      Complex-Highest No. of Days: '1'
-      Complex-Lowest No. of Days: '1'
-      Complex-Median No. of Days: '1'
-      Simple-Average No. of Days: '37'
-      Simple-Highest No. of Days: '213'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '10'
+      expedited_processing_average_days: '1'
+      expedited_processing_highest_days: '1'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
+      simple_average_days: '37'
+      simple_highest_days: '213'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
     '2009':
-      Simple-Average No. of Days: '24'
-      Simple-Highest No. of Days: '206'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '11'
+      simple_average_days: '24'
+      simple_highest_days: '206'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
     '2010':
-      Simple-Average No. of Days: '13'
-      Simple-Highest No. of Days: '44'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '10'
+      simple_average_days: '13'
+      simple_highest_days: '44'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
     '2011':
-      Simple-Average No. of Days: '22'
-      Simple-Highest No. of Days: '49'
-      Simple-Lowest No. of Days: '5'
-      Simple-Median No. of Days: '24'
+      simple_average_days: '22'
+      simple_highest_days: '49'
+      simple_lowest_days: '5'
+      simple_median_days: '24'
     '2012':
-      Simple-Average No. of Days: '9.49'
-      Simple-Highest No. of Days: '75'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '6'
+      simple_average_days: '9.49'
+      simple_highest_days: '75'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
     '2013':
-      Simple-Average No. of Days: '15'
-      Simple-Highest No. of Days: '155'
-      Simple-Lowest No. of Days: '1'
-      Simple-Median No. of Days: '17'
+      simple_average_days: '15'
+      simple_highest_days: '155'
+      simple_lowest_days: '1'
+      simple_median_days: '17'
   service_center: 'Phone: (202) 261-8484'
   top_level: false
   website: http://oig.state.gov/foia
@@ -77,6 +77,7 @@ description: The Department's mission is to advance freedom for the benefit of t
   that respond to the needs of their people, reduce widespread poverty, and act responsibly
   within the international system.
 keywords:
+- Accounting
 - Administrative practice and procedure
 - Adoption and foster care
 - Aged
@@ -121,18 +122,23 @@ keywords:
 - Health insurance
 - Health professions
 - Highways and roads
+- Hospitals
 - Hostages
 - Immigration
 - Individuals with disabilities
+- Intergovernmental relations
 - Investigations
 - Iraq
 - Kuwait
 - Labor
+- Law enforcement
+- Law enforcement officers
 - Lebanon
 - Loan programs
 - Longshore and harbor workers
 - Mass transportation
 - Mexico
+- Nonprofit organizations
 - Passports and visas
 - Penalties
 - Privacy
