@@ -10,7 +10,7 @@ import layer_with_csv as layer
 import scraper
 import layer_with_usa_contacts as usa_layer
 
-import average_time_scraper
+import processing_time_scraper as time_scraper
 
 
 class ScraperTests(TestCase):
@@ -584,77 +584,6 @@ class USALayerTests(TestCase):
             "Massive Error",
             usa_layer.extract_acronym("Random Office (RO) (RO)"))
 
-
-class AverageTimeScaperTests(TestCase):
-    def test_parse_table(self):
-        '''parses data tables from foia.gov'''
-
-        expected_data = {
-            'Federal Retirement Thrift Investment Board_2012_FRTIB': {
-                '': 'NA',
-                'expedited_processing_highest_days': 'NA',
-                'expedited_processing_average_days': 'NA',
-                'simple_highest_days': '57',
-                'simple_median_days': '20',
-                'complex_median_days': 'NA',
-                'agency': 'FRTIB',
-                'year': '2012',
-                'expedited_processing_lowest_days': 'NA',
-                'component': 'FRTIB',
-                'simple_lowest_days': '1',
-                'complex_lowest_days': 'NA',
-                'complex_average_days': 'NA',
-                'complex_highest_days': 'NA',
-                'expedited_processing_median_days': 'NA',
-                'simple_average_days': '27'}}
-
-        testurl = 'http://www.foia.gov/foia/Services/DataProcessTime.jsp?'
-        params = {"advanceSearch": "71001.gt.-999999"}
-        params['requestYear'] = '2012'
-        params['agencyName'] = 'FRTIB'
-        data = average_time_scraper.parse_table(testurl, params, {})
-        print (data)
-        self.assertEqual(expected_data, data)
-
-        # Won't break with empty tables
-        params['requestYear'] = '2008'
-        params['agencyName'] = 'RATB'
-        data = average_time_scraper.parse_table(testurl, params, {})
-        self.assertEqual({}, data)
-
-    def test_zip_and_clean(self):
-        '''returns a zipped dictionary with 0s coded as NAs'''
-
-        test_header = ['header 1', 'header 2', 'header 3', "header 3"]
-        test_row = ['2.23', '0', 'NA', '']
-        exp_data = {'header 1': '2.23', 'header 2': 'NA', 'header 3': 'NA'}
-        result = average_time_scraper.zip_and_clean(test_header, test_row)
-        self.assertEqual(exp_data, result)
-
-    def test_get_agency(self):
-        '''returns a string in format _%s where %s is the agency name'''
-
-        test_data = {'agency': "DOS", "other_data": "text blob"}
-        expected_data = '_DOS'
-        result = average_time_scraper.get_agency(test_data)
-        self.assertEqual(expected_data, result)
-
-    def test_append_time_stats(self):
-        '''appends time stats data to dictionary'''
-
-        test_yaml = {'name': "DOS", "other_data": "text blob"}
-        test_data = {
-            'DOS_2013DOS': {
-                'simple_mean_days': '22', 'agency': 'DOS',
-                'year': '2013', 'component': 'DOS'}}
-        expected_data = {
-            'name': "DOS", "other_data": "text blob",
-            'request_time_stats': {
-                '2013': {'simple_mean_days': '22'}}}
-        result = average_time_scraper.append_time_stats(
-            test_yaml, test_data, "_2013", "DOS")
-        self.assertEqual(expected_data, result)
-
     def test_update_dict(self):
         '''updates the new dictionary with ids, abbreviation, description
         and forms, but will not overwrite any descriptions'''
@@ -678,3 +607,157 @@ class AverageTimeScaperTests(TestCase):
             'usa_id': '2', 'abbreviation': 'B'}
         old_data, new_data = usa_layer.update_dict(old_data, new_data)
         self.assertEqual(old_data_expected, old_data)
+
+
+class ProcessingTimeScaperTests(TestCase):
+
+    expected_data = {
+        'Federal Retirement Thrift Investment Board_2012_FRTIB': {
+            '': 'NA',
+            'expedited_processing_highest_days': 'NA',
+            'expedited_processing_average_days': 'NA',
+            'simple_highest_days': '57',
+            'simple_median_days': '20',
+            'complex_median_days': 'NA',
+            'agency': 'FRTIB',
+            'year': '2012',
+            'expedited_processing_lowest_days': 'NA',
+            'component': 'FRTIB',
+            'simple_lowest_days': '1',
+            'complex_lowest_days': 'NA',
+            'complex_average_days': 'NA',
+            'complex_highest_days': 'NA',
+            'expedited_processing_median_days': 'NA',
+            'simple_average_days': '27'}}
+
+    def test_parse_table(self):
+        '''Parses data tables from foia.gov'''
+
+        testurl = 'http://www.foia.gov/foia/Services/DataProcessTime.jsp?'
+        params = {"advanceSearch": "71001.gt.-999999"}
+        params['requestYear'] = '2012'
+        params['agencyName'] = 'FRTIB'
+        data = time_scraper.parse_table(testurl, params, {})
+        self.assertEqual(self.expected_data, data)
+
+        # Won't break with empty tables
+        params['requestYear'] = '2008'
+        params['agencyName'] = 'RATB'
+        data = time_scraper.parse_table(testurl, params, {})
+        self.assertEqual({}, data)
+
+    def test_get_key_values(self):
+        '''Test that correct key-value pairs are returned.'''
+
+        with open('html/FRTIB_2012_timedata.html', 'r') as f:
+            html = f.read()
+        soup = BeautifulSoup(html)
+        table = soup.find("table", {"id": "agencyInfo0"})
+        columns = [column.text for column in table.findAll("th")]
+        columns = time_scraper.clean_names(columns)
+        row_items = table.findAll("tr")[1].findAll("td")
+        year = '2012'
+        title = "test title"
+        key, value = time_scraper.get_key_values(
+            row_items, columns, year, title)
+        self.assertEqual(
+            value, self.expected_data[
+                'Federal Retirement Thrift Investment Board_2012_FRTIB'])
+
+    def test_zip_and_clean(self):
+        '''Returns a zipped dictionary with 0s coded as NAs'''
+
+        test_header = ['header 1', 'header 2', 'header 3', "header 3"]
+        test_row = ['2.23', '0', 'NA', '']
+        exp_data = {'header 1': '2.23', 'header 2': 'NA', 'header 3': 'NA'}
+        result = time_scraper.zip_and_clean(test_header, test_row)
+        self.assertEqual(exp_data, result)
+
+    def test_get_agency(self):
+        '''Returns a string in format _%s where %s is the agency name'''
+
+        test_data = {'agency': "DOS", "other_data": "text blob"}
+        expected_data = '_DOS'
+        result = time_scraper.get_agency(test_data)
+        self.assertEqual(expected_data, result)
+
+    def test_append_time_stats(self):
+        '''Appends time stats data to dictionary'''
+
+        test_yaml = {'name': "DOS", "other_data": "text blob"}
+        test_data = {
+            'DOS_2013DOS': {
+                'simple_mean_days': '22', 'agency': 'DOS',
+                'year': '2013', 'component': 'DOS'}}
+        expected_data = {
+            'name': "DOS", "other_data": "text blob",
+            'request_time_stats': {
+                '2013': {'simple_mean_days': '22'}}}
+        result = time_scraper.append_time_stats(
+            test_yaml, test_data, "_2013", "DOS")
+        self.assertEqual(expected_data, result)
+
+    def test_delete_empty_data(self):
+        '''Verify all keys with `NA`s are deleted'''
+        test_data = {'key1': 'NA', 'key2': '23'}
+        expected_data = {'key2': '23'}
+        self.assertEqual(
+            expected_data, time_scraper.delete_empty_data(test_data))
+
+    def test_make_column_names(self):
+        '''Column names should be returned'''
+        expected_data = [
+            'year',
+            'agency',
+            'simple_average_days',
+            'simple_median_days',
+            'simple_lowest_days',
+            'simple_highest_days',
+            'complex_average_days',
+            'complex_median_days',
+            'complex_lowest_days',
+            'complex_highest_days',
+            'expedited_processing_average_days',
+            'expedited_processing_median_days',
+            'expedited_processing_lowest_days',
+            'expedited_processing_highest_days']
+        self.assertEqual(expected_data, time_scraper.make_column_names())
+
+    def test_get_row_data(self):
+        '''Only column data in headers is returned'''
+        column_names = ['simple_average_days', 'simple_median_days']
+        element = [
+            'key_other_text', {
+                'simple_average_days': '1',
+                'simple_median_days': '2',
+                'complex_average_days': '2'}]
+        expected_data = ['key', '1', '2']
+        self.assertEqual(
+            expected_data, time_scraper.get_row_data(element, column_names))
+
+    def test_clean_html(self):
+        '''Should take out `<` from `<1` construction in text'''
+        html = '<div><span><p><1</p></span></div>'
+        expected_html = '<div><span><p>1</p></span></div>'
+        self.assertEqual(time_scraper.clean_html(html), expected_html)
+
+    def test_clean_names(self):
+        '''Should return a list of standardized column names'''
+        columns = [
+            'Simple-Average No. of Days',
+            'Complex-Average No. of Days']
+        expected_columns = ['simple_average_days', 'complex_average_days']
+        self.assertEqual(
+            expected_columns, time_scraper.clean_names(columns))
+
+    def test_zero_to_na(self):
+        '''Returns all 0s and Nones to 'NA'''
+        self.assertEqual('NA', time_scraper.zero_to_na('0'))
+        self.assertEqual('NA', time_scraper.zero_to_na(None))
+        self.assertEqual('1', time_scraper.zero_to_na('1'))
+
+    def test_get_years(self):
+        '''Should return a list of all the years avaiable'''
+        years = time_scraper.get_years()
+        years.sort()
+        self.assertEqual(years[0], '2008')

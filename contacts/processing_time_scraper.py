@@ -32,11 +32,12 @@ def append_time_stats(yaml_data, data, year, short_filename):
 
 def patch_yamls(data):
     """Patches yaml files with average times"""
+    years = get_years()
     for filename in glob("data" + os.sep + "*.yaml"):
         short_filename = '_%s' % filename.strip('.yaml').strip('/data')
         with open(filename) as f:
             yaml_data = yaml.load(f.read())
-        for year in range(2008, 2014):
+        for year in years:
             year = "_%s" % year
             if yaml_data['name'] + year + short_filename in data.keys():
                 yaml_data = append_time_stats(
@@ -65,11 +66,12 @@ def make_column_names():
     return columns
 
 
-def get_row_data(element, column_names):
-    '''Collects row data using column names'''
-    data = [re.sub("_.*", "", element[0])]
+def get_row_data(key, row_data, column_names):
+    '''Collects row data using column names while cleaning up
+    anything after the _s'''
+    data = [re.sub("_.*", "", key)]
     for column in column_names:
-        data.append(element[1].get(column))
+        data.append(row_data.get(column))
     return data
 
 
@@ -79,8 +81,8 @@ def write_csv(data):
     with open('request_time_data.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(['name'] + column_names)
-        for element in data.items():
-            writer.writerow(get_row_data(element, column_names))
+        for key in sorted(data.keys()):
+            writer.writerow(get_row_data(key, data[key], column_names))
 
 
 def clean_html(html_text):
@@ -123,9 +125,9 @@ def zero_to_na(element):
         return str(element)
 
 
-def zip_and_clean(header, row):
-    '''Converts 0 and Nones to NAs and zips together a row and header'''
-    return dict(zip(header, map(zero_to_na, row)))
+def zip_and_clean(columns, row):
+    '''Converts 0 and Nones to NAs and zips together a row and columns'''
+    return dict(zip(columns, map(zero_to_na, row)))
 
 
 def get_agency(value):
@@ -133,7 +135,7 @@ def get_agency(value):
     return '_%s' % value['agency']
 
 
-def get_key_values(row_items, header, year, title):
+def get_key_values(row_items, columns, year, title):
     '''Parses through each table row and returns a key-value pair'''
     row_array = []
     for item in row_items:
@@ -141,7 +143,7 @@ def get_key_values(row_items, header, year, title):
             row_array.append(item.span.text)
         else:
             row_array.append(item.text)
-    value = zip_and_clean(header, row_array)
+    value = zip_and_clean(columns, row_array)
     key = title + "_%s" % year + "_%s" % value['agency']
     return key, value
 
