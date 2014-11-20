@@ -726,14 +726,15 @@ class ProcessingTimeScaperTests(TestCase):
     def test_get_row_data(self):
         '''Only column data in headers is returned'''
         column_names = ['simple_average_days', 'simple_median_days']
-        element = [
-            'key_other_text', {
-                'simple_average_days': '1',
-                'simple_median_days': '2',
-                'complex_average_days': '2'}]
+        key = 'key_other_text'
+        row_data = {
+            'simple_average_days': '1',
+            'simple_median_days': '2',
+            'complex_average_days': '2'}
         expected_data = ['key', '1', '2']
         self.assertEqual(
-            expected_data, time_scraper.get_row_data(element, column_names))
+            expected_data,
+            time_scraper.get_row_data(key, row_data, column_names))
 
     def test_clean_html(self):
         '''Should take out `<` from `<1` construction in text'''
