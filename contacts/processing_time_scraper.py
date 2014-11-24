@@ -2,15 +2,43 @@
 from bs4 import BeautifulSoup
 import logging
 from glob import glob
-import yaml
 import os
 import csv
 import re
 import requests
+import yaml
+
+
+def load_mapping():
+    ''' loads mapping of yamls to foia.gov data'''
+
+    key = {}
+    years = get_years()
+    with open('data_mapping_key.csv', 'r') as csvfile:
+        datareader = csv.reader(csvfile)
+        for row in datareader:
+            for year in years:
+                key["{0}_{1}_{2}".format(row[0], year, row[1])] = \
+                    "{0}_{1}_{2}".format(row[2], year, row[1])
+    return key
+
+
+def apply_mapping(data):
+    '''applies mapping to make foia.gov data compatiable with yaml data'''
+
+    mapping = load_mapping()
+    new_data = {}
+    for key in data.keys():
+        if key in mapping.keys():
+            new_data[mapping[key]] = data[key]
+        else:
+            new_data[key] = data[key]
+    return new_data
 
 
 def delete_empty_data(data):
     '''Deletes the empty keys in a dictionary'''
+
     keys = list(data.keys())
     for key in keys:
         if data[key] == "NA":
@@ -20,6 +48,7 @@ def delete_empty_data(data):
 
 def append_time_stats(yaml_data, data, year, short_filename):
     '''Appends request time stats to list under key request_time_stats'''
+
     if not yaml_data.get('request_time_stats'):
         yaml_data['request_time_stats'] = {}
     del data[yaml_data['name'] + year + short_filename]['agency']
@@ -32,6 +61,7 @@ def append_time_stats(yaml_data, data, year, short_filename):
 
 def patch_yamls(data):
     """Patches yaml files with average times"""
+
     years = get_years()
     for filename in glob("data" + os.sep + "*.yaml"):
         short_filename = '_%s' % filename.strip('.yaml').strip('/data')
@@ -55,6 +85,7 @@ def patch_yamls(data):
 
 def make_column_names():
     '''Generates column names'''
+
     columns = ['year', 'agency']
     kinds = ['simple', 'complex', 'expedited_processing']
     measures = ['average', 'median', 'lowest', 'highest']
@@ -69,6 +100,7 @@ def make_column_names():
 def get_row_data(key, row_data, column_names):
     '''Collects row data using column names while cleaning up
     anything after the _s'''
+
     data = [re.sub("_.*", "", key)]
     for column in column_names:
         data.append(row_data.get(column))
@@ -77,6 +109,7 @@ def get_row_data(key, row_data, column_names):
 
 def write_csv(data):
     '''Writes data to csv'''
+
     column_names = make_column_names()
     with open('request_time_data.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
@@ -87,11 +120,13 @@ def write_csv(data):
 
 def clean_html(html_text):
     '''Converts <1 to 1 in html text'''
+
     return re.sub("><1<", ">1<", html_text)
 
 
 def clean_names(columns):
     '''Standardizes attribute names'''
+
     clean_columns = []
     for column in columns:
         column = re.sub(' No. of ', ' ', column)
@@ -102,6 +137,7 @@ def clean_names(columns):
 
 def get_html(url, params):
     '''Pulls cached html if exists, else creates html file cache'''
+
     filename = "html/{0}_{1}_timedata.html"
     filename = filename.format(
         params.get('agencyName', "all"), params['requestYear'])
@@ -117,6 +153,7 @@ def get_html(url, params):
 
 def zero_to_na(element):
     '''Converts all zeros to string'''
+
     if element == '0':
         return 'NA'
     elif not element:
@@ -127,16 +164,19 @@ def zero_to_na(element):
 
 def zip_and_clean(columns, row):
     '''Converts 0 and Nones to NAs and zips together a row and columns'''
+
     return dict(zip(columns, map(zero_to_na, row)))
 
 
 def get_agency(value):
     '''Returns modified agency names'''
+
     return '_%s' % value['agency']
 
 
 def get_key_values(row_items, columns, year, title):
     '''Parses through each table row and returns a key-value pair'''
+
     row_array = []
     for item in row_items:
         if item.span:
@@ -150,6 +190,7 @@ def get_key_values(row_items, columns, year, title):
 
 def parse_table(url, params, data):
     '''Gets, caches, and parses url to extract the table data'''
+
     soup = BeautifulSoup(get_html(url, params))
     year = params['requestYear']
     table = soup.find("table", {"id": "agencyInfo0"})
@@ -167,6 +208,7 @@ def parse_table(url, params, data):
 
 def get_years():
     '''Gets year data by scraping the data page '''
+
     r = requests.get('http://www.foia.gov/data.html')
     soup = BeautifulSoup(r.text)
     boxes = soup.findAll("input", {"type": "checkbox"})
@@ -178,6 +220,7 @@ def get_years():
 
 def all_years(url, params, data):
     '''Loops through yearly data'''
+
     years = get_years()
     for year in years:
         params["requestYear"] = year
@@ -187,6 +230,7 @@ def all_years(url, params, data):
 
 def scrape_times():
     '''Loops through foia.gov data for processing time'''
+
     url = "http://www.foia.gov/foia/Services/DataProcessTime.jsp"
     params = {"advanceSearch": "71001.gt.-999999"}
     data = {}
@@ -197,6 +241,7 @@ def scrape_times():
         params["agencyName"] = agency
         data = all_years(url, params, data)
         logging.info("compelete: %s", params.get('agencyName', "all"))
+    data = apply_mapping(data)
     write_csv(data)
     patch_yamls(data)
 

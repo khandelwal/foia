@@ -358,6 +358,77 @@ departments:
     visiting its website.
   phone: 202-693-3676
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  request_time_stats:
+    '2008':
+      complex_average_days: '35.5'
+      complex_highest_days: '282'
+      complex_lowest_days: '1'
+      complex_median_days: '18'
+      expedited_processing_average_days: '25'
+      expedited_processing_highest_days: '25'
+      expedited_processing_lowest_days: '25'
+      expedited_processing_median_days: '25'
+      simple_average_days: '31.6'
+      simple_highest_days: '224'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2009':
+      complex_average_days: '92.9'
+      complex_highest_days: '359'
+      complex_lowest_days: '1'
+      complex_median_days: '77'
+      expedited_processing_average_days: '64.8'
+      expedited_processing_highest_days: '248'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '32.5'
+      simple_average_days: '83.5'
+      simple_highest_days: '368'
+      simple_lowest_days: '1'
+      simple_median_days: '49'
+    '2010':
+      complex_average_days: '25.7'
+      complex_highest_days: '425'
+      complex_median_days: '17'
+      expedited_processing_average_days: '29.4'
+      expedited_processing_highest_days: '160'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '19'
+      simple_average_days: '19.4'
+      simple_highest_days: '300'
+      simple_median_days: '10'
+    '2011':
+      complex_average_days: '32.1'
+      complex_highest_days: '452'
+      complex_median_days: '23'
+      expedited_processing_average_days: '25.4'
+      expedited_processing_highest_days: '38'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '26'
+      simple_average_days: '26.9'
+      simple_highest_days: '1280'
+      simple_median_days: '16.5'
+    '2012':
+      complex_average_days: '16.7'
+      complex_highest_days: '279'
+      complex_median_days: '9'
+      expedited_processing_average_days: '8.6'
+      expedited_processing_highest_days: '20'
+      expedited_processing_median_days: '6'
+      simple_average_days: '14.1'
+      simple_highest_days: '249'
+      simple_median_days: '8'
+    '2013':
+      complex_average_days: '14.7'
+      complex_highest_days: '335'
+      complex_median_days: '10'
+      expedited_processing_average_days: '213'
+      expedited_processing_highest_days: '215'
+      expedited_processing_lowest_days: '211'
+      expedited_processing_median_days: '213'
+      simple_average_days: '12.6'
+      simple_highest_days: '272'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
   service_center: 'Phone: (202) 693-3676'
   top_level: true
   usa_id: '52693'
@@ -441,6 +512,56 @@ departments:
     visiting its website.
   phone: 202-693-9542
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  request_time_stats:
+    '2008':
+      complex_average_days: '15'
+      complex_highest_days: '601'
+      complex_lowest_days: '1'
+      complex_median_days: '34'
+      expedited_processing_average_days: '236.6'
+      expedited_processing_highest_days: '350'
+      expedited_processing_lowest_days: '110'
+      expedited_processing_median_days: '250'
+    '2009':
+      complex_average_days: '14.8'
+      complex_highest_days: '329'
+      complex_median_days: '9'
+      expedited_processing_average_days: '48.6'
+      expedited_processing_highest_days: '180'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '3'
+    '2010':
+      complex_average_days: '17.3'
+      complex_highest_days: '519'
+      complex_median_days: '10'
+      expedited_processing_average_days: '51.2'
+      expedited_processing_highest_days: '438'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '31'
+    '2011':
+      complex_average_days: '24'
+      complex_highest_days: '492'
+      complex_median_days: '13'
+      expedited_processing_average_days: '160.4'
+      expedited_processing_highest_days: '345'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '151.5'
+    '2012':
+      complex_average_days: '38.6'
+      complex_highest_days: '1936'
+      complex_median_days: '11'
+      expedited_processing_average_days: '174.4'
+      expedited_processing_highest_days: '1302'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '51'
+    '2013':
+      complex_average_days: '16.2'
+      complex_highest_days: '1285'
+      complex_median_days: '9'
+      expedited_processing_average_days: '188.6'
+      expedited_processing_highest_days: '519'
+      expedited_processing_lowest_days: '40'
+      expedited_processing_median_days: '124'
   service_center: 'Phone: (202) 693-9424'
   top_level: true
   usa_id: '49462'
@@ -456,6 +577,61 @@ departments:
   name: Office of the Administrative Law Judges
   phone: 202-693-7348
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  request_time_stats:
+    '2008':
+      complex_average_days: '11.7'
+      complex_highest_days: '342'
+      complex_lowest_days: '1'
+      complex_median_days: '2'
+    '2009':
+      complex_average_days: '9.6'
+      complex_highest_days: '175'
+      complex_lowest_days: '1'
+      complex_median_days: '3'
+      expedited_processing_average_days: '2.8'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '2'
+    '2010':
+      complex_average_days: '9.7'
+      complex_highest_days: '326'
+      complex_lowest_days: '1'
+      complex_median_days: '4'
+      expedited_processing_average_days: '6.8'
+      expedited_processing_highest_days: '29'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '2'
+    '2011':
+      complex_average_days: '4.3'
+      complex_highest_days: '34'
+      complex_lowest_days: '1'
+      complex_median_days: '2'
+      expedited_processing_average_days: '6.4'
+      expedited_processing_highest_days: '43'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '2'
+    '2012':
+      complex_average_days: '7.2'
+      complex_highest_days: '171'
+      complex_lowest_days: '1'
+      complex_median_days: '3'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '19'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '2'
+    '2013':
+      complex_average_days: '10.3'
+      complex_highest_days: '408'
+      complex_lowest_days: '1'
+      complex_median_days: '2'
+      expedited_processing_average_days: '1.8'
+      expedited_processing_highest_days: '3'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1.5'
+      simple_average_days: '4'
+      simple_highest_days: '4'
+      simple_lowest_days: '4'
+      simple_median_days: '4'
   service_center: 'Phone: (202) 693-7440'
   top_level: false
   website: http://www.oalj.dol.gov/libfoia.htm
@@ -553,6 +729,64 @@ departments:
   name: Office of Federal Contract Compliance Programs
   phone: 202-693-5500
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  request_time_stats:
+    '2009':
+      complex_average_days: '29.8'
+      complex_highest_days: '279'
+      complex_lowest_days: '1'
+      complex_median_days: '15'
+      expedited_processing_average_days: '32'
+      expedited_processing_highest_days: '54'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '29.5'
+      simple_average_days: '10.2'
+      simple_highest_days: '82'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2010':
+      complex_average_days: '33.1'
+      complex_highest_days: '271'
+      complex_lowest_days: '1'
+      complex_median_days: '21'
+      expedited_processing_average_days: '13.5'
+      expedited_processing_highest_days: '25'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '13'
+      simple_average_days: '9.2'
+      simple_highest_days: '93'
+      simple_lowest_days: '1'
+      simple_median_days: '3.5'
+    '2011':
+      complex_average_days: '33.7'
+      complex_highest_days: '462'
+      complex_median_days: '23.5'
+      expedited_processing_average_days: '3'
+      expedited_processing_highest_days: '3'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '3'
+      simple_average_days: '10.4'
+      simple_highest_days: '116'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+    '2012':
+      complex_average_days: '26.1'
+      complex_highest_days: '223'
+      complex_median_days: '13'
+      simple_average_days: '4.3'
+      simple_highest_days: '28'
+      simple_median_days: '3'
+    '2013':
+      complex_average_days: '40.9'
+      complex_highest_days: '947'
+      complex_median_days: '24'
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '2'
+      simple_average_days: '9.8'
+      simple_highest_days: '301'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
   service_center: 'Phone: (202) 693-5500'
   top_level: false
   website: http://www.dol.gov/ofccp/ofccp-foia.htm
@@ -575,6 +809,57 @@ departments:
     visiting its website.
   phone: 202-693-0125
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  request_time_stats:
+    '2009':
+      complex_average_days: '22.5'
+      complex_highest_days: '219'
+      complex_median_days: '13'
+      simple_average_days: '21.2'
+      simple_highest_days: '105'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2010':
+      complex_average_days: '27.9'
+      complex_highest_days: '223'
+      complex_median_days: '12'
+      expedited_processing_average_days: '6.5'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '6'
+      simple_average_days: '8.7'
+      simple_highest_days: '37'
+      simple_median_days: '9'
+    '2011':
+      complex_average_days: '20'
+      complex_highest_days: '139'
+      complex_median_days: '10.5'
+      expedited_processing_average_days: '7.5'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '7.5'
+      simple_average_days: '8.5'
+      simple_highest_days: '44'
+      simple_median_days: '5'
+    '2012':
+      complex_average_days: '25.6'
+      complex_highest_days: '266'
+      complex_median_days: '10'
+      expedited_processing_average_days: '89'
+      expedited_processing_highest_days: '89'
+      expedited_processing_lowest_days: '89'
+      expedited_processing_median_days: '89'
+      simple_average_days: '19.4'
+      simple_highest_days: '77'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
+    '2013':
+      complex_average_days: '20.6'
+      complex_highest_days: '391'
+      complex_median_days: '14'
+      simple_average_days: '12'
+      simple_highest_days: '17'
+      simple_lowest_days: '7'
+      simple_median_days: '12'
   service_center: 'Phone: (202) 693-0125'
   top_level: false
   website: http://www.dol.gov/olms/regs/compliance/OLMS_FOIA.htm
@@ -612,6 +897,64 @@ departments:
     visiting its website.
   phone: 202-693-0125
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  request_time_stats:
+    '2009':
+      complex_average_days: '25'
+      complex_highest_days: '41'
+      complex_lowest_days: '18.5'
+      complex_median_days: '26'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '10'
+      expedited_processing_median_days: '10'
+      simple_average_days: '12.14'
+      simple_highest_days: '251'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2010':
+      complex_average_days: '27'
+      complex_highest_days: '278'
+      complex_median_days: '11'
+      expedited_processing_average_days: '34'
+      expedited_processing_highest_days: '77'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '24'
+      simple_average_days: '41.5'
+      simple_highest_days: '281'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2011':
+      complex_average_days: '38'
+      complex_highest_days: '501'
+      complex_median_days: '19'
+      expedited_processing_average_days: '13'
+      expedited_processing_highest_days: '13'
+      expedited_processing_lowest_days: '13'
+      expedited_processing_median_days: '13'
+      simple_average_days: '46.4'
+      simple_highest_days: '2025'
+      simple_lowest_days: '2'
+      simple_median_days: '10'
+    '2012':
+      complex_average_days: '89.4'
+      complex_highest_days: '1753'
+      complex_median_days: '15'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '5'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '5'
+      simple_average_days: '71.2'
+      simple_highest_days: '1306'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2013':
+      complex_average_days: '27'
+      complex_highest_days: '1704'
+      complex_median_days: '12'
+      simple_average_days: '104'
+      simple_highest_days: '820'
+      simple_lowest_days: '2'
+      simple_median_days: '12'
   service_center: 'Phone: (202) 693-0125'
   top_level: false
   website: http://www.dol.gov/owcp/foia/owcp-foia.htm
@@ -720,7 +1063,6 @@ departments:
   - Blood diseases
   - Cancer
   - Chemicals
-  - Confidential business information
   - Construction industry
   - Consumer protection
   - Diving
@@ -733,7 +1075,6 @@ departments:
   - Freight
   - Gases
   - Government employees
-  - Grant programs-labor
   - Hazardous substances
   - Health
   - Health care
@@ -765,8 +1106,6 @@ departments:
   - Safety
   - Seamen
   - Signs and symbols
-  - Small businesses
-  - Technical assistance
   - Transportation
   - Vessels
   - Whistleblowing
@@ -775,6 +1114,77 @@ departments:
     visiting its website.
   phone: 202-693-1999
   public_liaison: 'Thomas G. Hicks, Sr., Phone: (202) 693-5427'
+  request_time_stats:
+    '2008':
+      complex_average_days: '18.5'
+      complex_highest_days: '65'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      expedited_processing_average_days: '6.5'
+      expedited_processing_highest_days: '26'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '6'
+      simple_average_days: '12.7'
+      simple_highest_days: '65'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
+    '2009':
+      complex_average_days: '91'
+      complex_highest_days: '550'
+      complex_lowest_days: '1'
+      complex_median_days: '8'
+      expedited_processing_average_days: '36'
+      expedited_processing_highest_days: '138'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '11'
+      simple_average_days: '22.4'
+      simple_highest_days: '494'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
+    '2010':
+      complex_average_days: '19.7'
+      complex_highest_days: '475'
+      complex_median_days: '8'
+      expedited_processing_average_days: '13.7'
+      expedited_processing_highest_days: '244'
+      expedited_processing_median_days: '4'
+      simple_average_days: '16'
+      simple_highest_days: '474'
+      simple_median_days: '5'
+    '2011':
+      complex_average_days: '18.4'
+      complex_highest_days: '488'
+      complex_median_days: '7'
+      expedited_processing_average_days: '9.4'
+      expedited_processing_highest_days: '119'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5'
+      simple_average_days: '12.9'
+      simple_highest_days: '502'
+      simple_median_days: '5'
+    '2012':
+      complex_average_days: '29.4'
+      complex_highest_days: '2796'
+      complex_median_days: '9'
+      expedited_processing_average_days: '15.2'
+      expedited_processing_highest_days: '193'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '7'
+      simple_average_days: '27.6'
+      simple_highest_days: '999'
+      simple_median_days: '6'
+    '2013':
+      complex_average_days: '27.4'
+      complex_highest_days: '1735'
+      complex_median_days: '9'
+      expedited_processing_average_days: '20.8'
+      expedited_processing_highest_days: '149'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '6'
+      simple_average_days: '15.3'
+      simple_highest_days: '1211'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center: 'Phone: (202) 693-1999'
   top_level: true
   usa_id: '48101'
@@ -804,6 +1214,85 @@ departments:
     - http://www.dol.gov/vets/foia/
   - - Reading Room
     - http://www.dol.gov/vets/usc/main.htm
+  request_time_stats:
+    '2008':
+      complex_average_days: '28.7'
+      complex_highest_days: '127'
+      complex_lowest_days: '2'
+      complex_median_days: '40'
+      expedited_processing_average_days: '10.2'
+      expedited_processing_highest_days: '15'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5.5'
+      simple_average_days: '11.06'
+      simple_highest_days: '32'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2009':
+      complex_average_days: '14'
+      complex_highest_days: '23'
+      complex_lowest_days: '7'
+      complex_median_days: '10'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5'
+      simple_average_days: '10.9'
+      simple_highest_days: '63'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2010':
+      complex_average_days: '26.34'
+      complex_highest_days: '252'
+      complex_lowest_days: '1'
+      complex_median_days: '12'
+      expedited_processing_average_days: '4.4'
+      expedited_processing_highest_days: '45'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5'
+      simple_average_days: '13.1'
+      simple_highest_days: '28'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2011':
+      complex_average_days: '53.7'
+      complex_highest_days: '495'
+      complex_lowest_days: '1'
+      complex_median_days: '13'
+      expedited_processing_average_days: '8'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '8'
+      simple_average_days: '12.3'
+      simple_highest_days: '28'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2012':
+      complex_average_days: '60.3'
+      complex_highest_days: '1888'
+      complex_lowest_days: '1'
+      complex_median_days: '26'
+      expedited_processing_average_days: '7.5'
+      expedited_processing_highest_days: '8'
+      expedited_processing_lowest_days: '7'
+      expedited_processing_median_days: '7.5'
+      simple_average_days: '811.9'
+      simple_highest_days: '1970'
+      simple_lowest_days: '2'
+      simple_median_days: '793'
+    '2013':
+      complex_average_days: '62.1'
+      complex_highest_days: '359'
+      complex_lowest_days: '1'
+      complex_median_days: '28'
+      expedited_processing_average_days: '59.3'
+      expedited_processing_highest_days: '226'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '5'
+      simple_average_days: '65.2'
+      simple_highest_days: '276'
+      simple_lowest_days: '1'
+      simple_median_days: '48'
   service_center: 'Phone: (202) 693-4700'
   top_level: false
   website: http://www.dol.gov/vets/foia/
@@ -1055,7 +1544,6 @@ keywords:
 - Coal
 - Colleges and universities
 - Communications equipment
-- Confidential business information
 - Construction industry
 - Consumer protection
 - Courts

@@ -34,7 +34,6 @@ departments:
   - Cattle
   - Cheese
   - Cherries
-  - Citrus fruits
   - Claims
   - Commodity futures
   - Cotton
@@ -231,6 +230,57 @@ departments:
   reading_rooms:
   - - Freedom of Information Act (FOIA) Reading Room
     - http://www.aphis.usda.gov/wps/portal/aphis/resources?1dmy&urile=wcm%3apath%3a/aphis_content_library/sa_resources/sa_laws_and_regulations/sa_foia/ct_foia
+  request_time_stats:
+    '2010':
+      complex_average_days: '368'
+      complex_highest_days: '1042'
+      complex_lowest_days: '12'
+      complex_median_days: '322'
+      expedited_processing_average_days: '383'
+      expedited_processing_highest_days: '1189'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '161'
+      simple_average_days: '112'
+      simple_highest_days: '1106'
+      simple_lowest_days: '1'
+      simple_median_days: '46'
+    '2011':
+      complex_average_days: '350.06'
+      complex_highest_days: '1027'
+      complex_median_days: '320'
+      expedited_processing_average_days: '38.67'
+      expedited_processing_highest_days: '94'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '19'
+      simple_average_days: '49.16'
+      simple_highest_days: '729'
+      simple_median_days: '20'
+    '2012':
+      complex_average_days: '200.56'
+      complex_highest_days: '534'
+      complex_lowest_days: '1'
+      complex_median_days: '146'
+      expedited_processing_average_days: '119'
+      expedited_processing_highest_days: '313'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '36'
+      simple_average_days: '51.79'
+      simple_highest_days: '843'
+      simple_lowest_days: '1'
+      simple_median_days: '26'
+    '2013':
+      complex_average_days: '160.3'
+      complex_highest_days: '1162'
+      complex_lowest_days: '15'
+      complex_median_days: '76'
+      expedited_processing_average_days: '43'
+      expedited_processing_highest_days: '61'
+      expedited_processing_lowest_days: '25'
+      expedited_processing_median_days: '43'
+      simple_average_days: '46.66'
+      simple_highest_days: '629'
+      simple_lowest_days: '1'
+      simple_median_days: '22'
   service_center: 'Phone: (301) 734-8296'
   top_level: false
   website: http://www.aphis.usda.gov/foia/
@@ -308,7 +358,6 @@ departments:
   - Conflict of interests
   - Cooperatives
   - Cotton
-  - Cottonseeds
   - Cranberries
   - Credit
   - Crop insurance
@@ -350,7 +399,6 @@ departments:
   - Grazing lands
   - Historic preservation
   - Home improvement
-  - Honey
   - Housing
   - Housing standards
   - Imports
@@ -376,7 +424,6 @@ departments:
   - Marketing quotas
   - Migrant labor
   - Military personnel
-  - Milk
   - Mortgage insurance
   - Mortgages
   - National defense
@@ -497,6 +544,49 @@ departments:
   name: Food, Nutrition & Consumer Services
   phone: 703-605-0773
   public_liaison: 'Joseph X. Tangredi, Phone: (703) 605-0773'
+  request_time_stats:
+    '2010':
+      simple_average_days: '19'
+      simple_highest_days: '178'
+      simple_lowest_days: '1'
+      simple_median_days: '12'
+    '2011':
+      complex_average_days: '33.5'
+      complex_highest_days: '86'
+      complex_lowest_days: '6'
+      complex_median_days: '28.5'
+      expedited_processing_highest_days: '65'
+      expedited_processing_lowest_days: '65'
+      simple_average_days: '25.88'
+      simple_highest_days: '361'
+      simple_lowest_days: '1'
+      simple_median_days: '17'
+    '2012':
+      complex_average_days: '28.68'
+      complex_highest_days: '262'
+      complex_lowest_days: '1'
+      complex_median_days: '20'
+      expedited_processing_average_days: '14'
+      expedited_processing_highest_days: '14'
+      expedited_processing_lowest_days: '14'
+      expedited_processing_median_days: '14'
+      simple_average_days: '26.18'
+      simple_highest_days: '226'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2013':
+      complex_average_days: '28.67'
+      complex_highest_days: '180'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      expedited_processing_average_days: '15.5'
+      expedited_processing_highest_days: '45'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '8.5'
+      simple_average_days: '17.43'
+      simple_highest_days: '62'
+      simple_lowest_days: '1'
+      simple_median_days: '17'
   service_center: 'Phone: (703) 605-0773'
   top_level: false
   website: http://www.fns.usda.gov/foia/
@@ -546,6 +636,40 @@ departments:
   reading_rooms:
   - - Electronic Reading Room
     - http://www.fsis.usda.gov/wps/portal/footer/policies-and-links/freedom-of-information-act/fsis-electronic-reading-room/fsis-electronic-reading-room
+  request_time_stats:
+    '2010':
+      complex_average_days: '119'
+      complex_highest_days: '643'
+      complex_median_days: '43'
+      simple_average_days: '44'
+      simple_highest_days: '445'
+      simple_median_days: '21'
+    '2011':
+      complex_average_days: '229.96'
+      complex_highest_days: '848'
+      complex_median_days: '167'
+      simple_average_days: '60'
+      simple_highest_days: '543'
+      simple_lowest_days: '1'
+      simple_median_days: '30'
+    '2012':
+      complex_average_days: '300.66'
+      complex_highest_days: '863'
+      complex_lowest_days: '5'
+      complex_median_days: '260'
+      simple_average_days: '56.54'
+      simple_highest_days: '488'
+      simple_lowest_days: '1'
+      simple_median_days: '27'
+    '2013':
+      complex_average_days: '61'
+      complex_highest_days: '90'
+      complex_lowest_days: '9'
+      complex_median_days: '71'
+      simple_average_days: '29.39'
+      simple_highest_days: '473'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
   service_center: 'Phone: (202) 690-3882'
   top_level: false
   website: http://www.fsis.usda.gov/FOIA/index.asp
@@ -686,6 +810,51 @@ departments:
     visiting its website.
   phone: 202-205-2497
   public_liaison: 'Sherry Turner, Phone: (202) 205-2497'
+  request_time_stats:
+    '2010':
+      complex_average_days: '38.5'
+      complex_highest_days: '328'
+      complex_median_days: '29'
+      simple_average_days: '16.42'
+      simple_highest_days: '262'
+      simple_median_days: '13'
+    '2011':
+      complex_average_days: '45.25'
+      complex_highest_days: '352'
+      complex_median_days: '25.5'
+      expedited_processing_average_days: '6.14'
+      expedited_processing_highest_days: '24'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '3'
+      simple_average_days: '23.92'
+      simple_highest_days: '590'
+      simple_median_days: '15'
+    '2012':
+      complex_average_days: '43.27'
+      complex_highest_days: '421'
+      complex_lowest_days: '1'
+      complex_median_days: '25'
+      expedited_processing_average_days: '23.12'
+      expedited_processing_highest_days: '81'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '16'
+      simple_average_days: '21.92'
+      simple_highest_days: '617'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
+    '2013':
+      complex_average_days: '47.36'
+      complex_highest_days: '575'
+      complex_lowest_days: '1'
+      complex_median_days: '29'
+      expedited_processing_average_days: '9.8'
+      expedited_processing_highest_days: '17'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '11'
+      simple_average_days: '21.71'
+      simple_highest_days: '615'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
   service_center: 'Phone: (202) 205-1542'
   top_level: false
   website: http://www.fs.fed.us/im/foia/
@@ -727,6 +896,47 @@ departments:
   reading_rooms:
   - - FOIA Reading Room
     - http://www.gipsa.usda.gov/foia.html
+  request_time_stats:
+    '2010':
+      complex_average_days: '76'
+      complex_highest_days: '133'
+      complex_lowest_days: '37'
+      complex_median_days: '44'
+      simple_average_days: '7.4'
+      simple_highest_days: '36'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
+    '2011':
+      complex_average_days: '60'
+      complex_highest_days: '91'
+      complex_lowest_days: '14'
+      complex_median_days: '74'
+      simple_average_days: '12'
+      simple_highest_days: '52'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2012':
+      complex_average_days: '40.94'
+      complex_highest_days: '113'
+      complex_lowest_days: '1'
+      complex_median_days: '32.5'
+      expedited_processing_average_days: '1'
+      expedited_processing_highest_days: '1'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
+      simple_average_days: '8.13'
+      simple_highest_days: '33'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
+    '2013':
+      complex_average_days: '61.27'
+      complex_highest_days: '244'
+      complex_lowest_days: '3'
+      complex_median_days: '33'
+      simple_average_days: '4.46'
+      simple_highest_days: '32'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
   service_center: 'Joanne Peterson, Phone: (202) 720-8087'
   top_level: false
   website: http://www.gipsa.usda.gov/foia.html
@@ -876,6 +1086,32 @@ departments:
   reading_rooms:
   - - USDA Agencies' FOIA Reading Rooms
     - http://www.dm.usda.gov/foia/agencyfoia.htm
+  request_time_stats:
+    '2010':
+      simple_average_days: '6'
+      simple_highest_days: '21'
+      simple_median_days: '6'
+    '2011':
+      complex_average_days: '0.332'
+      complex_highest_days: '15'
+      complex_lowest_days: '7'
+      complex_median_days: '7'
+      simple_average_days: '0.83'
+      simple_highest_days: '5'
+      simple_median_days: '1'
+    '2012':
+      simple_average_days: '6.4'
+      simple_highest_days: '19'
+      simple_median_days: '5'
+    '2013':
+      complex_average_days: '34.5'
+      complex_highest_days: '73'
+      complex_lowest_days: '9'
+      complex_median_days: '28'
+      simple_average_days: '8.45'
+      simple_highest_days: '18'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
   service_center: 'Phone: (202) 720-1269'
   top_level: false
   website: http://www.dm.usda.gov/foia.htm
@@ -1131,6 +1367,43 @@ departments:
   phone: 301-504-1655
   public_liaison: 'Stasia Hutchison, Monica Williams, Phone: (301) 504-1743'
   request_form: http://www.ars.usda.gov/admin/foia/foiaform.htm
+  request_time_stats:
+    '2010':
+      complex_average_days: '13'
+      complex_highest_days: '32'
+      complex_lowest_days: '1'
+      complex_median_days: '12'
+    '2011':
+      complex_average_days: '13'
+      complex_highest_days: '45'
+      complex_lowest_days: '1'
+      complex_median_days: '13'
+      expedited_processing_average_days: '17.5'
+      expedited_processing_highest_days: '18'
+      expedited_processing_lowest_days: '17'
+      expedited_processing_median_days: '17'
+    '2012':
+      complex_average_days: '18'
+      complex_highest_days: '80'
+      complex_lowest_days: '1'
+      complex_median_days: '18'
+      expedited_processing_average_days: '20'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '20'
+      expedited_processing_median_days: '20'
+      simple_average_days: '7.8'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2013':
+      complex_average_days: '18.63'
+      complex_highest_days: '89'
+      complex_lowest_days: '1'
+      complex_median_days: '19'
+      simple_average_days: '9.53'
+      simple_highest_days: '21'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
   service_center: 'Phone: (301) 504-1743'
   top_level: false
   website: http://www.ars.usda.gov/is/foia/foiaform.htm

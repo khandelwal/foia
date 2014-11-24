@@ -121,28 +121,20 @@ departments:
   - Dental health
   - Education of disadvantaged
   - Employment
-  - Fraud
   - Grant programs
-  - Grant programs-health
   - Grant programs-social programs
   - Health care
-  - Health facilities
-  - Health professions
   - Homeless
   - Indians
   - Individuals with disabilities
   - Loan programs-social programs
   - Manpower training programs
-  - Maternal and child health
-  - Medicaid
-  - Medicare
   - Mental health programs
   - Nutrition
   - Penalties
   - Public assistance programs
   - Real property acquisition
   - Reporting and recordkeeping requirements
-  - Social security
   - Technical assistance
   - Transportation
   - Unemployment compensation
@@ -512,6 +504,85 @@ departments:
   reading_rooms:
   - - FOIA Reading Room
     - http://www.cms.gov/Regulations-and-Guidance/Legislation/FOIA/rdgroom.html
+  request_time_stats:
+    '2008':
+      complex_average_days: '297.6'
+      complex_highest_days: '3211.6'
+      complex_lowest_days: '1'
+      complex_median_days: '98.7'
+      expedited_processing_average_days: '239.3'
+      expedited_processing_highest_days: '807'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '137'
+      simple_average_days: '25.9'
+      simple_highest_days: '952'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
+    '2009':
+      complex_average_days: '415'
+      complex_highest_days: '2273'
+      complex_lowest_days: '1'
+      complex_median_days: '250'
+      expedited_processing_average_days: '243'
+      expedited_processing_highest_days: '573'
+      expedited_processing_lowest_days: '48'
+      expedited_processing_median_days: '262'
+      simple_average_days: '17'
+      simple_highest_days: '1431'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
+    '2010':
+      complex_average_days: '364'
+      complex_highest_days: '3926'
+      complex_lowest_days: '1'
+      complex_median_days: '308'
+      expedited_processing_average_days: '169'
+      expedited_processing_highest_days: '416'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '145'
+      simple_average_days: '37'
+      simple_highest_days: '1262'
+      simple_lowest_days: '1'
+      simple_median_days: '27'
+    '2011':
+      complex_average_days: '218'
+      complex_highest_days: '1702'
+      complex_lowest_days: '1'
+      complex_median_days: '16'
+      expedited_processing_average_days: '188'
+      expedited_processing_highest_days: '556'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '100'
+      simple_average_days: '19'
+      simple_highest_days: '535'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2012':
+      complex_average_days: '108'
+      complex_highest_days: '598'
+      complex_lowest_days: '2'
+      complex_median_days: '14'
+      expedited_processing_average_days: '139'
+      expedited_processing_highest_days: '400'
+      expedited_processing_lowest_days: '24'
+      expedited_processing_median_days: '117'
+      simple_average_days: '14'
+      simple_highest_days: '842'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2013':
+      complex_average_days: '36'
+      complex_highest_days: '717'
+      complex_lowest_days: '1'
+      complex_median_days: '2'
+      expedited_processing_average_days: '102'
+      expedited_processing_highest_days: '512'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '37'
+      simple_average_days: '18'
+      simple_highest_days: '634'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
   service_center: 'Phone: (410) 786-5353'
   top_level: true
   usa_id: '49134'
@@ -572,7 +643,6 @@ departments:
   - HIV/AIDS
   - Health
   - Health care
-  - Health facilities
   - Health records
   - Hospitals
   - Human research subjects
@@ -722,36 +792,26 @@ departments:
   foia_officer: 'Tom Flavin, Phone: (301) 443-3376'
   keywords:
   - Administrative practice and procedure
-  - Aged
   - Biologics
   - Claims
   - Communicable diseases
   - Courts
-  - Dental health
   - Drugs
-  - Educational facilities
-  - Educational study programs
   - Fraud
-  - Grant programs-education
   - Grant programs-health
   - HIV/AIDS
   - Health
   - Health care
-  - Health facilities
   - Health insurance
   - Health professions
   - Hospitals
   - Immunization
   - Insurance companies
-  - Loan programs
   - Maternal and child health
-  - Medical and dental schools
   - Medical devices
   - Public health
   - Reporting and recordkeeping requirements
-  - Scholarships and fellowships
   - Smallpox
-  - Student aid
   name: Health Resources and Services Administration
   phone: 301-443-3376
   public_liaison: 'Tom Flavin, Phone: (301) 443-3376'
@@ -1117,7 +1177,6 @@ keywords:
 - Cosmetics
 - Courts
 - Cream
-- Cuba
 - Cultural exchange programs
 - Day care
 - Dental health
@@ -1126,8 +1185,6 @@ keywords:
 - Drug abuse
 - Drugs
 - Education of disadvantaged
-- Educational facilities
-- Educational study programs
 - Eggs and egg products
 - Electronic products
 - Emergency medical services
@@ -1153,7 +1210,6 @@ keywords:
 - Government contracts
 - Government employees
 - Government procurement
-- Government property
 - Government property management
 - Grant programs
 - Grant programs-Indians

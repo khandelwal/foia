@@ -29,12 +29,6 @@ Administrative Conference of the United States,2010,ACUS,20,20,20,20,20,20,20,20
 Administrative Conference of the United States,2011,ACUS,1.6,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA
 Administrative Conference of the United States,2012,ACUS,2,3,1,5,NA,NA,NA,NA,3,3,3,3
 Administrative Conference of the United States,2013,ACUS,1.2,1,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
-Administrative Law Judges,2008,U.S. DOL,NA,NA,NA,NA,11.7,2,1,342,NA,NA,NA,NA
-Administrative Law Judges,2009,U.S. DOL,NA,NA,NA,NA,9.6,3,1,175,2.8,2,1,20
-Administrative Law Judges,2010,U.S. DOL,NA,NA,NA,NA,9.7,4,1,326,6.8,2,1,29
-Administrative Law Judges,2011,U.S. DOL,NA,NA,NA,NA,4.3,2,1,34,6.4,2,1,43
-Administrative Law Judges,2012,U.S. DOL,NA,NA,NA,NA,7.2,3,1,171,6,2,1,19
-Administrative Law Judges,2013,U.S. DOL,4,4,4,4,10.3,2,1,408,1.8,1.5,1,3
 Agency Overall,2008,HUD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Agency Overall,2009,HUD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Agency Overall,2010,HUD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -64,10 +58,10 @@ Ames Research Center,2010,NASA,41.81,20,NA,319,NA,NA,NA,NA,NA,NA,NA,NA
 Ames Research Center,2011,NASA,32.59,20.5,NA,276,193,79,20,480,NA,NA,NA,NA
 Ames Research Center,2012,NASA,12.96,10,NA,56,60.35,17,NA,533,NA,NA,NA,NA
 Ames Research Center,2013,NASA,12,16,NA,20,26.9,21,NA,126,NA,NA,NA,NA
-Animal and Plant Health Inspection Service,2010,USDA,112,46,1,1106,368,322,12,1042,383,161,3,1189
-Animal and Plant Health Inspection Service,2011,USDA,49.16,20,NA,729,350.06,320,NA,1027,38.67,19,3,94
-Animal and Plant Health Inspection Service,2012,USDA,51.79,26,1,843,200.56,146,1,534,119,36,8,313
-Animal and Plant Health Inspection Service,2013,USDA,46.66,22,1,629,160.3,76,15,1162,43,43,25,61
+Animal & Plant Health Inspection,2010,USDA,112,46,1,1106,368,322,12,1042,383,161,3,1189
+Animal & Plant Health Inspection,2011,USDA,49.16,20,NA,729,350.06,320,NA,1027,38.67,19,3,94
+Animal & Plant Health Inspection,2012,USDA,51.79,26,1,843,200.56,146,1,534,119,36,8,313
+Animal & Plant Health Inspection,2013,USDA,46.66,22,1,629,160.3,76,15,1162,43,43,25,61
 Antitrust Division,2008,DOJ,17,10,1,94,458,328,2,2341,NA,NA,NA,NA
 Antitrust Division,2009,DOJ,9,5,1,71,404,102,1,1871,NA,NA,NA,NA
 Antitrust Division,2010,DOJ,10.03,7,1,28,402.41,253,1,1600,NA,NA,NA,NA
@@ -82,44 +76,32 @@ Appeals,2011,DOI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Armed Forces Retirement Home,2011,AFRH,32,32,25,39,49,49,47,51,NA,NA,NA,NA
 Armed Forces Retirement Home,2012,AFRH,111,14.5,4,656,NA,NA,NA,NA,NA,NA,NA,NA
 Armed Forces Retirement Home,2013,AFRH,14,16,1,21,NA,NA,NA,NA,NA,NA,NA,NA
-Armed Service Board of Contract Appeals,2008,DoD,2,2,1,3,13,8,2,37,NA,NA,NA,NA
-Armed Service Board of Contract Appeals,2009,DoD,5,5,3,15,5,5,3,15,NA,NA,NA,NA
-Armed Service Board of Contract Appeals,2010,DoD,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA
-Armed Service Board of Contract Appeals,2011,DoD,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA
-Armed Service Board of Contract Appeals,2012,DoD,21,18,2,46,NA,NA,NA,NA,NA,NA,NA,NA
-Armed Service Board of Contract Appeals,2013,DoD,5,3,1,10,NA,NA,NA,NA,NA,NA,NA,NA
+Armed Services Board of Contract Appeals,2008,DoD,2,2,1,3,13,8,2,37,NA,NA,NA,NA
+Armed Services Board of Contract Appeals,2009,DoD,5,5,3,15,5,5,3,15,NA,NA,NA,NA
+Armed Services Board of Contract Appeals,2010,DoD,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA
+Armed Services Board of Contract Appeals,2011,DoD,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA
+Armed Services Board of Contract Appeals,2012,DoD,21,18,2,46,NA,NA,NA,NA,NA,NA,NA,NA
+Armed Services Board of Contract Appeals,2013,DoD,5,3,1,10,NA,NA,NA,NA,NA,NA,NA,NA
 Assistant General Counsel for Administration,2008,DOC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Assistant General Counsel for Administration,2009,DOC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Assistant General Counsel for Administration,2010,DOC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Assistant General Counsel for Administration,2011,DOC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Assistant General Counsel for Administration,2012,DOC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Assistant General Counsel for Administration,2013,DOC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Atlanta District Office,2010,EEOC,5.4618,1,1,23,NA,NA,NA,NA,NA,NA,NA,NA
-Atlanta District Office,2011,EEOC,13.4248,15,1,33,NA,NA,NA,NA,NA,NA,NA,NA
-Atlanta District Office,2012,EEOC,30.04,21,1,517,NA,NA,NA,NA,NA,NA,NA,NA
-Atlanta District Office,2013,EEOC,21.6,16,1,164,NA,NA,NA,NA,NA,NA,NA,NA
+Atlanta District Office (Savanna Local Office),2010,EEOC,5.4618,1,1,23,NA,NA,NA,NA,NA,NA,NA,NA
+Atlanta District Office (Savanna Local Office),2011,EEOC,13.4248,15,1,33,NA,NA,NA,NA,NA,NA,NA,NA
+Atlanta District Office (Savanna Local Office),2012,EEOC,30.04,21,1,517,NA,NA,NA,NA,NA,NA,NA,NA
+Atlanta District Office (Savanna Local Office),2013,EEOC,21.6,16,1,164,NA,NA,NA,NA,NA,NA,NA,NA
 Atlanta Regional Office,2008,FLRA,10,8,5,19,NA,NA,NA,NA,NA,NA,NA,NA
 Atlanta Regional Office,2009,FLRA,8,7,6,10,NA,NA,NA,NA,NA,NA,NA,NA
 Atlanta Regional Office,2010,FLRA,3,10,1,13,NA,NA,NA,NA,NA,NA,NA,NA
 Atlanta Regional Office,2011,FLRA,11,14,4,16,NA,NA,NA,NA,NA,NA,NA,NA
 Atlanta Regional Office,2012,FLRA,8,10,2,12,NA,NA,NA,NA,NA,NA,NA,NA
 Atlanta Regional Office,2013,FLRA,12,10,4,20,NA,NA,NA,NA,NA,NA,NA,NA
-"Authority Member, Administrative Law Judges & Solicitor",2008,FLRA,79,20,1,325,NA,NA,NA,NA,NA,NA,NA,NA
-"Authority Member, Administrative Law Judges & Solicitor",2009,FLRA,146,18,1,1061,NA,NA,NA,NA,NA,NA,NA,NA
-"Authority Member, Administrative Law Judges & Solicitor",2010,FLRA,27,17,1,250,NA,NA,NA,NA,NA,NA,NA,NA
-"Authority Member, Administrative Law Judges & Solicitor",2011,FLRA,13,13,NA,32,NA,NA,NA,NA,NA,NA,NA,NA
-"Authority Member, Administrative Law Judges & Solicitor",2012,FLRA,12,11,1,28,66,12,21,156,NA,NA,NA,NA
-"Authority Member, Administrative Law Judges & Solicitor",2013,FLRA,10.64,10,NA,49,37.33,38,18,56,NA,NA,NA,NA
-Birmingham District Office,2010,EEOC,16.3047,17,1,69,NA,NA,NA,NA,NA,NA,NA,NA
-Birmingham District Office,2011,EEOC,18.6876,19,1,78,NA,NA,NA,NA,NA,NA,NA,NA
-Birmingham District Office,2012,EEOC,19.63,19,1,72,NA,NA,NA,NA,NA,NA,NA,NA
-Birmingham District Office,2013,EEOC,22.95,22,1,109,NA,NA,NA,NA,14,14,1,27
-Board of Governors of the Federal Reserve System,2008,FRB,3,2,NA,32,19,11,NA,138,136,136,134,138
-Board of Governors of the Federal Reserve System,2009,FRB,4,2,NA,39,33,29,NA,344,28,30,2,87
-Board of Governors of the Federal Reserve System,2010,FRB,5,2,1,120,105,55,1,487,12,24,1,24
-Board of Governors of the Federal Reserve System,2011,FRB,3,1,NA,33,47,21,NA,516,NA,NA,NA,NA
-Board of Governors of the Federal Reserve System,2012,FRB,3,2,1,30,62,31,1,765,28,28,26,31
-Board of Governors of the Federal Reserve System,2013,FRB,5,2,NA,164,60,30,1,1027,355,358,350,358
+"Birmingham District Office (Mobile Local Office, Jackson Area Office)",2010,EEOC,16.3047,17,1,69,NA,NA,NA,NA,NA,NA,NA,NA
+"Birmingham District Office (Mobile Local Office, Jackson Area Office)",2011,EEOC,18.6876,19,1,78,NA,NA,NA,NA,NA,NA,NA,NA
+"Birmingham District Office (Mobile Local Office, Jackson Area Office)",2012,EEOC,19.63,19,1,72,NA,NA,NA,NA,NA,NA,NA,NA
+"Birmingham District Office (Mobile Local Office, Jackson Area Office)",2013,EEOC,22.95,22,1,109,NA,NA,NA,NA,14,14,1,27
 Board of Veterans Appeals,2008,VA,NA,NA,NA,NA,10,8.5,1,24,NA,NA,NA,NA
 Board of Veterans' Appeals,2009,VA,NA,NA,NA,NA,11.5,8,1,32,NA,NA,NA,NA
 Board of Veterans' Appeals,2010,VA,NA,NA,NA,NA,39.2,25,NA,191,NA,NA,NA,NA
@@ -142,12 +124,12 @@ Broadcasting Board of Governors,2010,BBG,22,19,1,69,79,70,17,223,NA,NA,NA,NA
 Broadcasting Board of Governors,2011,BBG,NA,NA,NA,NA,31,28,1,117,52,52,52,52
 Broadcasting Board of Governors,2012,BBG,NA,NA,NA,NA,32,26,3,118,36,30,37,49
 Broadcasting Board of Governors,2013,BBG,NA,NA,NA,NA,44,38,6,99,NA,NA,NA,NA
-"Bureau of Alcohal, Tobacco, Firearms and Explosives",2008,DOJ,13,11,1,209,NA,NA,NA,NA,NA,NA,NA,NA
-"Bureau of Alcohal, Tobacco, Firearms and Explosives",2009,DOJ,13,7,1,250,NA,NA,NA,NA,NA,NA,NA,NA
-"Bureau of Alcohal, Tobacco, Firearms and Explosives",2010,DOJ,NA,NA,NA,NA,22.11,12,NA,386,4,2,1,9
-"Bureau of Alcohal, Tobacco, Firearms and Explosives",2011,DOJ,NA,NA,NA,NA,19.64,12,NA,440,188,188,3,373
-"Bureau of Alcohal, Tobacco, Firearms and Explosives",2012,DOJ,NA,NA,NA,NA,19.01,14,NA,266,NA,NA,NA,NA
-"Bureau of Alcohal, Tobacco, Firearms and Explosives",2013,DOJ,NA,NA,NA,NA,50.05,28,NA,600,95,95,95,95
+"Bureau of Alcohol, Tobacco, Firearms, and Explosives",2008,DOJ,13,11,1,209,NA,NA,NA,NA,NA,NA,NA,NA
+"Bureau of Alcohol, Tobacco, Firearms, and Explosives",2009,DOJ,13,7,1,250,NA,NA,NA,NA,NA,NA,NA,NA
+"Bureau of Alcohol, Tobacco, Firearms, and Explosives",2010,DOJ,NA,NA,NA,NA,22.11,12,NA,386,4,2,1,9
+"Bureau of Alcohol, Tobacco, Firearms, and Explosives",2011,DOJ,NA,NA,NA,NA,19.64,12,NA,440,188,188,3,373
+"Bureau of Alcohol, Tobacco, Firearms, and Explosives",2012,DOJ,NA,NA,NA,NA,19.01,14,NA,266,NA,NA,NA,NA
+"Bureau of Alcohol, Tobacco, Firearms, and Explosives",2013,DOJ,NA,NA,NA,NA,50.05,28,NA,600,95,95,95,95
 Bureau of Engraving and Printing,2008,Treasury,7.5,5,1,20,11,5,1,20,4.5,5,1,6
 Bureau of Engraving and Printing,2009,Treasury,7.8,7,1,20,17.9,26,1,27,NA,NA,NA,NA
 Bureau of Engraving and Printing,2010,Treasury,10.4,16,1,20,11,15,4,20,1,NA,1,1
@@ -160,12 +142,12 @@ Bureau of Indian Affairs,2010,DOI,3,2,NA,48,33,20,NA,785,NA,NA,NA,NA
 Bureau of Indian Affairs,2011,DOI,2,2,NA,23,32,19,NA,671,NA,NA,NA,NA
 Bureau of Indian Affairs,2012,DOI,1,1,NA,23,27,17,NA,736,NA,NA,NA,NA
 Bureau of Indian Affairs,2013,DOI,2,1,NA,22,23,14,NA,620,13,12,8,20
-Bureau of Industrty and Security,2008,DOC,11,9,1,31,46,46,19,73,14,14,14,14
-Bureau of Industrty and Security,2009,DOC,15,6,1,112,74,51,10,214,NA,NA,NA,NA
-Bureau of Industrty and Security,2010,DOC,25,15,1,181,225,225,225,225,3,1,3,7
-Bureau of Industrty and Security,2011,DOC,19,16,1,31,101,101,101,102,NA,NA,NA,NA
-Bureau of Industrty and Security,2012,DOC,15,10,4,66,NA,NA,NA,NA,7,7,7,7
-Bureau of Industrty and Security,2013,DOC,8,7,1,20,28,25,8,61,16,16,16,16
+Bureau of Industry and Security,2008,DOC,11,9,1,31,46,46,19,73,14,14,14,14
+Bureau of Industry and Security,2009,DOC,15,6,1,112,74,51,10,214,NA,NA,NA,NA
+Bureau of Industry and Security,2010,DOC,25,15,1,181,225,225,225,225,3,1,3,7
+Bureau of Industry and Security,2011,DOC,19,16,1,31,101,101,101,102,NA,NA,NA,NA
+Bureau of Industry and Security,2012,DOC,15,10,4,66,NA,NA,NA,NA,7,7,7,7
+Bureau of Industry and Security,2013,DOC,8,7,1,20,28,25,8,61,16,16,16,16
 Bureau of International Labor Affairs,2008,U.S. DOL,NA,NA,NA,NA,29.3,13,2,131,NA,NA,NA,NA
 Bureau of International Labor Affairs,2009,U.S. DOL,8,8,8,8,26.3,19,1,34,NA,NA,NA,NA
 Bureau of International Labor Affairs,2010,U.S. DOL,NA,NA,NA,NA,19.4,13,5,63,NA,NA,NA,NA
@@ -188,12 +170,6 @@ Bureau of Land Management,2013,DOI,4,3,NA,17,45,21,NA,653,106,106,106,106
 "Bureau of Ocean Energy Management, Regulation and Enforcement",2011,DOI,NA,NA,NA,NA,65,20,NA,322,191,204,NA,265
 Bureau of Ocean Energy Management,2012,DOI,11,8,NA,27,45,27,NA,269,28,28,15,41
 Bureau of Ocean Energy Management,2013,DOI,4,2,1,10,95,30,NA,361,99,99,NA,99
-Bureau of Prisons,2008,DOJ,15.87,4,NA,247,40.37,27,NA,246,2.4,1,NA,10
-Bureau of Prisons,2009,DOJ,18,7,NA,200,53,37,NA,285,4,3,NA,12
-Bureau of Prisons,2010,DOJ,19.13,3,NA,469,67.79,40,NA,394,25.75,21.5,12,48
-Bureau of Prisons,2011,DOJ,26.99,10,NA,694,116.61,81,NA,647,20.5,7,3,65
-Bureau of Prisons,2012,DOJ,16.89,6,NA,642,96.09,65,NA,744,37.38,19,NA,125
-Bureau of Prisons,2013,DOJ,17.07,4,NA,545,108.48,67,NA,784,44.09,9,NA,292
 Bureau of Public Debt,2008,Treasury,NA,NA,NA,NA,6.2,4,1,26,NA,NA,NA,NA
 Bureau of Public Debt,2009,Treasury,NA,NA,NA,NA,5.2,3,1,37,NA,NA,NA,NA
 Bureau of Public Debt,2010,Treasury,NA,NA,NA,NA,8.2,6,1,71,NA,NA,NA,NA
@@ -208,55 +184,55 @@ Bureau of Reclamation,2012,DOI,9,9,1,17,29,16,NA,381,NA,NA,NA,NA
 Bureau of Reclamation,2013,DOI,4,3,NA,13,17,16,NA,94,25,25,25,25
 Bureau of Safety and Environmental Enforcement,2012,DOI,11,11,8,13,65,22,NA,538,NA,NA,NA,NA
 Bureau of Safety and Environmental Enforcement,2013,DOI,3,3,1,7,86,29,NA,617,224,48,46,579
-Bureau of the Census,2008,DOC,16,16,1,97,NA,NA,NA,NA,14,14,4,24
-Bureau of the Census,2009,DOC,11,9,1,66,NA,NA,NA,NA,24,24,20,30
-Bureau of the Census,2010,DOC,18,18,1,125,NA,NA,NA,NA,39,33,30,60
-Bureau of the Census,2011,DOC,23,19,1,206,NA,NA,NA,NA,26,10,2,100
-Bureau of the Census,2012,DOC,18,19,1,39,23,18,1,239,18,20,8,29
-Bureau of the Census,2013,DOC,4,4,NA,19,6,1,NA,167,10,11,8,28
 Carlsbad Field Office,2008,DOE,5,3,1,15,18,23,6,24,7,7,6,7
 Carlsbad Field Office,2009,DOE,9,9,7,10,12,7,1,23,NA,NA,NA,NA
 Carlsbad Field Office,2010,DOE,7.38,5,NA,33,NA,NA,NA,NA,NA,NA,NA,NA
 Carlsbad Field Office,2011,DOE,10.83,10,1,27,NA,NA,NA,NA,NA,NA,NA,NA
 Carlsbad Field Office,2012,DOE,17.36,5.5,NA,163,NA,NA,NA,NA,NA,NA,NA,NA
 Carlsbad Field Office,2013,DOE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Census Bureau,2008,DOC,16,16,1,97,NA,NA,NA,NA,14,14,4,24
+Census Bureau,2009,DOC,11,9,1,66,NA,NA,NA,NA,24,24,20,30
+Census Bureau,2010,DOC,18,18,1,125,NA,NA,NA,NA,39,33,30,60
+Census Bureau,2011,DOC,23,19,1,206,NA,NA,NA,NA,26,10,2,100
+Census Bureau,2012,DOC,18,19,1,39,23,18,1,239,18,20,8,29
+Census Bureau,2013,DOC,4,4,NA,19,6,1,NA,167,10,11,8,28
+Center for Medicare and Medicaid Services,2008,HHS,25.9,18,1,952,297.6,98.7,1,3211.6,239.3,137,1,807
+Center for Medicare and Medicaid Services,2009,HHS,17,10,1,1431,415,250,1,2273,243,262,48,573
+Center for Medicare and Medicaid Services,2010,HHS,37,27,1,1262,364,308,1,3926,169,145,3,416
+Center for Medicare and Medicaid Services,2011,HHS,19,8,1,535,218,16,1,1702,188,100,3,556
+Center for Medicare and Medicaid Services,2012,HHS,14,11,1,842,108,14,2,598,139,117,24,400
+Center for Medicare and Medicaid Services,2013,HHS,18,11,1,634,36,2,1,717,102,37,1,512
 Centers for Disease Control and Prevention,2008,HHS,14.2,2,NA,396,60.35,17,NA,463,7.88,6,NA,39
 Centers for Disease Control and Prevention,2009,HHS,49,16,NA,652,84,27,NA,681,1.5,1.5,1,2
 Centers for Disease Control and Prevention,2010,HHS,90.18,18,1,848,95.26,35,1,927,145.22,121,21,321
 Centers for Disease Control and Prevention,2011,HHS,44.32,26.5,NA,292,73.37,32,NA,1000,NA,NA,NA,NA
 Centers for Disease Control and Prevention,2012,HHS,74,18,6,536,102,62,1,1119,NA,NA,NA,NA
 Centers for Disease Control and Prevention,2013,HHS,90.21,21,1,1041,150,52,1,1541,97,97,97,97
-Centers for Medicare & Medicaid Services,2008,HHS,25.9,18,1,952,297.6,98.7,1,3211.6,239.3,137,1,807
-Centers for Medicare & Medicaid Services,2009,HHS,17,10,1,1431,415,250,1,2273,243,262,48,573
-Centers for Medicare & Medicaid Services,2010,HHS,37,27,1,1262,364,308,1,3926,169,145,3,416
-Centers for Medicare & Medicaid Services,2011,HHS,19,8,1,535,218,16,1,1702,188,100,3,556
-Centers for Medicare & Medicaid Services,2012,HHS,14,11,1,842,108,14,2,598,139,117,24,400
-Centers for Medicare & Medicaid Services,2013,HHS,18,11,1,634,36,2,1,717,102,37,1,512
 Central Intelligence Agency,2009,CIA,37,15,NA,1775,146,51,NA,5005,117,61,6,338
 Central Intelligence Agency,2010,CIA,19,10,NA,1711,109,32,NA,2917,5,5,5,5
 Central Intelligence Agency,2011,CIA,23.95,10,NA,1242,113.76,32,NA,3104,33.17,11,2,209
 Central Intelligence Agency,2012,CIA,32,12,NA,1846,93,30,NA,1939,84,58,15,212
 Central Intelligence Agency,2013,CIA,35.18,13,1,2411,186.02,62,1,3055,1032,1032,1021,1043
-Charlotte District Office,2010,EEOC,18.5764,19,1,57,NA,NA,NA,NA,NA,NA,NA,NA
-Charlotte District Office,2011,EEOC,20.7727,19,1,261,NA,NA,NA,NA,1,1,1,1
-Charlotte District Office,2012,EEOC,18.52,19,1,30,NA,NA,NA,NA,NA,NA,NA,NA
-Charlotte District Office,2013,EEOC,17.87,19,1,30,NA,NA,NA,NA,6.4,2.5,1,19
+"Charlotte District Office (Greensboro; Greenville, Norfolk, Richmond Local Offices; Raleigh Area Office",2010,EEOC,18.5764,19,1,57,NA,NA,NA,NA,NA,NA,NA,NA
+"Charlotte District Office (Greensboro; Greenville, Norfolk, Richmond Local Offices; Raleigh Area Office",2011,EEOC,20.7727,19,1,261,NA,NA,NA,NA,1,1,1,1
+"Charlotte District Office (Greensboro; Greenville, Norfolk, Richmond Local Offices; Raleigh Area Office",2012,EEOC,18.52,19,1,30,NA,NA,NA,NA,NA,NA,NA,NA
+"Charlotte District Office (Greensboro; Greenville, Norfolk, Richmond Local Offices; Raleigh Area Office",2013,EEOC,17.87,19,1,30,NA,NA,NA,NA,6.4,2.5,1,19
 Chemical Safety and Hazard Investigation Board,2008,CSB,18,20,1,33,437,459,59,721,NA,NA,NA,NA
 Chemical Safety and Hazard Investigation Board,2009,CSB,19,20,1,20,360,268,8,1053,NA,NA,NA,NA
 Chemical Safety and Hazard Investigation Board,2010,CSB,16,20,2,20,669,725,283,917,27,27,27,27
 Chemical Safety and Hazard Investigation Board,2011,CSB,18,20,9,20,429,283,35,1530,107,20,5,296
 Chemical Safety and Hazard Investigation Board,2012,CSB,17,20,2,41,413,382,30,977,188,35,8,880
 Chemical Safety and Hazard Investigation Board,2013,CSB,4,5,NA,14,664,685,38,1192,NA,NA,NA,NA
-Chicago District Office,2010,EEOC,13.6918,16,1,157,NA,NA,NA,NA,NA,NA,NA,NA
-Chicago District Office,2011,EEOC,14.3398,17,1,95,NA,NA,NA,NA,NA,NA,NA,NA
-Chicago District Office,2012,EEOC,16.38,18,1,39,NA,NA,NA,NA,NA,NA,NA,NA
-Chicago District Office,2013,EEOC,15.72,18,1,55,NA,NA,NA,NA,NA,NA,NA,NA
-Chicago Operations Office,2008,DOE,6,3,1,24,31,28,16,55,16,16,16,16
-Chicago Operations Office,2009,DOE,5,2,1,19,16,16,1,31,NA,NA,NA,NA
-Chicago Operations Office,2010,DOE,5.64,3,NA,20,23.79,19,7,112,NA,NA,NA,NA
-Chicago Operations Office,2011,DOE,5.6,4,NA,20,19.5,19,NA,41,NA,NA,NA,NA
-Chicago Operations Office,2012,DOE,4.12,3,NA,26,16,17,NA,34,NA,NA,NA,NA
-Chicago Operations Office,2013,DOE,5.98,3,NA,65,41.08,20,NA,321,NA,NA,NA,NA
+Chicago District Office (Milwaukee and Minneapolis Area Offices),2010,EEOC,13.6918,16,1,157,NA,NA,NA,NA,NA,NA,NA,NA
+Chicago District Office (Milwaukee and Minneapolis Area Offices),2011,EEOC,14.3398,17,1,95,NA,NA,NA,NA,NA,NA,NA,NA
+Chicago District Office (Milwaukee and Minneapolis Area Offices),2012,EEOC,16.38,18,1,39,NA,NA,NA,NA,NA,NA,NA,NA
+Chicago District Office (Milwaukee and Minneapolis Area Offices),2013,EEOC,15.72,18,1,55,NA,NA,NA,NA,NA,NA,NA,NA
+Chicago Office,2008,DOE,6,3,1,24,31,28,16,55,16,16,16,16
+Chicago Office,2009,DOE,5,2,1,19,16,16,1,31,NA,NA,NA,NA
+Chicago Office,2010,DOE,5.64,3,NA,20,23.79,19,7,112,NA,NA,NA,NA
+Chicago Office,2011,DOE,5.6,4,NA,20,19.5,19,NA,41,NA,NA,NA,NA
+Chicago Office,2012,DOE,4.12,3,NA,26,16,17,NA,34,NA,NA,NA,NA
+Chicago Office,2013,DOE,5.98,3,NA,65,41.08,20,NA,321,NA,NA,NA,NA
 Chicago Regional Office,2008,FLRA,4,3,1,9,NA,NA,NA,NA,NA,NA,NA,NA
 Chicago Regional Office,2009,FLRA,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA
 Chicago Regional Office,2010,FLRA,13,6,4,39,NA,NA,NA,NA,NA,NA,NA,NA
@@ -275,6 +251,10 @@ Civil Rights Division,2010,DOJ,8.69,5,NA,50,225.55,162,1,1108,NA,NA,NA,NA
 Civil Rights Division,2011,DOJ,5.8,2,NA,50,113,37.5,NA,933,22,22,22,22
 Civil Rights Division,2012,DOJ,10.76,4.5,NA,413,302,312,1,834,102,102,102,102
 Civil Rights Division,2013,DOJ,9.03,4,NA,135,278.86,279,NA,861,NA,NA,NA,NA
+Commission on Civil Rights,2010,USCCR,15,7.5,1,161,NA,NA,NA,NA,NA,NA,NA,NA
+Commission on Civil Rights,2011,USCCR,NA,NA,NA,NA,40,14,NA,742,NA,NA,NA,NA
+Commission on Civil Rights,2012,USCCR,7,1,1,6,22,10,3,63,NA,NA,NA,NA
+Commission on Civil Rights,2013,USCCR,3,1,NA,21,14,14,14,14,NA,NA,NA,NA
 Committee for Purchase From People Who Are Blind or Severely Disabled,2008,CPPBSD,NA,NA,NA,NA,16,10,1,96,NA,NA,NA,NA
 Committee for Purchase From People Who Are Blind or Severely Disabled,2009,CPPBSD,11,8.5,5,28,45,34.5,11,101,NA,NA,NA,NA
 Committee for Purchase From People Who Are Blind or Severely Disabled,2010,CPPBSD,1.7,2,1,4,8.5,6.5,3,18,NA,NA,NA,NA
@@ -293,9 +273,21 @@ Community Relations Service,2010,DOJ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Community Relations Service,2011,DOJ,10.3,8.5,NA,29,33,33,33,33,NA,NA,NA,NA
 Community Relations Service,2012,DOJ,10.57,8,4,42,31,30,25,38,NA,NA,NA,NA
 Community Relations Service,2013,DOJ,8.13,8,NA,19,16,16,11,21,NA,NA,NA,NA
+Comptroller of the Currency,2008,Treasury,10,5,1,20,15,10,1,20,NA,NA,NA,NA
+Comptroller of the Currency,2009,Treasury,9,4,1,10,13,6,1,20,3,2,1,5
+Comptroller of the Currency,2010,Treasury,11.46,6,NA,131,27.23,26,NA,185,6.92,5,NA,33
+Comptroller of the Currency,2011,Treasury,8.8,3,1,130,47.7,33,7,126,15.1,8,1,116
+Comptroller of the Currency,2012,Treasury,9,3,NA,254,39,26,NA,187,26,21,NA,139
+Comptroller of the Currency,2013,Treasury,10.51,7,NA,648,31.5,27.5,NA,108,19.8,18,NA,71
+Consumer Financial Protection Bureau,2013,CFPB,8.36,6.5,NA,41,31.07,28,NA,128,NA,NA,NA,NA
+Consumer Product Safety Commission,2008,U.S. CPSC,12,10,1,50,85,60,5,780,NA,NA,NA,NA
+Consumer Product Safety Commission,2009,U.S. CPSC,33,17,NA,332,68,68,1,368,NA,NA,NA,NA
+Consumer Product Safety Commission,2010,U.S. CPSC,40,19,1,350,87,65,1,617,NA,NA,NA,NA
+Consumer Product Safety Commission,2011,U.S. CPSC,51,9,1,580,97,64,1,632,NA,NA,NA,NA
+Consumer Product Safety Commission,2012,U.S. CPSC,35,8,1,615,102,77,1,644,99,99,99,99
+Consumer Product Safety Commission,2013,U.S. CPSC,27,11,1,402,96,53,1,1159,NA,NA,NA,NA
 Consumer Protection Financial Board,2011,Treasury,11,13,6,13,13,13,6,91,NA,NA,NA,NA
 Consumer Protection Financial Board,2012,Treasury,8.5,8,1,39,48.5,48,1,180,NA,NA,NA,NA
-Consumer Protection Financial Board,2013,CFPB,8.36,6.5,NA,41,31.07,28,NA,128,NA,NA,NA,NA
 Corporation for National and Community Service,2008,CNCS,9,7,1,20,NA,NA,NA,NA,NA,NA,NA,NA
 Corporation for National and Community Service,2009,CNCS,9.72,6,1,40,NA,NA,NA,NA,NA,NA,NA,NA
 Corporation for National and Community Service,2010,CNCS,20,17,NA,82,40.3,17,17,147,18,18,18,18
@@ -325,10 +317,10 @@ Criminal Division,2013,DOJ,23.62,16,NA,306,101.03,63,7,787,NA,NA,NA,NA
 DEPARTMENT OF DEFENSE INSPECTOR GENERAL,2011,DoD,5,4,NA,17,38,17,NA,326,50,10,6,133
 DEPARTMENT OF DEFENSE INSPECTOR GENERAL,2012,DoD,7,5,1,103,145,61,1,1604,22,22,22,22
 DEPARTMENT OF DEFENSE INSPECTOR GENERAL,2013,DoD,6,4,1,19,126,33,10,1665,25,26,5,62
-Dallas District Office,2010,EEOC,7.71501,4,1,76,NA,NA,NA,NA,1,1,1,1
-Dallas District Office,2011,EEOC,12.7161,9,1,86,NA,NA,NA,NA,NA,NA,NA,NA
-Dallas District Office,2012,EEOC,14.84,9,1,127,NA,NA,NA,NA,NA,NA,NA,NA
-Dallas District Office,2013,EEOC,16.25,9,1,110,NA,NA,NA,NA,12,15,5,15
+"Dallas District Office (San Antonio Field Office, El Paso Area Office)",2010,EEOC,7.71501,4,1,76,NA,NA,NA,NA,1,1,1,1
+"Dallas District Office (San Antonio Field Office, El Paso Area Office)",2011,EEOC,12.7161,9,1,86,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas District Office (San Antonio Field Office, El Paso Area Office)",2012,EEOC,14.84,9,1,127,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas District Office (San Antonio Field Office, El Paso Area Office)",2013,EEOC,16.25,9,1,110,NA,NA,NA,NA,12,15,5,15
 Dallas Regional Office,2008,FLRA,7,7,7,7,NA,NA,NA,NA,NA,NA,NA,NA
 Dallas Regional Office,2009,FLRA,6,6,6,6,NA,NA,NA,NA,NA,NA,NA,NA
 Dallas Regional Office,2010,FLRA,15,20,1,20,NA,NA,NA,NA,NA,NA,NA,NA
@@ -341,12 +333,12 @@ Defense Commissary Agency,2010,DoD,11,9,1,88,NA,NA,NA,NA,NA,NA,NA,NA
 Defense Commissary Agency,2011,DoD,11,NA,NA,65,NA,NA,NA,NA,NA,NA,NA,NA
 Defense Commissary Agency,2012,DoD,9,NA,NA,80,NA,NA,NA,NA,NA,NA,NA,NA
 Defense Commissary Agency,2013,DoD,13,6,NA,179,NA,NA,NA,NA,NA,NA,NA,NA
-Defense Contract Audit Agency,2008,DoD,7,7,1,22,24,13,1,249,7,7,7,7
-Defense Contract Audit Agency,2009,DoD,8,7,1,79,25,20,13,43,NA,NA,NA,NA
-Defense Contract Audit Agency,2010,DoD,23,6,1,365,81,77,20,225,NA,NA,NA,NA
-Defense Contract Audit Agency,2011,DoD,5,14,1,28,15,21,1,42,NA,NA,NA,NA
-Defense Contract Audit Agency,2012,DoD,6,4,1,31,19,12,3,57,NA,NA,NA,NA
-Defense Contract Audit Agency,2013,DoD,4,11,1,22,22,47,5,95,NA,NA,NA,NA
+Defense Contract Audit Agency - Headquarters,2008,DoD,7,7,1,22,24,13,1,249,7,7,7,7
+Defense Contract Audit Agency - Headquarters,2009,DoD,8,7,1,79,25,20,13,43,NA,NA,NA,NA
+Defense Contract Audit Agency - Headquarters,2010,DoD,23,6,1,365,81,77,20,225,NA,NA,NA,NA
+Defense Contract Audit Agency - Headquarters,2011,DoD,5,14,1,28,15,21,1,42,NA,NA,NA,NA
+Defense Contract Audit Agency - Headquarters,2012,DoD,6,4,1,31,19,12,3,57,NA,NA,NA,NA
+Defense Contract Audit Agency - Headquarters,2013,DoD,4,11,1,22,22,47,5,95,NA,NA,NA,NA
 Defense Contract Management Agency,2008,DoD,8,5,1,31,71,66,20,371,NA,NA,NA,NA
 Defense Contract Management Agency,2009,DoD,20,11,1,153,133,65,12,506,NA,NA,NA,NA
 Defense Contract Management Agency,2010,DoD,30,21,NA,193,125,91,32,408,NA,NA,NA,NA
@@ -359,24 +351,24 @@ Defense Finance and Accounting Service,2010,DoD,11,4,1,59,23,18,1,133,6,7,4,9
 Defense Finance and Accounting Service,2011,DoD,16,18,NA,39,26,26,2,47,NA,NA,NA,NA
 Defense Finance and Accounting Service,2012,DoD,10,6,1,63,38,21,4,156,NA,NA,NA,NA
 Defense Finance and Accounting Service,2013,DoD,12,10,NA,79,42,21,1,288,9,9,9,9
-Defense Information Service Agency,2008,DoD,110,36,1,625,94,276,1,316,NA,NA,NA,NA
-Defense Information Service Agency,2009,DoD,66,14,1,562,109,40,1,445,NA,NA,NA,NA
-Defense Information Service Agency,2010,DoD,295,47,1,2306,84,96,1,226,NA,NA,NA,NA
-Defense Information Service Agency,2011,DoD,65,34,1,581,29,27,1,115,1,1,1,1
-Defense Information Service Agency,2012,DoD,94,76,1,820,9,5,NA,29,NA,NA,NA,NA
-Defense Information Service Agency,2013,DoD,116,107,1,667,17,18,NA,53,NA,NA,NA,NA
+Defense Information Systems Agency,2008,DoD,110,36,1,625,94,276,1,316,NA,NA,NA,NA
+Defense Information Systems Agency,2009,DoD,66,14,1,562,109,40,1,445,NA,NA,NA,NA
+Defense Information Systems Agency,2010,DoD,295,47,1,2306,84,96,1,226,NA,NA,NA,NA
+Defense Information Systems Agency,2011,DoD,65,34,1,581,29,27,1,115,1,1,1,1
+Defense Information Systems Agency,2012,DoD,94,76,1,820,9,5,NA,29,NA,NA,NA,NA
+Defense Information Systems Agency,2013,DoD,116,107,1,667,17,18,NA,53,NA,NA,NA,NA
 Defense Intelligence Agency,2008,DoD,10,10,1,20,516,277,21,3200,NA,NA,NA,NA
 Defense Intelligence Agency,2009,DoD,9,9,1,20,963,811,21,3714,NA,NA,NA,NA
 Defense Intelligence Agency,2010,DoD,11,11,1,20,1060,938,21,3418,NA,NA,NA,NA
 Defense Intelligence Agency,2011,DoD,9,9,1,20,924,801,23,3567,NA,NA,NA,NA
 Defense Intelligence Agency,2012,DoD,7,6,1,20,786,469,21,3713,NA,NA,NA,NA
 Defense Intelligence Agency,2013,DoD,6,5,1,20,855,553,21,3517,NA,NA,NA,NA
-Defense Logistic Agency,2008,DoD,15,NA,1,573,30,NA,1,603,NA,NA,NA,NA
-Defense Logistic Agency,2009,DoD,11,3,1,420,22,8,1,570,75,75,1,149
-Defense Logistic Agency,2010,DoD,12,1,NA,257,30,1,NA,314,10,NA,NA,46
-Defense Logistic Agency,2011,DoD,12,1,1,179,34,15,1,314,16,16,16,16
-Defense Logistic Agency,2012,DoD,9,5,1,104,32,12,1,273,33,33,33,33
-Defense Logistic Agency,2013,DoD,9,5,NA,121,32,12,1,274,NA,NA,NA,NA
+Defense Logistics Agency - Headquarters,2008,DoD,15,NA,1,573,30,NA,1,603,NA,NA,NA,NA
+Defense Logistics Agency - Headquarters,2009,DoD,11,3,1,420,22,8,1,570,75,75,1,149
+Defense Logistics Agency - Headquarters,2010,DoD,12,1,NA,257,30,1,NA,314,10,NA,NA,46
+Defense Logistics Agency - Headquarters,2011,DoD,12,1,1,179,34,15,1,314,16,16,16,16
+Defense Logistics Agency - Headquarters,2012,DoD,9,5,1,104,32,12,1,273,33,33,33,33
+Defense Logistics Agency - Headquarters,2013,DoD,9,5,NA,121,32,12,1,274,NA,NA,NA,NA
 Defense Nuclear Facilities Safety Board,2008,DNFSB,6.3,6,1,19,NA,NA,NA,NA,NA,NA,NA,NA
 Defense Nuclear Facilities Safety Board,2009,DNFSB,9,5.5,1,35,NA,NA,NA,NA,2,2,2,2
 Defense Nuclear Facilities Safety Board,2010,DNFSB,7,5,NA,29,47,47,47,47,NA,NA,NA,NA
@@ -395,24 +387,24 @@ Defense Technical Information Center,2010,DoD,35,16,1,233,NA,NA,NA,NA,NA,NA,NA,N
 Defense Technical Information Center,2011,DoD,22,20,3,129,NA,NA,NA,NA,NA,NA,NA,NA
 Defense Technical Information Center,2012,DoD,9,9,NA,20,42,26,22,111,NA,NA,NA,NA
 Defense Technical Information Center,2013,DoD,13,13,1,20,25,24,21,54,NA,NA,NA,NA
-Defense Technology and Research Agency,2008,DoD,7,6,1,24,50,24,1,1017,NA,NA,NA,NA
-Defense Technology and Research Agency,2009,DoD,7,3,1,29,37,18,1,775,NA,NA,NA,NA
-Defense Technology and Research Agency,2010,DoD,4,2,NA,18,35,20,NA,266,NA,NA,NA,NA
-Defense Technology and Research Agency,2011,DoD,17,9,1,135,58,35,NA,298,NA,NA,NA,NA
-Defense Technology and Research Agency,2012,DoD,12,5,1,145,58,35,1,326,NA,NA,NA,NA
-Defense Technology and Research Agency,2013,DoD,13,9,NA,65,119,72,NA,459,NA,NA,NA,NA
+Defense Technology & Research Agency,2008,DoD,7,6,1,24,50,24,1,1017,NA,NA,NA,NA
+Defense Technology & Research Agency,2009,DoD,7,3,1,29,37,18,1,775,NA,NA,NA,NA
+Defense Technology & Research Agency,2010,DoD,4,2,NA,18,35,20,NA,266,NA,NA,NA,NA
+Defense Technology & Research Agency,2011,DoD,17,9,1,135,58,35,NA,298,NA,NA,NA,NA
+Defense Technology & Research Agency,2012,DoD,12,5,1,145,58,35,1,326,NA,NA,NA,NA
+Defense Technology & Research Agency,2013,DoD,13,9,NA,65,119,72,NA,459,NA,NA,NA,NA
 Denver Regional Office,2008,FLRA,9,9,4,13,NA,NA,NA,NA,NA,NA,NA,NA
 Denver Regional Office,2009,FLRA,9,9,9,9,NA,NA,NA,NA,NA,NA,NA,NA
 Denver Regional Office,2010,FLRA,12,9,9,19,NA,NA,NA,NA,NA,NA,NA,NA
 Denver Regional Office,2011,FLRA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Denver Regional Office,2012,FLRA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Denver Regional Office,2013,FLRA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Department of Defense Education Agency,2008,DoD,24,24,3,59,90,82,57,166,NA,NA,NA,NA
-Department of Defense Education Agency,2009,DoD,20,18,1,58,83,59,53,226,NA,NA,NA,NA
-Department of Defense Education Agency,2010,DoD,20,17,1,54,53,69,47,310,NA,NA,NA,NA
-Department of Defense Education Agency,2011,DoD,27,20,1,112,53,52,2,113,NA,NA,NA,NA
-Department of Defense Education Agency,2012,DoD,24,22,1,81,55,55,55,55,NA,NA,NA,NA
-Department of Defense Education Agency,2013,DoD,18,18,1,47,48,40,20,110,NA,NA,NA,NA
+Department of Defense Education Activity,2008,DoD,24,24,3,59,90,82,57,166,NA,NA,NA,NA
+Department of Defense Education Activity,2009,DoD,20,18,1,58,83,59,53,226,NA,NA,NA,NA
+Department of Defense Education Activity,2010,DoD,20,17,1,54,53,69,47,310,NA,NA,NA,NA
+Department of Defense Education Activity,2011,DoD,27,20,1,112,53,52,2,113,NA,NA,NA,NA
+Department of Defense Education Activity,2012,DoD,24,22,1,81,55,55,55,55,NA,NA,NA,NA
+Department of Defense Education Activity,2013,DoD,18,18,1,47,48,40,20,110,NA,NA,NA,NA
 Department of Defense Inspector General,2008,DoD,18,15,5,46,NA,NA,NA,NA,NA,NA,NA,NA
 Department of Defense Inspector General,2009,DoD,NA,NA,NA,NA,117,43,1,1530,NA,NA,NA,NA
 Department of Defense Inspector General,2010,DoD,6,2,1,76,32,12,1,698,NA,NA,NA,NA
@@ -455,6 +447,12 @@ Department of Justice,2013,DOJ,21.75,12,NA,815,115.81,64,NA,1232,142.91,30.5,NA,
 Department of Labor,2008,U.S. DOL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Department of Labor,2009,U.S. DOL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Department of Labor,2010,U.S. DOL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Department of State,2008,State,118,70,1,736,275,196,5,1900,201,41,3,1509
+Department of State,2009,State,104,88,2,1556,384,307,2,2383,164,25,21,720
+Department of State,2010,State,144,142,NA,1723,284,228,21,2162,435,280,NA,1276
+Department of State,2011,State,156,150,1,1603,342,279,6,2460,926,49,49,1802
+Department of State,2012,State,88.51,66.43,NA,1589,559.9,450,NA,3035,760.44,921.43,46,1559
+Department of State,2013,State,106,90,NA,1631,532.8,373.5,NA,2070,405,202,4,1841
 Department of Transportation,2008,DOT,37,16,NA,1513,101,36,NA,1531,126,31,NA,1646
 Department of Transportation,2009,DOT,37,11,NA,3543,58,27,NA,1086,22,12.5,NA,291
 Department of Transportation,2010,DOT,20.98,9,NA,1531,53.75,29,NA,1502,35.56,19,NA,259
@@ -467,12 +465,30 @@ Department of Veterans Affairs,2010,VA,NA,NA,NA,NA,14.23,4,NA,571,15.52,3,NA,121
 Department of Veterans Affairs,2011,VA,1.48,NA,NA,8,16.29,5,NA,1748,4.07,1,NA,53
 Department of Veterans Affairs,2012,VA,10.61,4,NA,444,28.1,12,NA,733,34.77,2.5,NA,393
 Department of Veterans Affairs,2013,VA,16.71,5,NA,699,35.53,16,NA,1438,37.96,14,NA,176
+Department of the Air Force - Headquarters/ICIO (FOIA),2008,DoD,13,12,NA,NA,86,17,NA,NA,20,44,NA,NA
+Department of the Air Force - Headquarters/ICIO (FOIA),2009,DoD,11,6,1,739,97,35,1,2354,15,12,1,56
+Department of the Air Force - Headquarters/ICIO (FOIA),2010,DoD,23,11,10,1044,87,36,1,1022,17,11,1,88
+Department of the Air Force - Headquarters/ICIO (FOIA),2011,DoD,26,10,1,3664,81,36,1,3608,53,8,1,1023
+Department of the Air Force - Headquarters/ICIO (FOIA),2012,DoD,15,10,1,3022,85,39,1,1398,14,13,1,57
+Department of the Air Force - Headquarters/ICIO (FOIA),2013,DoD,14,8,1,1031,82,40,1,887,22,11,1,111
+Department of the Army - Freedom of Information and Privacy Office,2008,DoD,36,6,1,1725,41,30,1,1579,21,5,1,290
+Department of the Army - Freedom of Information and Privacy Office,2009,DoD,28,NA,1,1262,62,NA,1,1920,13,NA,1,154
+Department of the Army - Freedom of Information and Privacy Office,2010,DoD,28,NA,NA,1984,54,NA,NA,1633,7,NA,NA,273
+Department of the Army - Freedom of Information and Privacy Office,2011,DoD,14,NA,NA,1551,34,NA,NA,1313,14,NA,NA,524
+Department of the Army - Freedom of Information and Privacy Office,2012,DoD,8,NA,NA,572,48,NA,NA,1641,13,NA,NA,148
+Department of the Army - Freedom of Information and Privacy Office,2013,DoD,6,NA,NA,443,34,NA,NA,1456,13,NA,NA,30
 Department of the Interior,2008,DOI,2,1,NA,642,25.64,NA,NA,2674,8,6,NA,217
 Department of the Interior,2009,DOI,3,2,NA,189,31.35,NA,NA,2850,6,4,NA,29
 Department of the Interior,2010,DOI,4,2,NA,75,32,16,NA,1185,28,16,2,124
 Department of the Interior,2011,DOI,3,2,NA,55,44,16,NA,2235,138,175,NA,265
 Department of the Interior,2012,DOI,2,1,NA,29,44,17,NA,1497,48,12,NA,369
 Department of the Interior,2013,DOI,3,1,NA,120,43,17,NA,1492,63,19,NA,579
+Department of the Navy - Main Office,2008,DoD,33,15,1,868,133,26,1,2477,8,2,1,37
+Department of the Navy - Main Office,2009,DoD,111,275,1,2918,74,40,1,2331,8,6,1,37
+Department of the Navy - Main Office,2010,DoD,11,10,NA,70,137,322,67,560,NA,NA,NA,NA
+Department of the Navy - Main Office,2011,DoD,23,11,NA,3760,73,23,NA,1410,9,10,NA,63
+Department of the Navy - Main Office,2012,DoD,7,7,NA,20,60,40,1,1908,2,3,NA,90
+Department of the Navy - Main Office,2013,DoD,7,5,1,20,43,20,1,3089,2,NA,NA,21
 Department of the Treasury,2008,Treasury,53.7,41,6,197,230.7,181,24,3004,9.6,9,8,10
 Department of the Treasury,2009,Treasury,10.8,6,NA,73,47.6,14,NA,3668,81.6,74,NA,178
 Department of the Treasury,2010,Treasury,17.79,6,NA,654,14.016,12,NA,2722,21.103,13,NA,44
@@ -488,6 +504,12 @@ Departmental Offices,2010,Treasury,NA,NA,NA,NA,359.86,139,NA,2722,6.3,6,1,44
 Departmental Offices,2011,Treasury,23,2,NA,280,240,36,NA,3205,169,30,6,1126
 Departmental Offices,2012,Treasury,39,199,NA,398,54,1268,NA,2536,587,562,230,895
 Departmental Offices,2013,Treasury,38,16,1,555,132.9,62,1,2064,36.6,21,2,88
+Directorate for National Protection and Programs,2008,DHS,42.52,19,1,175,215.5,154,40,650,NA,NA,NA,NA
+Directorate for National Protection and Programs,2009,DHS,55.6,32.5,1,352,280.55,212,116,684,NA,NA,NA,NA
+Directorate for National Protection and Programs,2010,DHS,29.69,24,1,100,195.71,171,107,359,NA,NA,NA,NA
+Directorate for National Protection and Programs,2011,DHS,49.9,27,1,28,127.26,121.5,3,483,NA,NA,NA,NA
+Directorate for National Protection and Programs,2012,DHS,27.37,33,1,159,100.35,61,1,387,39,39,39,39
+Directorate for National Protection and Programs,2013,DHS,44.22,35,1,243,37.26,25,1,362,13.5,13.5,11,16
 Drug Enforcement Administration,2008,DOJ,NA,NA,NA,NA,126.39,82,1,1273,127,112,61,210
 Drug Enforcement Administration,2009,DOJ,NA,NA,NA,NA,130.37,81,1,1641,83,NA,12,154
 Drug Enforcement Administration,2010,DOJ,NA,NA,NA,NA,125.46,74,NA,1685,46.9,30.5,8,239
@@ -506,38 +528,38 @@ Economic Development Administration,2010,DOC,4,5,1,10,32,31,15,71,2,2,2,2
 Economic Development Administration,2011,DOC,8.7,9,1,20,34,28,21,114,5,5,5,5
 Economic Development Administration,2012,DOC,10,10,2,19,43,40,21,100,NA,NA,NA,NA
 Economic Development Administration,2013,DOC,10,10,2,18,38,33,22,86,NA,NA,NA,NA
-Economic and Statistics Administration/Bureau of Economic Analysis,2008,DOC,17,7,1,35,NA,NA,NA,NA,NA,NA,NA,NA
-Economic and Statistics Administration/Bureau of Economic Analysis,2009,DOC,10,9,1,25,NA,NA,NA,NA,NA,NA,NA,NA
-Economic and Statistics Administration/Bureau of Economic Analysis,2010,DOC,7,6,1,19,NA,NA,NA,NA,NA,NA,NA,NA
-Economic and Statistics Administration/Bureau of Economic Analysis,2011,DOC,6,3,1,22,NA,NA,NA,NA,NA,NA,NA,NA
-Economic and Statistics Administration/Bureau of Economic Analysis,2012,DOC,3,1,1,6,38,17,29,46,NA,NA,NA,NA
-Economic and Statistics Administration/Bureau of Economic Analysis,2013,DOC,8,6,2,19,NA,NA,NA,NA,NA,NA,NA,NA
+Economics and Statistics Administration Bureau,2008,DOC,17,7,1,35,NA,NA,NA,NA,NA,NA,NA,NA
+Economics and Statistics Administration Bureau,2009,DOC,10,9,1,25,NA,NA,NA,NA,NA,NA,NA,NA
+Economics and Statistics Administration Bureau,2010,DOC,7,6,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+Economics and Statistics Administration Bureau,2011,DOC,6,3,1,22,NA,NA,NA,NA,NA,NA,NA,NA
+Economics and Statistics Administration Bureau,2012,DOC,3,1,1,6,38,17,29,46,NA,NA,NA,NA
+Economics and Statistics Administration Bureau,2013,DOC,8,6,2,19,NA,NA,NA,NA,NA,NA,NA,NA
 Employee Benefits Security Administration,2008,U.S. DOL,3.4,1,1,252,7.1,3,1,138,2.7,1,1,6
 Employee Benefits Security Administration,2009,U.S. DOL,6.2,2,NA,156,19.45,12,NA,181,6.5,12,1,12
 Employee Benefits Security Administration,2010,U.S. DOL,5.4,3,NA,52,19.7,9,NA,245,1.9,NA,NA,13
 Employee Benefits Security Administration,2011,U.S. DOL,7.4,6,1,188,16.8,11,NA,307,7.4,1.5,1,25
 Employee Benefits Security Administration,2012,U.S. DOL,16.2,14.5,NA,77,120.3,17,NA,1980,NA,NA,NA,NA
 Employee Benefits Security Administration,2013,U.S. DOL,16.1,16,1,60,30.9,10,NA,582,NA,NA,NA,NA
+Employment & Training Administration,2008,U.S. DOL,31.6,6,1,224,35.5,18,1,282,25,25,25,25
+Employment & Training Administration,2009,U.S. DOL,83.5,49,1,368,92.9,77,1,359,64.8,32.5,1,248
+Employment & Training Administration,2010,U.S. DOL,19.4,10,NA,300,25.7,17,NA,425,29.4,19,4,160
+Employment & Training Administration,2011,U.S. DOL,26.9,16.5,NA,1280,32.1,23,NA,452,25.4,26,2,38
+Employment & Training Administration,2012,U.S. DOL,14.1,8,NA,249,16.7,9,NA,279,8.6,6,NA,20
+Employment & Training Administration,2013,U.S. DOL,12.6,9,1,272,14.7,10,NA,335,213,213,211,215
 Employment Standards Administration,2008,U.S. DOL,11.9,6,1,307,26.6,9,1,237,5.5,3,1,3
 Employment Standards Administration,2009,U.S. DOL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Employment and Training Administration,2008,U.S. DOL,31.6,6,1,224,35.5,18,1,282,25,25,25,25
-Employment and Training Administration,2009,U.S. DOL,83.5,49,1,368,92.9,77,1,359,64.8,32.5,1,248
-Employment and Training Administration,2010,U.S. DOL,19.4,10,NA,300,25.7,17,NA,425,29.4,19,4,160
-Employment and Training Administration,2011,U.S. DOL,26.9,16.5,NA,1280,32.1,23,NA,452,25.4,26,2,38
-Employment and Training Administration,2012,U.S. DOL,14.1,8,NA,249,16.7,9,NA,279,8.6,6,NA,20
-Employment and Training Administration,2013,U.S. DOL,12.6,9,1,272,14.7,10,NA,335,213,213,211,215
 Environment and Natural Resources Division,2008,DOJ,52.49,28,4,483,NA,NA,95,218,NA,NA,NA,NA
 Environment and Natural Resources Division,2009,DOJ,34.8,29,6,112,192.7,201,61,316,NA,NA,NA,NA
 Environment and Natural Resources Division,2010,DOJ,NA,NA,NA,NA,30.31,17,2,264,7,7,7,7
 Environment and Natural Resources Division,2011,DOJ,16.35,12,NA,95,76.5,67.5,35,119,7,7,7,7
 Environment and Natural Resources Division,2012,DOJ,16.08,17,NA,60,58.88,36,3,178,6,6,6,6
 Environment and Natural Resources Division,2013,DOJ,30.52,18,1,169,112.33,98,11,292,45.5,45.5,19,72
-Environmental Management Consolidated Business Center,2008,DOE,42,23,1,196,NA,NA,NA,NA,NA,NA,NA,NA
-Environmental Management Consolidated Business Center,2009,DOE,35,27,2,97,NA,NA,NA,NA,NA,NA,NA,NA
-Environmental Management Consolidated Business Center,2010,DOE,50.38,22.5,NA,319,48.71,33,NA,127,NA,NA,NA,NA
-Environmental Management Consolidated Business Center,2011,DOE,52.11,32,NA,318,63.33,48,16,126,NA,NA,NA,NA
-Environmental Management Consolidated Business Center,2012,DOE,41.95,23,NA,290,78.75,45.5,13,211,NA,NA,NA,NA
-Environmental Management Consolidated Business Center,2013,DOE,35.02,16,NA,188,26.4,4,NA,89,46,46,46,46
+Environmental Management Consolidated Business Center (EMCBC),2008,DOE,42,23,1,196,NA,NA,NA,NA,NA,NA,NA,NA
+Environmental Management Consolidated Business Center (EMCBC),2009,DOE,35,27,2,97,NA,NA,NA,NA,NA,NA,NA,NA
+Environmental Management Consolidated Business Center (EMCBC),2010,DOE,50.38,22.5,NA,319,48.71,33,NA,127,NA,NA,NA,NA
+Environmental Management Consolidated Business Center (EMCBC),2011,DOE,52.11,32,NA,318,63.33,48,16,126,NA,NA,NA,NA
+Environmental Management Consolidated Business Center (EMCBC),2012,DOE,41.95,23,NA,290,78.75,45.5,13,211,NA,NA,NA,NA
+Environmental Management Consolidated Business Center (EMCBC),2013,DOE,35.02,16,NA,188,26.4,4,NA,89,46,46,46,46
 Environmental Protection Agency,2008,EPA,42.95,20,NA,1364,60.91,37,7,1329,51,46,20,92
 Environmental Protection Agency,2009,EPA,37.15,20,1,1419,75.32,39,5,902,8,10,4,11
 Environmental Protection Agency,2010,EPA,36.41,19,NA,1436,93.74,51,NA,959,13.08,9,NA,66
@@ -573,17 +595,17 @@ Executive Office for United States Trustees,2013,DOJ,11.22,7,1,49,31.68,18,1,209
 Executive Secretariat,2011,U.S. DOL,NA,NA,NA,NA,17.8,17.5,1,35,NA,NA,NA,NA
 Executive Secretariat,2012,U.S. DOL,937.9,1163,1,1909,966.5,794,194,1891,NA,NA,NA,NA
 Executive Secretariat,2013,U.S. DOL,95.5,95,16,176,158,158,158,158,NA,NA,NA,NA
-Export-Import Bank of the United States,2008,Ex-Im Bank,16,15,4,30,118,72,31,574,45,7,3,125
-Export-Import Bank of the United States,2009,Ex-Im Bank,45,38,1,203,250,157,45,829,NA,NA,NA,NA
-Export-Import Bank of the United States,2010,Ex-Im Bank,31.98,28,NA,68,115.1,85,1,333,NA,NA,NA,NA
-Export-Import Bank of the United States,2011,Ex-Im Bank,32.26,22,1,173,104.42,69,5,360,12,12,12,12
-Export-Import Bank of the United States,2012,Ex-Im Bank,49.68,22,NA,235,223.58,241,28,427,NA,NA,NA,NA
-Export-Import Bank of the United States,2013,Ex-Im Bank,82.2,59,1,257,318.19,277,44,786,NA,NA,NA,NA
+Export-Import Bank of the U.S.,2008,Ex-Im Bank,16,15,4,30,118,72,31,574,45,7,3,125
+Export-Import Bank of the U.S.,2009,Ex-Im Bank,45,38,1,203,250,157,45,829,NA,NA,NA,NA
+Export-Import Bank of the U.S.,2010,Ex-Im Bank,31.98,28,NA,68,115.1,85,1,333,NA,NA,NA,NA
+Export-Import Bank of the U.S.,2011,Ex-Im Bank,32.26,22,1,173,104.42,69,5,360,12,12,12,12
+Export-Import Bank of the U.S.,2012,Ex-Im Bank,49.68,22,NA,235,223.58,241,28,427,NA,NA,NA,NA
+Export-Import Bank of the U.S.,2013,Ex-Im Bank,82.2,59,1,257,318.19,277,44,786,NA,NA,NA,NA
 FHFA Headquarters,2013,FHFA,17.09,8.5,NA,109,46.97,33,NA,158,NA,NA,NA,NA
 FOIA Office,2009,Ex-Im Bank,45,38,1,203,250,157,45,829,NA,NA,NA,NA
-"FOIA Policy, Office of Executive Secretariat and Regulatory Affairs",2011,DOI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"FOIA Policy, Office of Executive Secretariat and Regulatory Affairs",2012,DOI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"FOIA Policy, Office of Executive Secretariat and Regulatory Affairs",2013,DOI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"FOIA Policy, Office of Executive Secretariat & Regulatory Affairs",2011,DOI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"FOIA Policy, Office of Executive Secretariat & Regulatory Affairs",2012,DOI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"FOIA Policy, Office of Executive Secretariat & Regulatory Affairs",2013,DOI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 FOIA/Privacy Act Appeals Office,2012,DOI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 FOIA/Privacy Act Appeals Office,2013,DOI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 FOIA/Privacy Act Office,2008,PC,15,13,NA,129,NA,NA,NA,NA,3,3,3,3
@@ -620,6 +642,12 @@ Federal Bureau of Investigation,2010,DOJ,36.59,16,NA,664,224.98,180,2,1104,42.37
 Federal Bureau of Investigation,2011,DOJ,34.17,12,NA,594,212.31,180.5,1,721,110.67,62,4,697
 Federal Bureau of Investigation,2012,DOJ,28.02,8,NA,592,181.57,141,2,775,236.61,235.5,10,562
 Federal Bureau of Investigation,2013,DOJ,44.48,17,NA,815,231.97,207,3,694,103.57,82,14,415
+Federal Bureau of Prisons,2008,DOJ,15.87,4,NA,247,40.37,27,NA,246,2.4,1,NA,10
+Federal Bureau of Prisons,2009,DOJ,18,7,NA,200,53,37,NA,285,4,3,NA,12
+Federal Bureau of Prisons,2010,DOJ,19.13,3,NA,469,67.79,40,NA,394,25.75,21.5,12,48
+Federal Bureau of Prisons,2011,DOJ,26.99,10,NA,694,116.61,81,NA,647,20.5,7,3,65
+Federal Bureau of Prisons,2012,DOJ,16.89,6,NA,642,96.09,65,NA,744,37.38,19,NA,125
+Federal Bureau of Prisons,2013,DOJ,17.07,4,NA,545,108.48,67,NA,784,44.09,9,NA,292
 Federal Communications Commission,2008,FCC,22.75,19,NA,300,NA,NA,NA,NA,NA,NA,NA,NA
 Federal Communications Commission,2009,FCC,30.76,20,1,541,NA,NA,NA,NA,NA,NA,NA,NA
 Federal Communications Commission,2010,FCC,23.72,15,1,744,NA,NA,NA,NA,NA,NA,NA,NA
@@ -721,16 +749,16 @@ Federal Railroad Administration,2010,DOT,124,53,NA,580,NA,NA,NA,NA,NA,NA,NA,NA
 Federal Railroad Administration,2011,DOT,82,31,1,626,NA,NA,NA,NA,11.5,11.5,1,22
 Federal Railroad Administration,2012,DOT,NA,NA,NA,NA,76,39,1,565,NA,NA,NA,NA
 Federal Railroad Administration,2013,DOT,NA,NA,NA,NA,51,31,1,524,7,7,7,7
+Federal Reserve System,2008,FRB,3,2,NA,32,19,11,NA,138,136,136,134,138
+Federal Reserve System,2009,FRB,4,2,NA,39,33,29,NA,344,28,30,2,87
+Federal Reserve System,2010,FRB,5,2,1,120,105,55,1,487,12,24,1,24
+Federal Reserve System,2011,FRB,3,1,NA,33,47,21,NA,516,NA,NA,NA,NA
+Federal Reserve System,2012,FRB,3,2,1,30,62,31,1,765,28,28,26,31
+Federal Reserve System,2013,FRB,5,2,NA,164,60,30,1,1027,355,358,350,358
 Federal Retirement Thrift Investment Board,2010,FRTIB,16.5,17,6,38,NA,NA,NA,NA,NA,NA,NA,NA
 Federal Retirement Thrift Investment Board,2011,FRTIB,16,20,3,23,NA,NA,NA,NA,NA,NA,NA,NA
 Federal Retirement Thrift Investment Board,2012,FRTIB,27,20,1,57,NA,NA,NA,NA,NA,NA,NA,NA
 Federal Retirement Thrift Investment Board,2013,FRTIB,27,22,11,112,NA,NA,NA,NA,NA,NA,NA,NA
-Federal Service Impasses Panel,2008,FLRA,1,1,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
-Federal Service Impasses Panel,2009,FLRA,6,1,NA,29,NA,NA,NA,NA,NA,NA,NA,NA
-Federal Service Impasses Panel,2010,FLRA,2,1,NA,7,NA,NA,NA,NA,NA,NA,NA,NA
-Federal Service Impasses Panel,2011,FLRA,1,1,NA,5,NA,NA,NA,NA,NA,NA,NA,NA
-Federal Service Impasses Panel,2012,FLRA,4,1,NA,20,NA,NA,NA,NA,NA,NA,NA,NA
-Federal Service Impasses Panel,2013,FLRA,9.31,3,NA,45,NA,NA,NA,NA,NA,NA,NA,NA
 Federal Student Aid,2008,ED,127,33,1,781,57,30,1,537,NA,NA,NA,NA
 Federal Student Aid,2009,ED,81,25,NA,851,59,42,NA,401,NA,NA,NA,NA
 Federal Student Aid,2010,ED,98,59,1,393,60,28,3,344,NA,NA,NA,NA
@@ -763,26 +791,20 @@ Financial Management Service,2010,Treasury,NA,NA,NA,NA,7,5,1,32,NA,NA,NA,NA
 Financial Management Service,2011,Treasury,9,9,1,20,26,25,23,30,15,14,14,16
 Financial Management Service,2012,Treasury,12,12,1,118,12,9,1,46,NA,NA,NA,NA
 Financial Management Service,2013,Treasury,12,10,1,160,32,22,1,177,NA,NA,NA,NA
-Fish & Wildlife Service,2008,DOI,16.5,5,12,39,276.86,NA,73,1300,1,1,1,1
-Fish & Wildlife Service,2009,DOI,9,6,NA,36,32.5,NA,NA,624,4,3,1,9
-Fish & Wildlife Service,2010,DOI,6,3,1,19,27,15,NA,667,12,12,7,17
-Fish & Wildlife Service,2011,DOI,3,2,NA,12,43,15,NA,1278,17,18,5,28
-Fish & Wildlife Service,2012,DOI,13,13,NA,29,39,18,NA,713,13,7,4,27
-Fish & Wildlife Service,2013,DOI,5,3,NA,43,41,17,NA,894,11,3,3,46
-Food Safety and Inspection Service,2010,USDA,44,21,NA,445,119,43,NA,643,NA,NA,NA,NA
-Food Safety and Inspection Service,2011,USDA,60,30,1,543,229.96,167,NA,848,NA,NA,NA,NA
-Food Safety and Inspection Service,2012,USDA,56.54,27,1,488,300.66,260,5,863,NA,NA,NA,NA
-Food Safety and Inspection Service,2013,USDA,29.39,14,1,473,61,71,9,90,NA,NA,NA,NA
+Food Safety & Inspection Service,2010,USDA,44,21,NA,445,119,43,NA,643,NA,NA,NA,NA
+Food Safety & Inspection Service,2011,USDA,60,30,1,543,229.96,167,NA,848,NA,NA,NA,NA
+Food Safety & Inspection Service,2012,USDA,56.54,27,1,488,300.66,260,5,863,NA,NA,NA,NA
+Food Safety & Inspection Service,2013,USDA,29.39,14,1,473,61,71,9,90,NA,NA,NA,NA
 Food and Drug Administration,2008,HHS,285.9,206,1,1643,500.8,481,1,1951,309.5,173,2,1108
 Food and Drug Administration,2009,HHS,95,10,1,1250,316,293,1,1420,254,171,40,635
 Food and Drug Administration,2010,HHS,53.1,8,1,1401,248.6,122,1,1446,40,40,15,65
 Food and Drug Administration,2011,HHS,48.6,9,1,1305,248.1,162,1,1760,64.3,53,31,109
 Food and Drug Administration,2012,HHS,29,8,1,1198,203,105,1,1757,NA,NA,NA,NA
 Food and Drug Administration,2013,HHS,27.6,9,1,1220,168.8,78,1,1465,173.7,22,1,495
-Food and Nutrition Consumer Service,2010,USDA,19,12,1,178,NA,NA,NA,NA,NA,NA,NA,NA
-Food and Nutrition Consumer Service,2011,USDA,25.88,17,1,361,33.5,28.5,6,86,NA,NA,65,65
-Food and Nutrition Consumer Service,2012,USDA,26.18,16,1,226,28.68,20,1,262,14,14,14,14
-Food and Nutrition Consumer Service,2013,USDA,17.43,17,1,62,28.67,16,1,180,15.5,8.5,1,45
+"Food, Nutrition & Consumer Services",2010,USDA,19,12,1,178,NA,NA,NA,NA,NA,NA,NA,NA
+"Food, Nutrition & Consumer Services",2011,USDA,25.88,17,1,361,33.5,28.5,6,86,NA,NA,65,65
+"Food, Nutrition & Consumer Services",2012,USDA,26.18,16,1,226,28.68,20,1,262,14,14,14,14
+"Food, Nutrition & Consumer Services",2013,USDA,17.43,17,1,62,28.67,16,1,180,15.5,8.5,1,45
 Foreign Agricultural Service,2010,USDA,24.2,8,0.5,130,NA,NA,NA,NA,NA,NA,NA,NA
 Foreign Agricultural Service,2011,USDA,11.5,11,0.1,31,38.2,20,19,69,NA,NA,NA,NA
 Foreign Agricultural Service,2012,USDA,10.22,10,1,20,67.33,57,9,189,3.5,3,1,6
@@ -793,10 +815,10 @@ Foreign Claims Settlement Commission,2010,DOJ,NA,NA,NA,NA,15.37,6,NA,78,NA,NA,NA
 Foreign Claims Settlement Commission,2011,DOJ,NA,NA,NA,NA,7.9,4,NA,47,NA,NA,NA,NA
 Foreign Claims Settlement Commission,2012,DOJ,NA,NA,NA,NA,17.2,12,NA,62,NA,NA,NA,NA
 Foreign Claims Settlement Commission,2013,DOJ,NA,NA,NA,NA,15.58,9,NA,124,NA,NA,NA,NA
-Forest Service,2010,USDA,16.42,13,NA,262,38.5,29,NA,328,NA,NA,NA,NA
-Forest Service,2011,USDA,23.92,15,NA,590,45.25,25.5,NA,352,6.14,3,1,24
-Forest Service,2012,USDA,21.92,13,1,617,43.27,25,1,421,23.12,16,6,81
-Forest Service,2013,USDA,21.71,14,1,615,47.36,29,1,575,9.8,11,3,17
+Forest Service - Headquarters,2010,USDA,16.42,13,NA,262,38.5,29,NA,328,NA,NA,NA,NA
+Forest Service - Headquarters,2011,USDA,23.92,15,NA,590,45.25,25.5,NA,352,6.14,3,1,24
+Forest Service - Headquarters,2012,USDA,21.92,13,1,617,43.27,25,1,421,23.12,16,6,81
+Forest Service - Headquarters,2013,USDA,21.71,14,1,615,47.36,29,1,575,9.8,11,3,17
 General Counsel,2008,VA,NA,NA,NA,NA,10,44,1,87,NA,NA,NA,NA
 General Counsel,2009,VA,NA,NA,NA,NA,26.5,30.5,1,83,NA,NA,NA,NA
 General Counsel,2010,VA,NA,NA,NA,NA,68.44,55,NA,285,NA,NA,NA,NA
@@ -821,38 +843,38 @@ Golden Field Office,2010,DOE,20.36,20.5,NA,62,NA,NA,NA,NA,NA,NA,NA,NA
 Golden Field Office,2011,DOE,9.08,NA,NA,108,NA,NA,NA,NA,NA,NA,NA,NA
 Golden Field Office,2012,DOE,6.06,NA,NA,130,NA,NA,NA,NA,NA,NA,NA,NA
 Golden Field Office,2013,DOE,6.57,NA,NA,103,NA,NA,NA,NA,NA,NA,NA,NA
-"Grain Inspection, Packers and Stockyards Administration",2010,USDA,7.4,5,1,36,76,44,37,133,NA,NA,NA,NA
-"Grain Inspection, Packers and Stockyards Administration",2011,USDA,12,8,1,52,60,74,14,91,NA,NA,NA,NA
-"Grain Inspection, Packers and Stockyards Administration",2012,USDA,8.13,4,1,33,40.94,32.5,1,113,1,1,1,1
-"Grain Inspection, Packers and Stockyards Administration",2013,USDA,4.46,3,1,32,61.27,33,3,244,NA,NA,NA,NA
+"Grain Inspection, Packers & Stockyards Administration",2010,USDA,7.4,5,1,36,76,44,37,133,NA,NA,NA,NA
+"Grain Inspection, Packers & Stockyards Administration",2011,USDA,12,8,1,52,60,74,14,91,NA,NA,NA,NA
+"Grain Inspection, Packers & Stockyards Administration",2012,USDA,8.13,4,1,33,40.94,32.5,1,113,1,1,1,1
+"Grain Inspection, Packers & Stockyards Administration",2013,USDA,4.46,3,1,32,61.27,33,3,244,NA,NA,NA,NA
 Head Quarters,2008,SEC,158,66,1,870,575,570,8,820,3,2,1,6
 Head Quarters,2009,SEC,27,6,1,769,424,445,1,941,44,31,4,132
 Head Quarters,2010,NTSB,10.1,6,NA,42,39.39,18,NA,241,NA,NA,NA,NA
 Head Quarters,2010,SEC,18.38,7,NA,411,553.33,563.5,3,1015,49,49,15,83
+Headquarters & Privacy Office,2008,DHS,8.85,8,2,39,62.4,34,1,484,NA,NA,NA,NA
+Headquarters & Privacy Office,2009,DHS,7.92,7,1,108,62.33,35.5,1,528,83.5,83.5,28,139
+Headquarters & Privacy Office,2010,DHS,7.09,7,1,44,113.8,79,2,769,25.39,9,1,375
+Headquarters & Privacy Office,2011,DHS,6.72,6,1,19,74.71,41,3,476,391,391,391,391
+Headquarters & Privacy Office,2012,DHS,9.6,7,1,53,70.18,55,7,412,189,189,189,189
+Headquarters & Privacy Office,2013,DHS,16.47,7,1,149,62.89,38,1,441,21.3,16.5,9,58
 Headquarters,2008,DOE,113,29,1,3239,NA,NA,NA,NA,NA,NA,NA,NA
-Headquarters,2008,EPA,46.88,18,NA,1364,296.56,72,11,1329,NA,NA,NA,NA
 Headquarters,2008,HUD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Headquarters,2009,DOE,83,16,NA,2066,NA,NA,NA,NA,51,50,27,77
-Headquarters,2009,EPA,55.44,19,1,1419,222.43,142,10,443,10.5,10.5,10,11
 Headquarters,2009,HUD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Headquarters,2010,CSOSA,42.1,23,2,62,NA,NA,NA,NA,NA,NA,NA,NA
 Headquarters,2010,DOE,66.65,27,NA,1732,88.21,59,NA,452,222,222,222,222
-Headquarters,2010,EPA,63.34,20,NA,1436,245.67,111,NA,959,14.36,12,NA,44
 Headquarters,2010,Ex-Im Bank,31.98,28,NA,68,115.1,85,1,333,NA,NA,NA,NA
 Headquarters,2010,HUD,75,534,1,698,117,644,2,1568,37,43,2,61
 Headquarters,2010,NASA,244.01,210,NA,1097,361.56,314,2,1329,57,57,57,57
 Headquarters,2011,DOE,53.8,17,NA,2674,128.6,67,NA,699,221,221,221,221
-Headquarters,2011,EPA,74.92,21,NA,1448,586.71,427,14,1326,29.07,20,6,116
 Headquarters,2011,Ex-Im Bank,32.26,22,1,173,104.42,69,5,360,12,12,12,12
 Headquarters,2011,HUD,51,20,1,728,99,57,1,674,44,44,30,59
 Headquarters,2011,NASA,44.98,4,NA,842,135.96,80.5,NA,846,227,227,227,227
 Headquarters,2012,DOE,69.02,27,NA,2379,155.12,78,NA,1574,588.5,588.5,410,767
-Headquarters,2012,EPA,14.23,15,NA,19,44.28,40,NA,236,152,120,31,346
 Headquarters,2012,Ex-Im Bank,49.68,22,NA,235,223.58,241,28,427,NA,NA,NA,NA
 Headquarters,2012,HUD,45.12,23.5,1,400,98.73,69,1,533,NA,NA,NA,NA
 Headquarters,2012,NASA,6.33,2,NA,145,62.58,15,NA,896,NA,NA,NA,NA
 Headquarters,2013,DOE,33.04,14,NA,336,248.95,110,2,2043,62.67,30,11,195
-Headquarters,2013,EPA,73.69,16,NA,2044,99.96,54,1,1344,261.75,254.5,14,524
 Headquarters,2013,Ex-Im Bank,82.2,59,1,257,318.19,277,44,786,NA,NA,NA,NA
 Headquarters,2013,HUD,34.85,16,1,276,77.63,27.5,1,660,40.2,35,12,89
 Headquarters,2013,NASA,5.42,4,NA,18,24.28,16,NA,230,NA,NA,NA,NA
@@ -862,32 +884,32 @@ Health Resources and Services Administration,2010,HHS,NA,NA,NA,NA,15,14,1,174,NA
 Health Resources and Services Administration,2011,HHS,NA,NA,NA,NA,17,15,1,344,NA,NA,NA,NA
 Health Resources and Services Administration,2012,HHS,NA,NA,NA,NA,21,18,1,229,NA,NA,NA,NA
 Health Resources and Services Administration,2013,HHS,NA,NA,NA,NA,76,64,1,252,NA,NA,NA,NA
-Houston District Office,2010,EEOC,12.9878,16,1,30,NA,NA,NA,NA,NA,NA,NA,NA
-Houston District Office,2011,EEOC,11.3001,12,1,30,NA,NA,NA,NA,NA,NA,NA,NA
-Houston District Office,2012,EEOC,9.61,10,1,25,NA,NA,NA,NA,NA,NA,NA,NA
-Houston District Office,2013,EEOC,9.18,8,1,41,NA,NA,NA,NA,1,1,1,1
+Houston District Office (New Orleans Field Office),2010,EEOC,12.9878,16,1,30,NA,NA,NA,NA,NA,NA,NA,NA
+Houston District Office (New Orleans Field Office),2011,EEOC,11.3001,12,1,30,NA,NA,NA,NA,NA,NA,NA,NA
+Houston District Office (New Orleans Field Office),2012,EEOC,9.61,10,1,25,NA,NA,NA,NA,NA,NA,NA,NA
+Houston District Office (New Orleans Field Office),2013,EEOC,9.18,8,1,41,NA,NA,NA,NA,1,1,1,1
+INTERPOL-United States National Central Bureau,2008,DOJ,2.27,2,1,13,23.16,23,23,24,9.79,12,1,23
+INTERPOL-United States National Central Bureau,2009,DOJ,4,2,NA,30,14,9,5,33,2,2,NA,3
+INTERPOL-United States National Central Bureau,2010,DOJ,20.48,5,1,118,68.86,46.5,1,207,NA,NA,NA,NA
+INTERPOL-United States National Central Bureau,2011,DOJ,16.87,7.5,NA,200,137.57,113.5,5,390,NA,NA,NA,NA
+INTERPOL-United States National Central Bureau,2012,DOJ,27.14,12,NA,289,119.17,100.5,54,299,11,11,4,18
+INTERPOL-United States National Central Bureau,2013,DOJ,7.99,2,NA,450,30.78,5,NA,220,4.17,3,2,10
 Idaho Operations Office,2008,DOE,10,1,1,26,40,23,11,85,NA,NA,NA,NA
 Idaho Operations Office,2009,DOE,9,9,1,20,34,28,22,58,NA,NA,NA,NA
 Idaho Operations Office,2010,DOE,9.36,8,NA,53,41.67,18,5,102,NA,NA,NA,NA
 Idaho Operations Office,2011,DOE,14.22,13,NA,45,NA,NA,NA,NA,NA,NA,NA,NA
 Idaho Operations Office,2012,DOE,8.95,7,NA,35,13,13,13,13,NA,NA,NA,NA
 Idaho Operations Office,2013,DOE,9.11,8,NA,23,NA,NA,NA,NA,4,4,4,4
-Immigration and Customs Enforcement,2008,DHS,17,1,1,807,39.9,10,1,1023,44,15,2,180
-Immigration and Customs Enforcement,2009,DHS,12.46,8,1,152,38.48,23,1,313,58,58,7,109
-Immigration and Customs Enforcement,2010,DHS,10,7,1,281,26,13,1,352,37,21,2,105
-Immigration and Customs Enforcement,2011,DHS,14.05,7,1,347,34.08,20,1,357,18.5,17.5,1,45
-Immigration and Customs Enforcement,2012,DHS,24.34,19,1,180,42.83,26,1,373,12.29,8,8,23
-Immigration and Customs Enforcement,2013,DHS,52.79,45,1,273,63.01,37,2,590,28.76,19,1,149
 Indian Health Service,2008,HHS,20,16,12,24,36,44,42,66,20,14,3,25
 Indian Health Service,2009,HHS,14,12,3,24,90,52,34,141,10,13,5,32
 Indian Health Service,2010,HHS,14,16,3,26,90,80,60,120,NA,NA,NA,1
 Indian Health Service,2011,HHS,13,15,3,25,96,85,62,160,NA,NA,NA,NA
 Indian Health Service,2012,HHS,18,9,1,32,59,42,13,152,NA,NA,NA,NA
 Indian Health Service,2013,HHS,15,10,1,30,61,44,15,107,NA,NA,NA,NA
-Indianapolis District Office,2010,EEOC,5.76913,5,1,39,NA,NA,NA,NA,NA,NA,NA,NA
-Indianapolis District Office,2011,EEOC,9.06876,9,1,41,NA,NA,NA,NA,NA,NA,NA,NA
-Indianapolis District Office,2012,EEOC,10.08,10,1,28,NA,NA,NA,NA,NA,NA,NA,NA
-Indianapolis District Office,2013,EEOC,10.18,9,1,38,NA,NA,NA,NA,21,21,21,21
+"Indianapolis District Office (Detroit Field Office, Cincinnati and Louisville Area Offices)",2010,EEOC,5.76913,5,1,39,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis District Office (Detroit Field Office, Cincinnati and Louisville Area Offices)",2011,EEOC,9.06876,9,1,41,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis District Office (Detroit Field Office, Cincinnati and Louisville Area Offices)",2012,EEOC,10.08,10,1,28,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis District Office (Detroit Field Office, Cincinnati and Louisville Area Offices)",2013,EEOC,10.18,9,1,38,NA,NA,NA,NA,21,21,21,21
 Inspector General,2008,FLRA,3,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA
 Inspector General,2008,VA,NA,NA,NA,NA,7,6,1,20,NA,NA,NA,NA
 Inspector General,2009,FLRA,5,2,2,10,NA,NA,NA,NA,NA,NA,NA,NA
@@ -923,18 +945,24 @@ Inter-American Foundation,2010,IAF,15.2,14,11,10,NA,NA,NA,NA,NA,NA,NA,NA
 Inter-American Foundation,2011,IAF,13.9,15,4,33,NA,NA,NA,NA,NA,NA,NA,NA
 Inter-American Foundation,2012,IAF,13.9,8,2,57,NA,NA,NA,NA,NA,NA,NA,NA
 Inter-American Foundation,2013,IAF,16.36,17,2,35,NA,NA,NA,NA,NA,NA,NA,NA
-Internal Revenue Service,2008,Treasury,NA,NA,NA,NA,24,15,NA,1774,4,4,3,5
-Internal Revenue Service,2009,Treasury,NA,NA,NA,NA,24.8,15,NA,988,27.1,14,5,66
-Internal Revenue Service,2010,Treasury,NA,NA,NA,NA,17.5,13,NA,949,8,7,NA,1
-Internal Revenue Service,2011,Treasury,NA,NA,NA,NA,19,14,NA,604,21,18,NA,42
-Internal Revenue Service,2012,Treasury,NA,NA,NA,NA,21.87,17,NA,757,10,8,11,22
-Internal Revenue Service,2013,Treasury,NA,NA,NA,NA,20.04,16,NA,557,41.6,19,5,88
+Internal Revenue Service - Headquarters Office,2008,Treasury,NA,NA,NA,NA,24,15,NA,1774,4,4,3,5
+Internal Revenue Service - Headquarters Office,2009,Treasury,NA,NA,NA,NA,24.8,15,NA,988,27.1,14,5,66
+Internal Revenue Service - Headquarters Office,2010,Treasury,NA,NA,NA,NA,17.5,13,NA,949,8,7,NA,1
+Internal Revenue Service - Headquarters Office,2011,Treasury,NA,NA,NA,NA,19,14,NA,604,21,18,NA,42
+Internal Revenue Service - Headquarters Office,2012,Treasury,NA,NA,NA,NA,21.87,17,NA,757,10,8,11,22
+Internal Revenue Service - Headquarters Office,2013,Treasury,NA,NA,NA,NA,20.04,16,NA,557,41.6,19,5,88
 International Trade Administration,2008,DOC,16,42,1,64,NA,NA,NA,NA,NA,NA,NA,NA
 International Trade Administration,2009,DOC,21,11,1,152,NA,NA,NA,NA,NA,NA,NA,NA
 International Trade Administration,2010,DOC,12,20,1,233,NA,NA,NA,NA,NA,NA,NA,NA
 International Trade Administration,2011,DOC,60,64,2,160,47,57,26,66,NA,NA,NA,NA
 International Trade Administration,2012,DOC,84,31,1,367,177,158,4,424,NA,NA,NA,NA
 International Trade Administration,2013,DOC,4,1,1,19,149,74,10,680,NA,NA,NA,NA
+Jet Propulsion Laboratory,2008,NASA,28,14,1,110,NA,NA,NA,NA,NA,NA,NA,NA
+Jet Propulsion Laboratory,2009,NASA,28,14,1,110,NA,NA,NA,NA,NA,NA,NA,NA
+Jet Propulsion Laboratory,2010,NASA,4.38,2.5,NA,29,24.33,25,19,29,NA,NA,NA,NA
+Jet Propulsion Laboratory,2011,NASA,6.59,4,NA,37,12.55,9.5,NA,77,NA,NA,NA,NA
+Jet Propulsion Laboratory,2012,NASA,2.65,2,NA,6,6.86,7,NA,20,NA,NA,NA,NA
+Jet Propulsion Laboratory,2013,NASA,4.33,4,NA,16,20.88,7.5,2,126,NA,NA,NA,NA
 Job Corps,2008,U.S. DOL,5,3,2,7,NA,NA,NA,NA,NA,NA,NA,NA
 Job Corps,2009,U.S. DOL,2,2,1,3,NA,NA,NA,NA,1,1,1,1
 Johnson Space Center,2008,NASA,7,7,1,20,75,75,21,260,30,30,4,110
@@ -967,10 +995,10 @@ Legal Services Corporation ,2010,LSC,156,77,21,482,101,77,28,222,NA,NA,41,41
 Legal Services Corporation ,2011,LSC,223,195,1,728,256,222,1,881,31,NA,31,31
 Legal Services Corporation ,2012,LSC,8.11,6,1,30,22,21,17,29,9,6,1,19
 Legal Services Corporation ,2013,LSC,9.94,7,1,53,NA,NA,NA,NA,NA,NA,NA,NA
-Los Angeles District Office,2010,EEOC,1.97154,1,1,35,NA,NA,NA,NA,NA,NA,NA,NA
-Los Angeles District Office,2011,EEOC,8.3125,8,1,20,NA,NA,NA,NA,NA,NA,NA,NA
-Los Angeles District Office,2012,EEOC,9.85,9,1,20,NA,NA,NA,NA,NA,NA,NA,NA
-Los Angeles District Office,2013,EEOC,2.7,1,1,19,NA,NA,NA,NA,14,14,14,14
+"Los Angeles District Office (Fresno, Honolulu, Las Vegas, and San Diego Local Offices)",2010,EEOC,1.97154,1,1,35,NA,NA,NA,NA,NA,NA,NA,NA
+"Los Angeles District Office (Fresno, Honolulu, Las Vegas, and San Diego Local Offices)",2011,EEOC,8.3125,8,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+"Los Angeles District Office (Fresno, Honolulu, Las Vegas, and San Diego Local Offices)",2012,EEOC,9.85,9,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+"Los Angeles District Office (Fresno, Honolulu, Las Vegas, and San Diego Local Offices)",2013,EEOC,2.7,1,1,19,NA,NA,NA,NA,14,14,14,14
 Management Directorate,2008,DHS,7.9,4,1,37,31.4,29,2,101,NA,NA,NA,NA
 Management Directorate,2009,DHS,9.4,9,1,62,30.63,24.5,2,186,NA,NA,NA,NA
 Management Directorate,2010,DHS,9.41,9,1,33,42.85,36,12,157,NA,NA,NA,NA
@@ -988,24 +1016,30 @@ Marshall Space Flight Center,2010,NASA,14.45,11,NA,62,49.5,21.5,5,153,19.75,20.5
 Marshall Space Flight Center,2011,NASA,13.9,12,NA,84,32.14,29,2,100,NA,NA,NA,NA
 Marshall Space Flight Center,2012,NASA,9.44,7,NA,28,20.5,18.5,NA,63,NA,NA,NA,NA
 Marshall Space Flight Center,2013,NASA,7.95,5,NA,29,21.58,23,NA,66,NA,NA,NA,NA
-Memphis District Office,2010,EEOC,14.9498,17,1,31,NA,NA,NA,NA,NA,NA,NA,NA
-Memphis District Office,2011,EEOC,17.0733,18,1,54,NA,NA,NA,NA,NA,NA,NA,NA
-Memphis District Office,2012,EEOC,21.74,19,1,73,NA,NA,NA,NA,NA,NA,NA,NA
-Memphis District Office,2013,EEOC,19.76,19,1,48,NA,NA,NA,NA,NA,NA,NA,NA
-Miami District Office,2010,EEOC,13.479,1,1,240,NA,NA,NA,NA,NA,NA,NA,NA
-Miami District Office,2011,EEOC,18.1431,18,1,84,NA,NA,NA,NA,NA,NA,NA,NA
-Miami District Office,2012,EEOC,18.62,19,1,88,NA,NA,NA,NA,NA,NA,NA,NA
-Miami District Office,2013,EEOC,15.37,15,1,105,NA,NA,NA,NA,11.33,11,11,12
+Memphis District Office (Little Rock and Nashville Area Offices),2010,EEOC,14.9498,17,1,31,NA,NA,NA,NA,NA,NA,NA,NA
+Memphis District Office (Little Rock and Nashville Area Offices),2011,EEOC,17.0733,18,1,54,NA,NA,NA,NA,NA,NA,NA,NA
+Memphis District Office (Little Rock and Nashville Area Offices),2012,EEOC,21.74,19,1,73,NA,NA,NA,NA,NA,NA,NA,NA
+Memphis District Office (Little Rock and Nashville Area Offices),2013,EEOC,19.76,19,1,48,NA,NA,NA,NA,NA,NA,NA,NA
+Merit Systems Protection Board,2008,MSPB,9.2,11,NA,25,47.5,40,30,180,NA,NA,NA,NA
+Merit Systems Protection Board,2009,MSPB,15,7,NA,93,NA,NA,NA,NA,NA,NA,NA,NA
+Merit Systems Protection Board,2010,MSPB,17,8,NA,85,NA,NA,NA,NA,NA,NA,NA,NA
+Merit Systems Protection Board,2011,MSPB,9,17,NA,35,42,42,4,81,NA,NA,NA,NA
+Merit Systems Protection Board,2012,MSPB,10,18,NA,38,NA,NA,NA,NA,8,8,8,8
+Merit Systems Protection Board,2013,MSPB,22.3,13,NA,440,67.92,55,31,150,NA,NA,NA,NA
+Miami District Office (Tampa Field Office and San Juan Local Office),2010,EEOC,13.479,1,1,240,NA,NA,NA,NA,NA,NA,NA,NA
+Miami District Office (Tampa Field Office and San Juan Local Office),2011,EEOC,18.1431,18,1,84,NA,NA,NA,NA,NA,NA,NA,NA
+Miami District Office (Tampa Field Office and San Juan Local Office),2012,EEOC,18.62,19,1,88,NA,NA,NA,NA,NA,NA,NA,NA
+Miami District Office (Tampa Field Office and San Juan Local Office),2013,EEOC,15.37,15,1,105,NA,NA,NA,NA,11.33,11,11,12
 Millennium Challenge Corporation,2010,MCC,17,6,NA,259,NA,NA,NA,NA,NA,NA,NA,NA
 Millennium Challenge Corporation,2011,MCC,14,16,1,21,NA,NA,NA,NA,NA,NA,NA,NA
 Millennium Challenge Corporation,2012,MCC,15,17,3,21,NA,NA,NA,NA,NA,NA,NA,NA
 Millennium Challenge Corporation,2013,MCC,17,18,NA,55,NA,NA,NA,NA,NA,NA,NA,NA
-Mine Safety and Health Administration,2008,U.S. DOL,NA,NA,NA,NA,15,34,1,601,236.6,250,110,350
-Mine Safety and Health Administration,2009,U.S. DOL,NA,NA,NA,NA,14.8,9,NA,329,48.6,3,2,180
-Mine Safety and Health Administration,2010,U.S. DOL,NA,NA,NA,NA,17.3,10,NA,519,51.2,31,2,438
-Mine Safety and Health Administration,2011,U.S. DOL,NA,NA,NA,NA,24,13,NA,492,160.4,151.5,2,345
-Mine Safety and Health Administration,2012,U.S. DOL,NA,NA,NA,NA,38.6,11,NA,1936,174.4,51,5,1302
-Mine Safety and Health Administration,2013,U.S. DOL,NA,NA,NA,NA,16.2,9,NA,1285,188.6,124,40,519
+Mine Safety & Health Administration,2008,U.S. DOL,NA,NA,NA,NA,15,34,1,601,236.6,250,110,350
+Mine Safety & Health Administration,2009,U.S. DOL,NA,NA,NA,NA,14.8,9,NA,329,48.6,3,2,180
+Mine Safety & Health Administration,2010,U.S. DOL,NA,NA,NA,NA,17.3,10,NA,519,51.2,31,2,438
+Mine Safety & Health Administration,2011,U.S. DOL,NA,NA,NA,NA,24,13,NA,492,160.4,151.5,2,345
+Mine Safety & Health Administration,2012,U.S. DOL,NA,NA,NA,NA,38.6,11,NA,1936,174.4,51,5,1302
+Mine Safety & Health Administration,2013,U.S. DOL,NA,NA,NA,NA,16.2,9,NA,1285,188.6,124,40,519
 Minerals Management Service,2008,DOI,1,1,1,1,26.13,NA,NA,333,NA,NA,NA,NA
 Minerals Management Service,2009,DOI,2,2,1,3,26.41,NA,NA,284,NA,NA,NA,NA
 Minority Business Development Agency,2008,DOC,14,13,8,20,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1018,18 +1052,12 @@ Multiple Offices Assigned,2012,ED,114.93,39,NA,730,151.52,107.5,4,23,119.5,85.5,
 Multiple Offices Assigned,2013,ED,27.17,20,1,178,95.36,64,5,817,NA,NA,NA,NA
 NASA Headquarters,2008,NASA,19,8,1,119,123,84,1,1208,NA,NA,NA,NA
 NASA Headquarters,2009,NASA,19,8,1,119,123,84,1,1208,NA,NA,NA,NA
-NASA Management Office - Jet Propulsion Laboratory,2008,NASA,28,14,1,110,NA,NA,NA,NA,NA,NA,NA,NA
-NASA Management Office - Jet Propulsion Laboratory,2009,NASA,28,14,1,110,NA,NA,NA,NA,NA,NA,NA,NA
-NASA Management Office - Jet Propulsion Laboratory,2010,NASA,4.38,2.5,NA,29,24.33,25,19,29,NA,NA,NA,NA
-NASA Management Office - Jet Propulsion Laboratory,2011,NASA,6.59,4,NA,37,12.55,9.5,NA,77,NA,NA,NA,NA
-NASA Management Office - Jet Propulsion Laboratory,2012,NASA,2.65,2,NA,6,6.86,7,NA,20,NA,NA,NA,NA
-NASA Management Office - Jet Propulsion Laboratory,2013,NASA,4.33,4,NA,16,20.88,7.5,2,126,NA,NA,NA,NA
-NASA Shared Services Center,2008,NASA,14,7,1,25,NA,NA,NA,NA,NA,NA,NA,NA
-NASA Shared Services Center,2009,NASA,14,7,1,25,NA,NA,NA,NA,NA,NA,NA,NA
-NASA Shared Services Center,2010,NASA,17.35,14,NA,51,25.5,18,2,64,NA,NA,NA,NA
-NASA Shared Services Center,2011,NASA,23.46,18,9,86,109.67,42,16,452,NA,NA,NA,NA
-NASA Shared Services Center,2012,NASA,9.75,9,3,18,20.18,13,4,78,NA,NA,NA,NA
-NASA Shared Services Center,2013,NASA,11.33,8,6,20,56.14,25,10,252,NA,NA,NA,NA
+NASA Shared Service Center (NSSC),2008,NASA,14,7,1,25,NA,NA,NA,NA,NA,NA,NA,NA
+NASA Shared Service Center (NSSC),2009,NASA,14,7,1,25,NA,NA,NA,NA,NA,NA,NA,NA
+NASA Shared Service Center (NSSC),2010,NASA,17.35,14,NA,51,25.5,18,2,64,NA,NA,NA,NA
+NASA Shared Service Center (NSSC),2011,NASA,23.46,18,9,86,109.67,42,16,452,NA,NA,NA,NA
+NASA Shared Service Center (NSSC),2012,NASA,9.75,9,3,18,20.18,13,4,78,NA,NA,NA,NA
+NASA Shared Service Center (NSSC),2013,NASA,11.33,8,6,20,56.14,25,10,252,NA,NA,NA,NA
 NSF Foundation,2008,NSF,21.12,17.5,1,229,NA,NA,NA,NA,NA,NA,NA,NA
 NSF Foundation,2009,NSF,22,16,1,1825,NA,NA,NA,NA,21,8,6,41
 National Aeronautics and Space Administration,2008,NASA,34,11,1,415,83,35,1,1142,36,36,4,110
@@ -1052,12 +1080,12 @@ National Capital Planning Commission,2010,NCPC,3.5,4,1,7,NA,NA,NA,NA,NA,NA,NA,NA
 National Capital Planning Commission,2011,NCPC,6,7,1,10,NA,NA,NA,NA,NA,NA,NA,NA
 National Capital Planning Commission,2012,NCPC,3,3,1,6,NA,NA,NA,NA,NA,NA,NA,NA
 National Capital Planning Commission,2013,NCPC,3.67,2,NA,16,NA,NA,NA,NA,NA,NA,NA,NA
-National Cemetary Administration,2009,VA,NA,NA,NA,NA,16,10.5,NA,90,NA,NA,NA,NA
-National Cemetary Administration,2010,VA,NA,NA,NA,NA,21.2,15,NA,318,NA,NA,NA,NA
-National Cemetary Administration,2011,VA,NA,NA,NA,NA,30.57,26,1,193,NA,NA,NA,NA
-National Cemetary Administration,2012,VA,NA,NA,NA,NA,15.68,12,NA,120,NA,NA,NA,NA
-National Cemetary Administration,2013,VA,23.75,20,7,46,38.19,31,1,324,NA,NA,NA,NA
 National Cemetery Administration,2008,VA,NA,NA,NA,NA,14,13.5,1,43,2,2,2,2
+National Cemetery Administration,2009,VA,NA,NA,NA,NA,16,10.5,NA,90,NA,NA,NA,NA
+National Cemetery Administration,2010,VA,NA,NA,NA,NA,21.2,15,NA,318,NA,NA,NA,NA
+National Cemetery Administration,2011,VA,NA,NA,NA,NA,30.57,26,1,193,NA,NA,NA,NA
+National Cemetery Administration,2012,VA,NA,NA,NA,NA,15.68,12,NA,120,NA,NA,NA,NA
+National Cemetery Administration,2013,VA,23.75,20,7,46,38.19,31,1,324,NA,NA,NA,NA
 National Credit Union Administration,2008,NCUA,12,9.5,1,54,30.5,20,1,135,19,19,14,24
 National Credit Union Administration,2009,NCUA,11.1,9,NA,47,27,22,NA,76,42,42,22,62
 National Credit Union Administration,2010,NCUA,15,14,NA,134,43,39,13,123,32,12,10,74
@@ -1084,29 +1112,35 @@ National Energy Technology Laboratory,2010,DOE,17.51,12,NA,80,NA,NA,NA,NA,NA,NA,
 National Energy Technology Laboratory,2011,DOE,16.68,13,NA,53,NA,NA,NA,NA,NA,NA,NA,NA
 National Energy Technology Laboratory,2012,DOE,19.86,16.5,NA,85,NA,NA,NA,NA,NA,NA,NA,NA
 National Energy Technology Laboratory,2013,DOE,18.86,4,NA,217,NA,NA,NA,NA,NA,NA,NA,NA
-National Geospatial Command,2008,DoD,194,149,118,655,370,362,88,845,NA,NA,NA,NA
-National Geospatial Command,2009,DoD,120,19,1,543,350,346,1,922,NA,NA,NA,NA
-National Geospatial Command,2010,DoD,221,26,NA,845,417,608,5,1074,NA,NA,NA,NA
-National Geospatial Command,2011,DoD,NA,NA,NA,NA,288,281,NA,870,NA,NA,NA,NA
-National Geospatial Command,2012,DoD,287,296,244,321,306,266,NA,1022,132,132,132,132
-National Geospatial Command,2013,DoD,NA,NA,NA,NA,255,155,NA,819,NA,NA,NA,NA
+National Geospatial-Intelligence Agency,2008,DoD,194,149,118,655,370,362,88,845,NA,NA,NA,NA
+National Geospatial-Intelligence Agency,2009,DoD,120,19,1,543,350,346,1,922,NA,NA,NA,NA
+National Geospatial-Intelligence Agency,2010,DoD,221,26,NA,845,417,608,5,1074,NA,NA,NA,NA
+National Geospatial-Intelligence Agency,2011,DoD,NA,NA,NA,NA,288,281,NA,870,NA,NA,NA,NA
+National Geospatial-Intelligence Agency,2012,DoD,287,296,244,321,306,266,NA,1022,132,132,132,132
+National Geospatial-Intelligence Agency,2013,DoD,NA,NA,NA,NA,255,155,NA,819,NA,NA,NA,NA
 National Guard Bureau,2009,DoD,28,21,1,113,65,65,53,77,99,99,99,99
 National Guard Bureau,2010,DoD,15,5,1,124,48,34,1,147,NA,NA,NA,NA
 National Guard Bureau,2011,DoD,16,6,10,113,61,49,1,197,NA,NA,NA,NA
 National Guard Bureau,2012,DoD,6,5,NA,23,69,52,NA,337,NA,NA,NA,NA
 National Guard Bureau,2013,DoD,10,10,NA,30,85,61,6,604,NA,NA,NA,NA
+National Headquarters,2008,EPA,46.88,18,NA,1364,296.56,72,11,1329,NA,NA,NA,NA
+National Headquarters,2009,EPA,55.44,19,1,1419,222.43,142,10,443,10.5,10.5,10,11
+National Headquarters,2010,EPA,63.34,20,NA,1436,245.67,111,NA,959,14.36,12,NA,44
+National Headquarters,2011,EPA,74.92,21,NA,1448,586.71,427,14,1326,29.07,20,6,116
+National Headquarters,2012,EPA,14.23,15,NA,19,44.28,40,NA,236,152,120,31,346
+National Headquarters,2013,EPA,73.69,16,NA,2044,99.96,54,1,1344,261.75,254.5,14,524
 National Highway Traffic Safety Administration,2008,DOT,15,22,2,30,NA,NA,NA,NA,NA,NA,NA,NA
 National Highway Traffic Safety Administration,2009,DOT,23,20,NA,168,30,30,21,39,8,7,NA,17
 National Highway Traffic Safety Administration,2010,DOT,NA,NA,NA,NA,28,21,NA,253,NA,NA,NA,NA
 National Highway Traffic Safety Administration,2011,DOT,32,18,NA,316,72,29,8,357,NA,NA,NA,6
 National Highway Traffic Safety Administration,2012,DOT,19,17,NA,170,51,30,2,296,10,10,10,10
 National Highway Traffic Safety Administration,2013,DOT,20,18,1,289,102,43,1,310,NA,NA,NA,NA
-National Indian Gaming Commision,2008,NIGC,10,15.7,1,80,26,28.2,5,63,12,9,1,29
-National Indian Gaming Commision,2009,NIGC,15.1,12,1,49,48.7,43.5,14,110,6,6,5,7
-National Indian Gaming Commision,2010,NIGC,25.3,10,1,188,87,102,2,166,2,2,1,3
-National Indian Gaming Commision,2011,NIGC,30.15,156,1,121,64,128,15,270,25,25,25,25
-National Indian Gaming Commision,2012,NIGC,53.95,31,1,226,143,97,94,238,NA,NA,NA,NA
-National Indian Gaming Commision,2013,NIGC,109,68.5,5,478,504,588,336,588,NA,NA,NA,NA
+National Indian Gaming Commission,2008,NIGC,10,15.7,1,80,26,28.2,5,63,12,9,1,29
+National Indian Gaming Commission,2009,NIGC,15.1,12,1,49,48.7,43.5,14,110,6,6,5,7
+National Indian Gaming Commission,2010,NIGC,25.3,10,1,188,87,102,2,166,2,2,1,3
+National Indian Gaming Commission,2011,NIGC,30.15,156,1,121,64,128,15,270,25,25,25,25
+National Indian Gaming Commission,2012,NIGC,53.95,31,1,226,143,97,94,238,NA,NA,NA,NA
+National Indian Gaming Commission,2013,NIGC,109,68.5,5,478,504,588,336,588,NA,NA,NA,NA
 National Institute of Standards and Technology,2008,DOC,22,33,1,466,NA,NA,NA,NA,NA,NA,NA,NA
 National Institute of Standards and Technology,2009,DOC,31,28,1,256,NA,NA,NA,NA,NA,NA,NA,NA
 National Institute of Standards and Technology,2010,DOC,26,5,1,920,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1129,12 +1163,18 @@ National Mediation Board,2010,NMB,17,10,3,87,NA,NA,NA,NA,15,10,7,29
 National Mediation Board,2011,NMB,40.5,29.5,6,153,NA,NA,NA,NA,39.33,20,20,78
 National Mediation Board,2012,NMB,30.32,11,2,125,NA,NA,NA,NA,NA,NA,NA,NA
 National Mediation Board,2013,NMB,6,7,NA,20,NA,NA,NA,NA,15,15,15,15
+National Nuclear Security Administration Office of Naval Reactors,2008,DOE,45,20,7,120,NA,NA,NA,NA,NA,NA,NA,NA
+National Nuclear Security Administration Office of Naval Reactors,2009,DOE,20,19,1,65,77,77,77,77,NA,NA,NA,NA
+National Nuclear Security Administration Office of Naval Reactors,2010,DOE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+National Nuclear Security Administration Office of Naval Reactors,2011,DOE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+National Nuclear Security Administration Office of Naval Reactors,2012,DOE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+National Nuclear Security Administration Office of Naval Reactors,2013,DOE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 National Nuclear Security Administration Service Center Albuquerque,2008,DOE,59,35,1,950,NA,NA,NA,NA,NA,NA,NA,NA
 National Nuclear Security Administration Service Center Albuquerque,2009,DOE,20,15,NA,74,120,48,NA,935,NA,NA,NA,NA
-National Nuclear Security Administration,2010,DOE,24.4,13,NA,157,163.88,53,NA,2305,9,9,9,9
-National Nuclear Security Administration,2011,DOE,21.24,12,1,146,134.19,58,1,1092,268,268,268,268
-National Nuclear Security Administration,2012,DOE,32.26,6,NA,411,110.52,48,1,1016,70.33,16,2,193
-National Nuclear Security Administration,2013,DOE,4.89,5,NA,14,121.78,38,NA,1556,NA,NA,NA,NA
+National Nuclear Security Administration Service Center,2010,DOE,24.4,13,NA,157,163.88,53,NA,2305,9,9,9,9
+National Nuclear Security Administration Service Center,2011,DOE,21.24,12,1,146,134.19,58,1,1092,268,268,268,268
+National Nuclear Security Administration Service Center,2012,DOE,32.26,6,NA,411,110.52,48,1,1016,70.33,16,2,193
+National Nuclear Security Administration Service Center,2013,DOE,4.89,5,NA,14,121.78,38,NA,1556,NA,NA,NA,NA
 National Oceanic and Atmospheric Administration,2008,DOC,10,9,1,20,55,57,21,684,10,8,5,22
 National Oceanic and Atmospheric Administration,2009,DOC,9,9,1,20,113,50,21,762,10,6,5,40
 National Oceanic and Atmospheric Administration,2010,DOC,9,9,1,20,67,42,21,456,80,35,25,105
@@ -1147,12 +1187,6 @@ National Park Service,2010,DOI,5,NA,NA,43,16,6,NA,424,37,19,2,124
 National Park Service,2011,DOI,15,3,1,55,16,7,NA,444,21,21,NA,42
 National Park Service,2012,DOI,NA,NA,NA,NA,27,9,NA,1438,18,9,NA,103
 National Park Service,2013,DOI,13,14,NA,27,28,13,NA,545,22,16,2,64
-National Protection and Programs Directorate,2008,DHS,42.52,19,1,175,215.5,154,40,650,NA,NA,NA,NA
-National Protection and Programs Directorate,2009,DHS,55.6,32.5,1,352,280.55,212,116,684,NA,NA,NA,NA
-National Protection and Programs Directorate,2010,DHS,29.69,24,1,100,195.71,171,107,359,NA,NA,NA,NA
-National Protection and Programs Directorate,2011,DHS,49.9,27,1,28,127.26,121.5,3,483,NA,NA,NA,NA
-National Protection and Programs Directorate,2012,DHS,27.37,33,1,159,100.35,61,1,387,39,39,39,39
-National Protection and Programs Directorate,2013,DHS,44.22,35,1,243,37.26,25,1,362,13.5,13.5,11,16
 National Reconnaissance Office,2008,DoD,13,9,1,47,219,96,41,1011,NA,NA,NA,NA
 National Reconnaissance Office,2009,DoD,13,13,1,77,218,136,22,1161,NA,NA,NA,NA
 National Reconnaissance Office,2010,DoD,10,7,NA,39,177,133,41,1364,5,5,5,5
@@ -1201,16 +1235,16 @@ Naval Reactors Laboratory Field Office,2010,DOE,18.22,12,NA,79,NA,NA,NA,NA,NA,NA
 Naval Reactors Laboratory Field Office,2011,DOE,31.79,14.5,4,189,NA,NA,NA,NA,NA,NA,NA,NA
 Naval Reactors Laboratory Field Office,2012,DOE,63.14,23,1,318,NA,NA,NA,NA,NA,NA,NA,NA
 Naval Reactors Laboratory Field Office,2013,DOE,39.12,23.5,11,140,NA,NA,NA,NA,NA,NA,NA,NA
-Naval Reactors,2008,DOE,45,20,7,120,NA,NA,NA,NA,NA,NA,NA,NA
-Naval Reactors,2009,DOE,20,19,1,65,77,77,77,77,NA,NA,NA,NA
-Naval Reactors,2010,DOE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Naval Reactors,2011,DOE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Naval Reactors,2012,DOE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Naval Reactors,2013,DOE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-New York District Office,2010,EEOC,15.1007,13,1,128,NA,NA,NA,NA,NA,NA,NA,NA
-New York District Office,2011,EEOC,48.8708,29,1,290,NA,NA,NA,NA,NA,NA,NA,NA
-New York District Office,2012,EEOC,40.58,28,1,284,NA,NA,NA,NA,NA,NA,NA,NA
-New York District Office,2013,EEOC,37.82,23,1,253,NA,NA,NA,NA,20.5,20.5,20,21
+"New York District Office (Boston and Newark Area Offices, Buffalo Local Office)",2010,EEOC,15.1007,13,1,128,NA,NA,NA,NA,NA,NA,NA,NA
+"New York District Office (Boston and Newark Area Offices, Buffalo Local Office)",2011,EEOC,48.8708,29,1,290,NA,NA,NA,NA,NA,NA,NA,NA
+"New York District Office (Boston and Newark Area Offices, Buffalo Local Office)",2012,EEOC,40.58,28,1,284,NA,NA,NA,NA,NA,NA,NA,NA
+"New York District Office (Boston and Newark Area Offices, Buffalo Local Office)",2013,EEOC,37.82,23,1,253,NA,NA,NA,NA,20.5,20.5,20,21
+Nuclear Regulatory Commission,2008,USNRC,15,11,NA,136,56,49,NA,178,NA,NA,NA,NA
+Nuclear Regulatory Commission,2009,USNRC,14,11,NA,113,45,43,3,156,NA,NA,NA,NA
+Nuclear Regulatory Commission,2010,USNRC,11,9,NA,70,53,43,NA,219,NA,NA,NA,NA
+Nuclear Regulatory Commission,2011,USNRC,11,9,NA,63,46,32,1,290,6,6,6,6
+Nuclear Regulatory Commission,2012,USNRC,10,7,NA,129,51,20,NA,437,135,23,15,366
+Nuclear Regulatory Commission,2013,USNRC,12,9,NA,93,82,21,NA,617,391,391,391,391
 OCR District of Columbia,2010,ED,41,16,1,192,64,32,10,159,NA,NA,NA,NA
 OCR District of Columbia,2011,ED,25,11,NA,163,47.5,46,NA,136,NA,NA,NA,NA
 OCR District of Columbia,2012,ED,18.27,10.5,1,98,110.13,74.5,5,325,NA,NA,NA,NA
@@ -1283,10 +1317,6 @@ OCR Regional Enforcement Office - San Francisco,2008,ED,8,6,1,30,10,6,2,25,NA,NA
 OCR Regional Enforcement Office - San Francisco,2009,ED,7,3,NA,20,6,6,NA,13,NA,NA,NA,NA
 OCR Regional Enforcement Office - Seattle,2008,ED,6,3,1,20,11,10,1,25,NA,NA,NA,NA
 OCR Regional Enforcement Office - Seattle,2009,ED,3,3,NA,8,7,6,NA,19,NA,NA,NA,NA
-OFFICE OF THE U.S. TRADE REPRESENTATIVE,2010,USTR,46,45,30,85,269,186,47,1213,13,11,3,32
-OFFICE OF THE U.S. TRADE REPRESENTATIVE,2011,USTR,17,9,1,46,305,374,3,805,10,7,1,40
-OFFICE OF THE U.S. TRADE REPRESENTATIVE,2012,USTR,22,10,3,88,151,31,1,905,38,51,2,51
-OFFICE OF THE U.S. TRADE REPRESENTATIVE,2013,USTR,19,16,1,41,141,39,7,789,NA,NA,NA,NA
 "OM - Privacy, Information, Record Management Services",2011,ED,35.82,16,NA,496,105.21,89,NA,494,19,19,19,19
 "OM - Privacy, Information, Record Management Services",2012,ED,33.56,9,8,366,186.83,161,8,376,NA,NA,NA,NA
 "OM - Privacy, Information, Record Management Services",2013,ED,9.37,1,NA,279,45.75,6,NA,745,NA,NA,NA,NA
@@ -1296,12 +1326,12 @@ Oak Ridge Office,2010,DOE,26.83,18,NA,145,82.24,28,NA,372,4.75,4.5,4,6
 Oak Ridge Office,2011,DOE,15.16,12,NA,58,38.5,27,NA,182,18,18,18,18
 Oak Ridge Office,2012,DOE,30.37,23,NA,161,62.6,49,9,192,3,3,3,3
 Oak Ridge Office,2013,DOE,23.25,13,NA,291,99.83,50.5,4,478,NA,NA,NA,NA
-Occupational Safety and Health Administration,2008,U.S. DOL,12.7,9,1,65,18.5,16,1,65,6.5,6,1,26
-Occupational Safety and Health Administration,2009,U.S. DOL,22.4,5,1,494,91,8,1,550,36,11,1,138
-Occupational Safety and Health Administration,2010,U.S. DOL,16,5,NA,474,19.7,8,NA,475,13.7,4,NA,244
-Occupational Safety and Health Administration,2011,U.S. DOL,12.9,5,NA,502,18.4,7,NA,488,9.4,5,1,119
-Occupational Safety and Health Administration,2012,U.S. DOL,27.6,6,NA,999,29.4,9,NA,2796,15.2,7,1,193
-Occupational Safety and Health Administration,2013,U.S. DOL,15.3,4,1,1211,27.4,9,NA,1735,20.8,6,1,149
+Occupational Safety & Health Administration,2008,U.S. DOL,12.7,9,1,65,18.5,16,1,65,6.5,6,1,26
+Occupational Safety & Health Administration,2009,U.S. DOL,22.4,5,1,494,91,8,1,550,36,11,1,138
+Occupational Safety & Health Administration,2010,U.S. DOL,16,5,NA,474,19.7,8,NA,475,13.7,4,NA,244
+Occupational Safety & Health Administration,2011,U.S. DOL,12.9,5,NA,502,18.4,7,NA,488,9.4,5,1,119
+Occupational Safety & Health Administration,2012,U.S. DOL,27.6,6,NA,999,29.4,9,NA,2796,15.2,7,1,193
+Occupational Safety & Health Administration,2013,U.S. DOL,15.3,4,1,1211,27.4,9,NA,1735,20.8,6,1,149
 Occupational Safety and Health Review Commission,2008,OSHRC,8.5,7,1,20,28,28,28,28,NA,NA,NA,NA
 Occupational Safety and Health Review Commission,2009,OSHRC,9,8,NA,20,28,28,28,28,5,5,5,5
 Occupational Safety and Health Review Commission,2010,OSHRC,10.7,10.5,NA,20,26,26.5,21,30,NA,NA,NA,NA
@@ -1314,67 +1344,92 @@ Office for Civil Rights (Headquarters),2010,ED,39,33,1,376,106,44,10,395,NA,NA,N
 Office for Civil Rights (Headquarters),2011,ED,32.47,33.5,NA,115,80,68.5,NA,403,4,4,4,4
 Office for Civil Rights (Headquarters),2012,ED,25.42,25,NA,102,66.78,53,NA,240,NA,NA,NA,NA
 Office for Civil Rights (Headquarters),2013,ED,28.72,40.5,2,70,36.2,28,3,211,NA,NA,NA,NA
-"Office of Acquisition, Logistics, and Construction (formerly A&MM - Acquisition & Material Management)",2009,VA,NA,NA,NA,NA,354,352,1,1583,NA,NA,NA,NA
-"Office of Acquisition, Logistics, and Construction (formerly A&MM - Acquisition & Material Management)",2010,VA,NA,NA,NA,NA,59.8,12.5,NA,571,21,21,21,21
-"Office of Acquisition, Logistics, and Construction (formerly A&MM - Acquisition & Material Management)",2011,VA,NA,NA,NA,NA,32.38,11,NA,321,NA,NA,NA,NA
-"Office of Acquisition, Logistics, and Construction (formerly A&MM - Acquisition & Material Management)",2012,VA,18.57,5,NA,77,15.91,6,NA,133,NA,NA,NA,NA
-"Office of Acquisition, Logistics, and Construction (formerly A&MM - Acquisition & Material Management)",2013,VA,35.73,12,NA,210,37.76,14.5,NA,313,65,65,43,87
+Office for Civil Rights and Civil Liberties,2008,DHS,41,23,8,165,97,72,11,283,NA,NA,NA,NA
+Office for Civil Rights and Civil Liberties,2009,DHS,38.2,38,12,70,91.5,91.5,81,102,NA,NA,NA,NA
+Office for Civil Rights and Civil Liberties,2010,DHS,36.33,22,1,112,465.67,509,38,791,NA,NA,NA,NA
+Office for Civil Rights and Civil Liberties,2011,DHS,8.9,7,1,25,117.76,63,3,434,NA,NA,NA,NA
+Office for Civil Rights and Civil Liberties,2012,DHS,5.86,6,2,16,23.54,13,3,132,4,4,4,4
+Office for Civil Rights and Civil Liberties,2013,DHS,6.07,6,1,12,15.8,12,1,81,NA,NA,NA,NA
+Office of Acquisition & Logistics,2009,VA,NA,NA,NA,NA,354,352,1,1583,NA,NA,NA,NA
+Office of Acquisition & Logistics,2010,VA,NA,NA,NA,NA,59.8,12.5,NA,571,21,21,21,21
+Office of Acquisition & Logistics,2011,VA,NA,NA,NA,NA,32.38,11,NA,321,NA,NA,NA,NA
+Office of Acquisition & Logistics,2012,VA,18.57,5,NA,77,15.91,6,NA,133,NA,NA,NA,NA
+Office of Acquisition & Logistics,2013,VA,35.73,12,NA,210,37.76,14.5,NA,313,65,65,43,87
 Office of Administration,2009,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Administration,2010,VA,NA,NA,NA,NA,143,143,143,143,NA,NA,NA,NA
 Office of Administration,2011,VA,NA,NA,NA,NA,47.67,47.5,1,98,NA,NA,NA,NA
 Office of Administration,2012,VA,34.5,34.5,19,50,167.75,163.5,68,276,NA,NA,NA,NA
 Office of Administration,2013,VA,19.5,16,15,31,112.94,47,NA,428,NA,NA,NA,NA
+Office of Assistant Secretary for Congressional and Legislative Affairs,2009,VA,NA,NA,NA,NA,46,46,39,53,NA,NA,NA,NA
+Office of Assistant Secretary for Congressional and Legislative Affairs,2010,VA,NA,NA,NA,NA,55,20,NA,175,NA,NA,NA,NA
+Office of Assistant Secretary for Congressional and Legislative Affairs,2011,VA,NA,NA,NA,NA,23.47,24,5,56,NA,NA,NA,NA
+Office of Assistant Secretary for Congressional and Legislative Affairs,2012,VA,33.33,30,22,48,27.4,24,2,71,NA,NA,NA,NA
+Office of Assistant Secretary for Congressional and Legislative Affairs,2013,VA,14.2,11,1,33,17.94,18,NA,41,NA,NA,NA,NA
 Office of Assistant Secretary for Health,2011,HHS,26,13,1,349,263,174,6,925,NA,NA,NA,NA
 Office of Assistant Secretary for Health,2012,HHS,16,7,1,153,166,100,7,999,NA,NA,NA,NA
 Office of Assistant Secretary for Health,2013,HHS,8,6,1,20,220,108,21,886,30,30,30,30
-Office of Assistant Secretary for Human Resources and Administration (006),2010,VA,NA,NA,NA,NA,15.67,17,10,20,NA,NA,NA,NA
-Office of Assistant Secretary for Human Resources and Administration (006),2011,VA,NA,NA,NA,NA,11.29,10,4,19,NA,NA,NA,NA
-Office of Assistant Secretary for Human Resources and Administration (006),2012,VA,NA,NA,NA,NA,252.67,377,4,377,NA,NA,NA,NA
-Office of Assistant Secretary for Human Resources and Administration (006),2013,VA,61,61,61,61,288,288,288,288,NA,NA,NA,NA
-Office of Budget and Program Analysis,2010,USDA,6,6,NA,21,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Budget and Program Analysis,2011,USDA,0.83,1,NA,5,0.332,7,7,15,NA,NA,NA,NA
-Office of Budget and Program Analysis,2012,USDA,6.4,5,NA,19,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Budget and Program Analysis,2013,USDA,8.45,9,1,18,34.5,28,9,73,NA,NA,NA,NA
-Office of Civil Rights & Civil Liberties,2008,DHS,41,23,8,165,97,72,11,283,NA,NA,NA,NA
-Office of Civil Rights & Civil Liberties,2009,DHS,38.2,38,12,70,91.5,91.5,81,102,NA,NA,NA,NA
-Office of Civil Rights & Civil Liberties,2010,DHS,36.33,22,1,112,465.67,509,38,791,NA,NA,NA,NA
-Office of Civil Rights & Civil Liberties,2011,DHS,8.9,7,1,25,117.76,63,3,434,NA,NA,NA,NA
-Office of Civil Rights & Civil Liberties,2012,DHS,5.86,6,2,16,23.54,13,3,132,4,4,4,4
-Office of Civil Rights & Civil Liberties,2013,DHS,6.07,6,1,12,15.8,12,1,81,NA,NA,NA,NA
+Office of Assistant Secretary for Human Resources and Administration,2010,VA,NA,NA,NA,NA,15.67,17,10,20,NA,NA,NA,NA
+Office of Assistant Secretary for Human Resources and Administration,2011,VA,NA,NA,NA,NA,11.29,10,4,19,NA,NA,NA,NA
+Office of Assistant Secretary for Human Resources and Administration,2012,VA,NA,NA,NA,NA,252.67,377,4,377,NA,NA,NA,NA
+Office of Assistant Secretary for Human Resources and Administration,2013,VA,61,61,61,61,288,288,288,288,NA,NA,NA,NA
+Office of Assistant Secretary for Information and Technology,2011,VA,NA,NA,NA,NA,20.66,5,NA,328,NA,NA,NA,NA
+Office of Assistant Secretary for Information and Technology,2012,VA,9.73,11,2,18,31.88,9,NA,421,NA,NA,NA,NA
+Office of Assistant Secretary for Information and Technology,2013,VA,16.13,12.5,1,80,23.9,6,NA,281,104.5,104.5,94,115
+Office of Assistant Secretary for Policy and Intergovernmental Affairs,2009,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Assistant Secretary for Policy and Intergovernmental Affairs,2010,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Assistant Secretary for Policy and Intergovernmental Affairs,2011,VA,NA,NA,NA,NA,21.5,21.5,8,35,NA,NA,NA,NA
+Office of Assistant Secretary for Policy and Intergovernmental Affairs,2012,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Assistant Secretary for Policy and Intergovernmental Affairs,2013,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Budget & Program Analysis,2010,USDA,6,6,NA,21,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Budget & Program Analysis,2011,USDA,0.83,1,NA,5,0.332,7,7,15,NA,NA,NA,NA
+Office of Budget & Program Analysis,2012,USDA,6.4,5,NA,19,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Budget & Program Analysis,2013,USDA,8.45,9,1,18,34.5,28,9,73,NA,NA,NA,NA
 Office of Civil Rights,2010,USDA,15,15,1,30,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Civil Rights,2011,USDA,11.68,9.5,NA,37,32,32,32,32,NA,NA,NA,NA
 Office of Civil Rights,2012,USDA,18.65,18.5,1,55,119,119,119,119,NA,NA,NA,NA
 Office of Civil Rights,2013,USDA,11.91,12,1,22,NA,NA,NA,NA,1,1,1,1
-Office of Communications and Outreach,2008,ED,309,309,309,309,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Communications and Outreach,2009,ED,345,345,345,345,100,69,32,200,NA,NA,NA,NA
-Office of Communications and Outreach,2010,ED,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Communications and Outreach,2011,ED,86.5,86.5,26,147,298,340,41,471,NA,NA,NA,NA
-Office of Communications and Outreach,2012,ED,75,75,75,75,219.4,206,37,583,NA,NA,NA,NA
-Office of Communications and Outreach,2013,ED,15,20,20,20,119,119,119,119,NA,NA,NA,NA
+Office of Communications & Outreach,2008,ED,309,309,309,309,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Communications & Outreach,2009,ED,345,345,345,345,100,69,32,200,NA,NA,NA,NA
+Office of Communications & Outreach,2010,ED,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Communications & Outreach,2011,ED,86.5,86.5,26,147,298,340,41,471,NA,NA,NA,NA
+Office of Communications & Outreach,2012,ED,75,75,75,75,219.4,206,37,583,NA,NA,NA,NA
+Office of Communications & Outreach,2013,ED,15,20,20,20,119,119,119,119,NA,NA,NA,NA
 Office of Community Oriented Policing Services,2008,DOJ,3.6,1,1,27,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Community Oriented Policing Services,2009,DOJ,3,2,1,14,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Community Oriented Policing Services,2010,DOJ,NA,NA,NA,NA,3.82,1,NA,18,NA,NA,NA,NA
 Office of Community Oriented Policing Services,2011,DOJ,NA,NA,NA,NA,7.09,6,NA,20,NA,NA,NA,NA
 Office of Community Oriented Policing Services,2012,DOJ,NA,NA,NA,NA,4.7,3,NA,21,NA,NA,NA,NA
 Office of Community Oriented Policing Services,2013,DOJ,NA,NA,NA,NA,7.87,6,NA,48,NA,NA,NA,NA
+Office of Congressional & Intergovernmental Affairs,2008,U.S. DOL,165,340,30,360,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Congressional & Intergovernmental Affairs,2009,U.S. DOL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Congressional & Intergovernmental Affairs,2010,U.S. DOL,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Congressional & Intergovernmental Affairs,2011,U.S. DOL,NA,NA,NA,NA,39.1,36,7,126,30,30,30,30
+Office of Congressional & Intergovernmental Affairs,2012,U.S. DOL,705.8,20.5,12,1899,503.3,39,1,1928,21,21,20,22
+Office of Congressional & Intergovernmental Affairs,2013,U.S. DOL,30.4,7.5,3,209,83.2,81,5,204,NA,NA,NA,NA
 Office of Congressional & Legislative Affairs,2008,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Congressional and Intergovernmental Affairs,2008,U.S. DOL,165,340,30,360,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Congressional and Intergovernmental Affairs,2009,U.S. DOL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Congressional and Intergovernmental Affairs,2010,U.S. DOL,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Congressional and Intergovernmental Affairs,2011,U.S. DOL,NA,NA,NA,NA,39.1,36,7,126,30,30,30,30
-Office of Congressional and Intergovernmental Affairs,2012,U.S. DOL,705.8,20.5,12,1899,503.3,39,1,1928,21,21,20,22
-Office of Congressional and Intergovernmental Affairs,2013,U.S. DOL,30.4,7.5,3,209,83.2,81,5,204,NA,NA,NA,NA
-Office of Congressional and Legislative Affairs,2009,VA,NA,NA,NA,NA,46,46,39,53,NA,NA,NA,NA
-Office of Congressional and Legislative Affairs,2010,VA,NA,NA,NA,NA,55,20,NA,175,NA,NA,NA,NA
-Office of Congressional and Legislative Affairs,2011,VA,NA,NA,NA,NA,23.47,24,5,56,NA,NA,NA,NA
-Office of Congressional and Legislative Affairs,2012,VA,33.33,30,22,48,27.4,24,2,71,NA,NA,NA,NA
-Office of Congressional and Legislative Affairs,2013,VA,14.2,11,1,33,17.94,18,NA,41,NA,NA,NA,NA
 Office of Construction & Facilities Management,2008,VA,NA,NA,NA,NA,14.4,9,1,90,NA,NA,NA,NA
-Office of Construction and Facilities Management,2009,VA,NA,NA,NA,NA,27,16.5,1,142,NA,NA,NA,NA
-Office of Construction and Facilities Management,2010,VA,NA,NA,NA,NA,47.52,31,2,306,NA,NA,NA,NA
-Office of Construction and Facilities Management,2011,VA,NA,NA,NA,NA,62.72,66,NA,218,NA,NA,NA,NA
-Office of Construction and Facilities Management,2012,VA,93.02,103,NA,217,98.67,77,1,226,NA,NA,NA,NA
-Office of Construction and Facilities Management,2013,VA,188.38,189.5,NA,397,132.36,102,1,564,NA,NA,NA,NA
+Office of Construction & Facilities Management,2009,VA,NA,NA,NA,NA,27,16.5,1,142,NA,NA,NA,NA
+Office of Construction & Facilities Management,2010,VA,NA,NA,NA,NA,47.52,31,2,306,NA,NA,NA,NA
+Office of Construction & Facilities Management,2011,VA,NA,NA,NA,NA,62.72,66,NA,218,NA,NA,NA,NA
+Office of Construction & Facilities Management,2012,VA,93.02,103,NA,217,98.67,77,1,226,NA,NA,NA,NA
+Office of Construction & Facilities Management,2013,VA,188.38,189.5,NA,397,132.36,102,1,564,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Budget,2008,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Budget,2009,VA,NA,NA,NA,NA,12,12,5,19,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Budget,2010,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Budget,2011,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Budget,2012,VA,NA,NA,NA,NA,63,63,63,63,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Budget,2013,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Diversity and Inclusion,2009,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Diversity and Inclusion,2010,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Diversity and Inclusion,2011,VA,NA,NA,NA,NA,7,7,7,7,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Diversity and Inclusion,2012,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Diversity and Inclusion,2013,VA,NA,NA,NA,NA,28,28,28,28,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Human Resources Management,2008,VA,NA,NA,NA,NA,3,3,2,5,2,2,2,2
+Office of Deputy Assistant Secretary for Human Resources Management,2009,VA,NA,NA,NA,NA,3,3,1,5,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Human Resources Management,2010,VA,NA,NA,NA,NA,138.5,138.5,26,251,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Human Resources Management,2011,VA,NA,NA,NA,NA,230.53,218,15,442,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Human Resources Management,2012,VA,NA,NA,NA,NA,213,187,5,470,NA,NA,NA,NA
+Office of Deputy Assistant Secretary for Human Resources Management,2013,VA,279,279,279,279,214,87,85,470,NA,NA,NA,NA
 Office of Disability Employment Policy,2008,U.S. DOL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Disability Employment Policy,2009,U.S. DOL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Disability Employment Policy,2010,U.S. DOL,2,4,2,4,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1386,28 +1441,23 @@ Office of Dispute Resolution,2009,DOJ,3,1.5,1,14,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Dispute Resolution,2010,DOJ,NA,NA,NA,NA,21.44,23,1,49,NA,NA,NA,NA
 Office of Dispute Resolution,2011,DOJ,6.82,6,NA,16,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Diversity Management & Equal Employment Opportunity,2008,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Diversity and Inclusion (formerly DM&EEO - Office of Diversity Management and Equal Employment Opportunity),2009,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Diversity and Inclusion (formerly DM&EEO - Office of Diversity Management and Equal Employment Opportunity),2010,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Diversity and Inclusion (formerly DM&EEO - Office of Diversity Management and Equal Employment Opportunity),2011,VA,NA,NA,NA,NA,7,7,7,7,NA,NA,NA,NA
-Office of Diversity and Inclusion (formerly DM&EEO - Office of Diversity Management and Equal Employment Opportunity),2012,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Diversity and Inclusion (formerly DM&EEO - Office of Diversity Management and Equal Employment Opportunity),2013,VA,NA,NA,NA,NA,28,28,28,28,NA,NA,NA,NA
-Office of Elementary and Secondary Education,2008,ED,289,240,13,836,108,64,6,572,NA,NA,NA,NA
-Office of Elementary and Secondary Education,2009,ED,62,16,NA,282,47,37,NA,245,NA,NA,NA,NA
-Office of Elementary and Secondary Education,2010,ED,91,75,1,376,106,44,10,395,NA,NA,NA,NA
-Office of Elementary and Secondary Education,2011,ED,50.98,33,NA,204,105.97,82,NA,401,NA,NA,NA,NA
-Office of Elementary and Secondary Education,2012,ED,35.6,29.5,3,130,119.63,61,18,684,NA,NA,NA,NA
-Office of Elementary and Secondary Education,2013,ED,21.27,14,1,78,49.68,39,3,366,NA,NA,NA,NA
+Office of Elementary & Secondary Education,2008,ED,289,240,13,836,108,64,6,572,NA,NA,NA,NA
+Office of Elementary & Secondary Education,2009,ED,62,16,NA,282,47,37,NA,245,NA,NA,NA,NA
+Office of Elementary & Secondary Education,2010,ED,91,75,1,376,106,44,10,395,NA,NA,NA,NA
+Office of Elementary & Secondary Education,2011,ED,50.98,33,NA,204,105.97,82,NA,401,NA,NA,NA,NA
+Office of Elementary & Secondary Education,2012,ED,35.6,29.5,3,130,119.63,61,18,684,NA,NA,NA,NA
+Office of Elementary & Secondary Education,2013,ED,21.27,14,1,78,49.68,39,3,366,NA,NA,NA,NA
 Office of English Language Acquisition,2008,ED,310,318,73,505,158,25,35,392,NA,NA,NA,NA
 Office of English Language Acquisition,2009,ED,8,8,8,8,128,130,24,254,NA,NA,NA,NA
 Office of English Language Acquisition,2010,ED,55,33,2,20,165,165,165,165,NA,NA,NA,NA
 Office of English Language Acquisition,2011,ED,100.62,38.5,NA,274,171,171,87,255,NA,NA,NA,NA
 Office of English Language Acquisition,2012,ED,19.2,24,6,27,279,279,279,279,NA,NA,NA,NA
 Office of English Language Acquisition,2013,ED,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Federal Contractor Compliance Programs,2009,U.S. DOL,10.2,7,1,82,29.8,15,1,279,32,29.5,5,54
-Office of Federal Contractor Compliance Programs,2010,U.S. DOL,9.2,3.5,1,93,33.1,21,1,271,13.5,13,2,25
-Office of Federal Contractor Compliance Programs,2011,U.S. DOL,10.4,2,1,116,33.7,23.5,NA,462,3,3,3,3
-Office of Federal Contractor Compliance Programs,2012,U.S. DOL,4.3,3,NA,28,26.1,13,NA,223,NA,NA,NA,NA
-Office of Federal Contractor Compliance Programs,2013,U.S. DOL,9.8,5,1,301,40.9,24,NA,947,2,2,2,2
+Office of Federal Contract Compliance Programs,2009,U.S. DOL,10.2,7,1,82,29.8,15,1,279,32,29.5,5,54
+Office of Federal Contract Compliance Programs,2010,U.S. DOL,9.2,3.5,1,93,33.1,21,1,271,13.5,13,2,25
+Office of Federal Contract Compliance Programs,2011,U.S. DOL,10.4,2,1,116,33.7,23.5,NA,462,3,3,3,3
+Office of Federal Contract Compliance Programs,2012,U.S. DOL,4.3,3,NA,28,26.1,13,NA,223,NA,NA,NA,NA
+Office of Federal Contract Compliance Programs,2013,U.S. DOL,9.8,5,1,301,40.9,24,NA,947,2,2,2,2
 Office of Federal Housing Enterprise Oversight,2008,OFHEO,11,15,NA,20,NA,NA,NA,NA,12,12,8,16
 Office of Finance,2008,VA,NA,NA,NA,NA,31.2,4,1,101,NA,NA,NA,NA
 Office of Finance,2009,VA,NA,NA,NA,NA,25.5,31,19,43,NA,NA,NA,NA
@@ -1430,12 +1480,12 @@ Office of General Counsel,2010,NSF,20,20,1,138,NA,NA,NA,NA,NA,NA,NA,NA
 Office of General Counsel,2011,NSF,25,20,1,254,NA,NA,NA,NA,25,25,25,25
 Office of General Counsel,2012,NSF,31,27,1,511,NA,NA,NA,NA,NA,NA,NA,NA
 Office of General Counsel,2013,NSF,33,23,1,209,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Human Resources Management,2008,VA,NA,NA,NA,NA,3,3,2,5,2,2,2,2
-Office of Human Resources Management,2009,VA,NA,NA,NA,NA,3,3,1,5,NA,NA,NA,NA
-Office of Human Resources Management,2010,VA,NA,NA,NA,NA,138.5,138.5,26,251,NA,NA,NA,NA
-Office of Human Resources Management,2011,VA,NA,NA,NA,NA,230.53,218,15,442,NA,NA,NA,NA
-Office of Human Resources Management,2012,VA,NA,NA,NA,NA,213,187,5,470,NA,NA,NA,NA
-Office of Human Resources Management,2013,VA,279,279,279,279,214,87,85,470,NA,NA,NA,NA
+Office of Government Ethics,2008,OGE,11,12.5,1,30,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Government Ethics,2009,OGE,12.4,13,NA,30,NA,NA,NA,NA,9,9,9,9
+Office of Government Ethics,2010,OGE,13.02,13.5,1,173,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Government Ethics,2011,OGE,12.097,9.5,1,54,NA,NA,NA,NA,8,8,8,8
+Office of Government Ethics,2012,OGE,10.959,9,1,43,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Government Ethics,2013,OGE,8.6,7,1,30,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Information & Technology,2009,VA,NA,NA,NA,NA,9.25,6,NA,62,NA,NA,NA,NA
 Office of Information & Technology,2010,VA,NA,NA,NA,NA,11.13,4,NA,158,NA,NA,NA,NA
 Office of Information Policy,2008,DOJ,19,9,NA,563,686,686,143,1229,NA,NA,NA,NA
@@ -1444,21 +1494,14 @@ Office of Information Policy,2010,DOJ,46.54,18,NA,532,119.67,149,31,179,317,317,
 Office of Information Policy,2011,DOJ,53.9,19,NA,282,255.84,241,34,477,60,60,60,60
 Office of Information Policy,2012,DOJ,27.82,15,NA,537,309.19,251.5,2,641,18,18,18,18
 Office of Information Policy,2013,DOJ,26.16,13,NA,602,213.68,232,2,674,NA,NA,NA,NA
-Office of Information and Technology (005),2011,VA,NA,NA,NA,NA,20.66,5,NA,328,NA,NA,NA,NA
-Office of Information and Technology (005),2012,VA,9.73,11,2,18,31.88,9,NA,421,NA,NA,NA,NA
-Office of Information and Technology (005),2013,VA,16.13,12.5,1,80,23.9,6,NA,281,104.5,104.5,94,115
 Office of Information and Technology,2008,VA,NA,NA,NA,NA,16,2,1,240,5,5,5,5
-Office of Innovation and Improvement,2008,ED,253,219,6,683,85,53,1,529,NA,NA,NA,NA
-Office of Innovation and Improvement,2009,ED,139,26,NA,489,56,48,12,149,NA,NA,NA,NA
-Office of Innovation and Improvement,2010,ED,78,42,3,375,89,28,1,387,NA,NA,NA,NA
-Office of Innovation and Improvement,2011,ED,46.08,32,2,250,134.25,89.5,29,413,NA,NA,NA,NA
-Office of Innovation and Improvement,2012,ED,18.4,27.5,3,58,125.61,52,6,297,NA,NA,NA,NA
-Office of Innovation and Improvement,2013,ED,39,45,1,71,41.62,23,3,324,NA,NA,NA,NA
+Office of Innovation & Improvement,2008,ED,253,219,6,683,85,53,1,529,NA,NA,NA,NA
+Office of Innovation & Improvement,2009,ED,139,26,NA,489,56,48,12,149,NA,NA,NA,NA
+Office of Innovation & Improvement,2010,ED,78,42,3,375,89,28,1,387,NA,NA,NA,NA
+Office of Innovation & Improvement,2011,ED,46.08,32,2,250,134.25,89.5,29,413,NA,NA,NA,NA
+Office of Innovation & Improvement,2012,ED,18.4,27.5,3,58,125.61,52,6,297,NA,NA,NA,NA
+Office of Innovation & Improvement,2013,ED,39,45,1,71,41.62,23,3,324,NA,NA,NA,NA
 Office of Inspector General Appeals only,2010,USPS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Inspector General for the USPS,2010,USPS,8,8,NA,74,31,20,NA,61,6.25,6.5,4,8
-Office of Inspector General for the USPS,2011,USPS,6.11,2,NA,28,12.75,14,3,20,1,1,1,1
-Office of Inspector General for the USPS,2012,USPS,6.74,3,NA,30,30.7,21,2,74,1,1,1,1
-Office of Inspector General for the USPS,2013,USPS,7.57,6,NA,59,44.39,32,NA,128,4,4,1,7
 Office of Inspector General,2008,DOC,43,9,1,571,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Inspector General,2008,DOI,24.8,19.5,4,98,998.05,NA,3,2674,217,217,217,217
 Office of Inspector General,2008,DOT,247,261,NA,723,443,479,100,723,NA,NA,NA,NA
@@ -1517,29 +1560,29 @@ Office of Inspector General,2013,NSF,21,17,1,105,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Inspector General,2013,PC,19,20,3,43,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Inspector General,2013,State,15,17,1,155,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Inspector General,2013,US RRB,11.33,7,1,26,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Intelligence and Analysis,2008,DHS,14.59,14.5,1,35,43.41,42,1,109,NA,NA,NA,NA
-Office of Intelligence and Analysis,2009,DHS,14.5,13,2,25,18.36,17.5,3,40,NA,NA,NA,NA
-Office of Intelligence and Analysis,2010,DHS,18.74,15,2,56,55.52,18,1,346,NA,NA,NA,NA
-Office of Intelligence and Analysis,2011,DHS,22.56,23,4,44,28.39,15.5,1,105,NA,NA,NA,NA
-Office of Intelligence and Analysis,2012,DHS,9,8,6,14,60.82,23,1,348,NA,NA,NA,NA
-Office of Intelligence and Analysis,2013,DHS,30.93,32,7,49,50.86,35.5,1,290,NA,NA,NA,NA
-Office of Intergovermental and Public Liaison,2008,DOJ,55,39,16,174,344,344,47,640,NA,NA,NA,NA
-Office of Intergovermental and Public Liaison,2009,DOJ,86,38,17,310,330,NA,127,533,NA,NA,NA,NA
-Office of Intergovermental and Public Liaison,2010,DOJ,132.63,97,7,377,283.33,362,32,456,53,53,53,53
-Office of Intergovermental and Public Liaison,2011,DOJ,33,27,1,80,94.68,79.5,20,238,46.33,52.5,15,60
-Office of Intergovermental and Public Liaison,2012,DOJ,19,19,18,20,77.95,62,6,252,74,74,74,74
-Office of Intergovermental and Public Liaison,2013,DOJ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Intelligence & Analysis,2008,DHS,14.59,14.5,1,35,43.41,42,1,109,NA,NA,NA,NA
+Office of Intelligence & Analysis,2009,DHS,14.5,13,2,25,18.36,17.5,3,40,NA,NA,NA,NA
+Office of Intelligence & Analysis,2010,DHS,18.74,15,2,56,55.52,18,1,346,NA,NA,NA,NA
+Office of Intelligence & Analysis,2011,DHS,22.56,23,4,44,28.39,15.5,1,105,NA,NA,NA,NA
+Office of Intelligence & Analysis,2012,DHS,9,8,6,14,60.82,23,1,348,NA,NA,NA,NA
+Office of Intelligence & Analysis,2013,DHS,30.93,32,7,49,50.86,35.5,1,290,NA,NA,NA,NA
+Office of Intergovermental & Public Liaison,2008,DOJ,55,39,16,174,344,344,47,640,NA,NA,NA,NA
+Office of Intergovermental & Public Liaison,2009,DOJ,86,38,17,310,330,NA,127,533,NA,NA,NA,NA
+Office of Intergovermental & Public Liaison,2010,DOJ,132.63,97,7,377,283.33,362,32,456,53,53,53,53
+Office of Intergovermental & Public Liaison,2011,DOJ,33,27,1,80,94.68,79.5,20,238,46.33,52.5,15,60
+Office of Intergovermental & Public Liaison,2012,DOJ,19,19,18,20,77.95,62,6,252,74,74,74,74
+Office of Intergovermental & Public Liaison,2013,DOJ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Justice Programs,2008,DOJ,12.99,8,1,133,60.8,40.5,1,451,NA,NA,NA,NA
 Office of Justice Programs,2009,DOJ,14.5,9,1,104,65.4,61,1,205,NA,NA,NA,NA
 Office of Justice Programs,2010,DOJ,28.6,16,NA,171,99.61,57.5,NA,957,NA,NA,NA,NA
 Office of Justice Programs,2011,DOJ,19.09,7,NA,219,139.39,77,NA,863,NA,NA,NA,NA
 Office of Justice Programs,2012,DOJ,11.96,8,NA,70,69.17,32,NA,721,NA,NA,NA,NA
 Office of Justice Programs,2013,DOJ,18.45,11,NA,135,82.19,51.5,NA,708,NA,NA,NA,NA
-Office of Labor Management Standards,2009,U.S. DOL,21.2,11,1,105,22.5,13,NA,219,NA,NA,NA,NA
-Office of Labor Management Standards,2010,U.S. DOL,8.7,9,NA,37,27.9,12,NA,223,6.5,6,1,12
-Office of Labor Management Standards,2011,U.S. DOL,8.5,5,NA,44,20,10.5,NA,139,7.5,7.5,5,10
-Office of Labor Management Standards,2012,U.S. DOL,19.4,13,1,77,25.6,10,NA,266,89,89,89,89
-Office of Labor Management Standards,2013,U.S. DOL,12,12,7,17,20.6,14,NA,391,NA,NA,NA,NA
+Office of Labor-Management Standards,2009,U.S. DOL,21.2,11,1,105,22.5,13,NA,219,NA,NA,NA,NA
+Office of Labor-Management Standards,2010,U.S. DOL,8.7,9,NA,37,27.9,12,NA,223,6.5,6,1,12
+Office of Labor-Management Standards,2011,U.S. DOL,8.5,5,NA,44,20,10.5,NA,139,7.5,7.5,5,10
+Office of Labor-Management Standards,2012,U.S. DOL,19.4,13,1,77,25.6,10,NA,266,89,89,89,89
+Office of Labor-Management Standards,2013,U.S. DOL,12,12,7,17,20.6,14,NA,391,NA,NA,NA,NA
 Office of Legal Affairs,2012,LSC,7.4,5,1,30,23,21,17,29,9,6,1,19
 Office of Legal Affairs,2013,LSC,12.625,9,1,53,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Legal Counsel/Headquarters,2010,EEOC,18.7553,17,1,150,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1561,12 +1604,12 @@ Office of Legal Policy,2010,DOJ,47.99,15,NA,488,378,382,296,456,15,15,15,15
 Office of Legal Policy,2011,DOJ,17.21,9,NA,106,128.85,90,24,570,92.5,28.5,16,410
 Office of Legal Policy,2012,DOJ,13.24,9,NA,49,74.63,30,1,374,173.75,185.5,47,277
 Office of Legal Policy,2013,DOJ,20.32,19,3,70,111.83,36,4,431,NA,NA,NA,NA
-Office of Legislation and Congressional Affairs,2008,ED,227,227,80,373,248,248,248,248,NA,NA,NA,NA
-Office of Legislation and Congressional Affairs,2009,ED,322,322,317,327,35,17,3,101,NA,NA,NA,NA
-Office of Legislation and Congressional Affairs,2010,ED,123,107,67,211,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Legislation and Congressional Affairs,2011,ED,26,26,26,26,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Legislation and Congressional Affairs,2012,ED,33,33,33,33,112.33,123,36,152,NA,NA,NA,NA
-Office of Legislation and Congressional Affairs,2013,ED,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Legislation & Congressional Affairs,2008,ED,227,227,80,373,248,248,248,248,NA,NA,NA,NA
+Office of Legislation & Congressional Affairs,2009,ED,322,322,317,327,35,17,3,101,NA,NA,NA,NA
+Office of Legislation & Congressional Affairs,2010,ED,123,107,67,211,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Legislation & Congressional Affairs,2011,ED,26,26,26,26,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Legislation & Congressional Affairs,2012,ED,33,33,33,33,112.33,123,36,152,NA,NA,NA,NA
+Office of Legislation & Congressional Affairs,2013,ED,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Legislative Affairs,2008,DOJ,138,70,1,796,560,340,214,1465,207,216,64,458
 Office of Legislative Affairs,2009,DOJ,121,59,3,785,489,573,191,881,452,562,20,843
 Office of Legislative Affairs,2010,DOJ,195.13,233,NA,491,327.05,270,NA,781,65.09,53,53,182
@@ -1605,23 +1648,24 @@ Office of Navajo and Hopi Indian Relocation,2010,ONHIR,12,6,1,38,NA,NA,NA,NA,NA,
 Office of Navajo and Hopi Indian Relocation,2011,ONHIR,4.43,3,1,16,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Navajo and Hopi Indian Relocation,2012,ONHIR,5.5,3,1,28,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Navajo and Hopi Indian Relocation,2013,ONHIR,8.53,6,1,37,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Operations Coordination,2008,DHS,6,1,1,31,18.45,14,4,78,NA,NA,NA,NA
-Office of Operations Coordination,2009,DHS,4.79,4,1,11,4.74,7,4,25,NA,NA,NA,NA
-Office of Operations Coordination,2010,DHS,3,1,1,14,7.61,6,1,19,NA,NA,NA,NA
-Office of Operations Coordination,2011,DHS,3.11,1,1,15,9.17,10,1,23,NA,NA,NA,NA
-Office of Operations Coordination,2012,DHS,2.5,2,1,7,8.77,6.5,3,33,NA,NA,NA,NA
-Office of Operations Coordination,2013,DHS,2.75,2,1,13,5.86,4,1,19,NA,NA,NA,NA
-"Office of Operations, Security, and Preparedness (formerly S&LE - Security & Law Enforcement)",2009,VA,NA,NA,NA,NA,12,12.5,1,25,NA,NA,NA,NA
-"Office of Operations, Security, and Preparedness (formerly S&LE - Security & Law Enforcement)",2010,VA,NA,NA,NA,NA,13.71,13,NA,24,NA,NA,NA,NA
-"Office of Operations, Security, and Preparedness (formerly S&LE - Security & Law Enforcement)",2011,VA,NA,NA,NA,NA,21.62,16,10,46,NA,NA,NA,NA
-"Office of Operations, Security, and Preparedness (formerly S&LE - Security & Law Enforcement)",2012,VA,NA,NA,NA,NA,12.07,14,NA,32,NA,NA,NA,NA
-"Office of Operations, Security, and Preparedness (formerly S&LE - Security & Law Enforcement)",2013,VA,NA,NA,NA,NA,16.14,4,3,39,NA,NA,NA,NA
-"Office of Planning, Evaluation, and Policy Development",2008,ED,398,389,64,751,NA,NA,NA,NA,NA,NA,NA,NA
-"Office of Planning, Evaluation, and Policy Development",2009,ED,174,8,1,777,54,38,2,229,NA,NA,NA,NA
-"Office of Planning, Evaluation, and Policy Development",2010,ED,132,113,1,302,88,51,33,357,NA,NA,NA,NA
-"Office of Planning, Evaluation, and Policy Development",2011,ED,37,24,2,166,199.7,94.5,67,495,NA,NA,NA,NA
-"Office of Planning, Evaluation, and Policy Development",2012,ED,52,52,52,52,392,349,273,556,NA,NA,NA,NA
-"Office of Planning, Evaluation, and Policy Development",2013,ED,13.75,17,13,20,60,60,60,60,NA,NA,NA,NA
+Office of Operations Coordination and Planning,2008,DHS,6,1,1,31,18.45,14,4,78,NA,NA,NA,NA
+Office of Operations Coordination and Planning,2009,DHS,4.79,4,1,11,4.74,7,4,25,NA,NA,NA,NA
+Office of Operations Coordination and Planning,2010,DHS,3,1,1,14,7.61,6,1,19,NA,NA,NA,NA
+Office of Operations Coordination and Planning,2011,DHS,3.11,1,1,15,9.17,10,1,23,NA,NA,NA,NA
+Office of Operations Coordination and Planning,2012,DHS,2.5,2,1,7,8.77,6.5,3,33,NA,NA,NA,NA
+Office of Operations Coordination and Planning,2013,DHS,2.75,2,1,13,5.86,4,1,19,NA,NA,NA,NA
+Office of Personnel Management,2008,OPM,NA,NA,NA,NA,51,1,1,3510,NA,NA,NA,NA
+Office of Personnel Management,2009,OPM,NA,NA,NA,NA,37,64,1,2666,51,60,24,60
+Office of Personnel Management,2010,OPM,NA,NA,NA,NA,72,618,1,388,5,6,1,9
+Office of Personnel Management,2011,OPM,NA,NA,NA,NA,44,34,1,435,41,42,1,133
+Office of Personnel Management,2012,OPM,16,7,1,1359,102,121,1,867,81,27,1,479
+Office of Personnel Management,2013,OPM,22,2,1,406,41,35,1,791,37,17,3,398
+"Office of Planning, Evaluation, & Policy Development",2008,ED,398,389,64,751,NA,NA,NA,NA,NA,NA,NA,NA
+"Office of Planning, Evaluation, & Policy Development",2009,ED,174,8,1,777,54,38,2,229,NA,NA,NA,NA
+"Office of Planning, Evaluation, & Policy Development",2010,ED,132,113,1,302,88,51,33,357,NA,NA,NA,NA
+"Office of Planning, Evaluation, & Policy Development",2011,ED,37,24,2,166,199.7,94.5,67,495,NA,NA,NA,NA
+"Office of Planning, Evaluation, & Policy Development",2012,ED,52,52,52,52,392,349,273,556,NA,NA,NA,NA
+"Office of Planning, Evaluation, & Policy Development",2013,ED,13.75,17,13,20,60,60,60,60,NA,NA,NA,NA
 Office of Policy and Planning,2009,VA,NA,NA,NA,NA,20,20,20,20,NA,NA,NA,NA
 Office of Policy and Planning,2010,VA,NA,NA,NA,NA,160,175,125,180,NA,NA,NA,NA
 Office of Policy and Planning,2011,VA,NA,NA,NA,NA,8,8,8,8,NA,NA,NA,NA
@@ -1670,12 +1714,12 @@ Office of Resolution Management,2010,VA,NA,NA,NA,NA,19.75,14,NA,77,NA,NA,NA,NA
 Office of Resolution Management,2011,VA,NA,NA,NA,NA,13.53,13,NA,38,NA,NA,NA,NA
 Office of Resolution Management,2012,VA,10,10,10,10,10.18,9,NA,22,NA,NA,NA,NA
 Office of Resolution Management,2013,VA,19.11,14,2,40,17.5,16,1,37,NA,NA,NA,NA
-Office of Safe and Drug-Free Schools,2008,ED,309,266,6,766,131,122,15,384,NA,NA,NA,NA
-Office of Safe and Drug-Free Schools,2009,ED,99,53,4,298,119,105,NA,429,NA,NA,NA,NA
-Office of Safe and Drug-Free Schools,2010,ED,73,59,4,239,36,15,4,92,NA,NA,NA,NA
-Office of Safe and Drug-Free Schools,2011,ED,117.76,154.5,NA,314,112.57,110,37,199,NA,NA,NA,NA
-Office of Safe and Drug-Free Schools,2012,ED,31.5,20.5,8,93,135.5,135.5,131,140,NA,NA,NA,NA
-Office of Safe and Drug-Free Schools,2013,ED,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Safe & Drug-Free Schools,2008,ED,309,266,6,766,131,122,15,384,NA,NA,NA,NA
+Office of Safe & Drug-Free Schools,2009,ED,99,53,4,298,119,105,NA,429,NA,NA,NA,NA
+Office of Safe & Drug-Free Schools,2010,ED,73,59,4,239,36,15,4,92,NA,NA,NA,NA
+Office of Safe & Drug-Free Schools,2011,ED,117.76,154.5,NA,314,112.57,110,37,199,NA,NA,NA,NA
+Office of Safe & Drug-Free Schools,2012,ED,31.5,20.5,8,93,135.5,135.5,131,140,NA,NA,NA,NA
+Office of Safe & Drug-Free Schools,2013,ED,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Office of Science and Technology Policy,2008,OSTP,51,18,1,296,359,81.5,30,1243,25,25.5,30,21
 Office of Science and Technology Policy,2009,OSTP,44.8,2.5,1,597,173.6,76,6,885,230.5,230.5,94,367
 Office of Science and Technology Policy,2010,OSTP,11.26,2,1,123,21.3,20,7,52,37,20,2,123
@@ -1696,6 +1740,10 @@ Office of Small and Disadvantaged Business Utilization,2010,VA,NA,NA,NA,NA,36,36
 Office of Small and Disadvantaged Business Utilization,2011,VA,NA,NA,NA,NA,86.54,49,3,299,NA,NA,NA,NA
 Office of Small and Disadvantaged Business Utilization,2012,VA,NA,NA,NA,NA,152.12,149,17,309,NA,NA,NA,NA
 Office of Small and Disadvantaged Business Utilization,2013,VA,NA,NA,NA,NA,28.73,17,3,109,NA,NA,NA,NA
+Office of Special Counsel,2010,OSC,10,1,1,147,NA,NA,NA,NA,7,6,2,12
+Office of Special Counsel,2011,OSC,3,2,NA,27,42,17,NA,288,12,12,3,21
+Office of Special Counsel,2012,OSC,29,10,1,211,271,134,1,747,83,20,9,381
+Office of Special Counsel,2013,OSC,31.54,14,NA,301,291.62,259,28,715,204.33,266.5,1,377
 Office of Surface Mining,2008,DOI,NA,NA,NA,NA,16.61,NA,NA,112,NA,NA,NA,NA
 Office of Surface Mining,2009,DOI,NA,NA,NA,NA,20.94,NA,NA,154,NA,NA,NA,NA
 Office of Surface Mining,2010,DOI,NA,NA,NA,NA,42,13,NA,545,NA,NA,NA,NA
@@ -1718,17 +1766,23 @@ Office of Thrift Supervision,2008,Treasury,NA,NA,NA,NA,36,7,NA,893,NA,NA,NA,NA
 Office of Thrift Supervision,2009,Treasury,NA,NA,NA,NA,30,9,NA,583,NA,NA,NA,NA
 Office of Thrift Supervision,2010,Treasury,21,8,NA,654,NA,NA,NA,NA,13,13,13,13
 Office of Thrift Supervision,2011,Treasury,15,7,NA,519,23,11,NA,233,NA,NA,NA,NA
-Office of Vocational and Adult Education,2008,ED,125,90,2,432,95,95,95,95,NA,NA,NA,NA
-Office of Vocational and Adult Education,2009,ED,8,8,8,8,71,58,5,151,NA,NA,NA,NA
-Office of Vocational and Adult Education,2010,ED,46,49,1,87,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Vocational and Adult Education,2011,ED,28.11,34,6,58,67.33,44,30,128,NA,NA,NA,NA
-Office of Vocational and Adult Education,2012,ED,21.8,18,14,33,NA,NA,NA,NA,NA,NA,NA,NA
-Office of Vocational and Adult Education,2013,ED,NA,NA,NA,NA,31,31,17,45,NA,NA,NA,NA
-Office of Workers Compensation Programs,2009,U.S. DOL,12.14,10,1,251,25,26,18.5,41,10,10,10,10
-Office of Workers Compensation Programs,2010,U.S. DOL,41.5,12,1,281,27,11,NA,278,34,24,2,77
-Office of Workers Compensation Programs,2011,U.S. DOL,46.4,10,2,2025,38,19,NA,501,13,13,13,13
-Office of Workers Compensation Programs,2012,U.S. DOL,71.2,12,1,1306,89.4,15,NA,1753,5,5,5,5
-Office of Workers Compensation Programs,2013,U.S. DOL,104,12,2,820,27,12,NA,1704,NA,NA,NA,NA
+Office of Vocational & Adult Education,2008,ED,125,90,2,432,95,95,95,95,NA,NA,NA,NA
+Office of Vocational & Adult Education,2009,ED,8,8,8,8,71,58,5,151,NA,NA,NA,NA
+Office of Vocational & Adult Education,2010,ED,46,49,1,87,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Vocational & Adult Education,2011,ED,28.11,34,6,58,67.33,44,30,128,NA,NA,NA,NA
+Office of Vocational & Adult Education,2012,ED,21.8,18,14,33,NA,NA,NA,NA,NA,NA,NA,NA
+Office of Vocational & Adult Education,2013,ED,NA,NA,NA,NA,31,31,17,45,NA,NA,NA,NA
+Office of Workers' Compensation Programs,2009,U.S. DOL,12.14,10,1,251,25,26,18.5,41,10,10,10,10
+Office of Workers' Compensation Programs,2010,U.S. DOL,41.5,12,1,281,27,11,NA,278,34,24,2,77
+Office of Workers' Compensation Programs,2011,U.S. DOL,46.4,10,2,2025,38,19,NA,501,13,13,13,13
+Office of Workers' Compensation Programs,2012,U.S. DOL,71.2,12,1,1306,89.4,15,NA,1753,5,5,5,5
+Office of Workers' Compensation Programs,2013,U.S. DOL,104,12,2,820,27,12,NA,1704,NA,NA,NA,NA
+Office of the Administrative Law Judges,2008,U.S. DOL,NA,NA,NA,NA,11.7,2,1,342,NA,NA,NA,NA
+Office of the Administrative Law Judges,2009,U.S. DOL,NA,NA,NA,NA,9.6,3,1,175,2.8,2,1,20
+Office of the Administrative Law Judges,2010,U.S. DOL,NA,NA,NA,NA,9.7,4,1,326,6.8,2,1,29
+Office of the Administrative Law Judges,2011,U.S. DOL,NA,NA,NA,NA,4.3,2,1,34,6.4,2,1,43
+Office of the Administrative Law Judges,2012,U.S. DOL,NA,NA,NA,NA,7.2,3,1,171,6,2,1,19
+Office of the Administrative Law Judges,2013,U.S. DOL,4,4,4,4,10.3,2,1,408,1.8,1.5,1,3
 Office of the Assistant Secretary for Administration and Management,2008,U.S. DOL,NA,NA,NA,NA,30,23,1,160,6,6,6,6
 Office of the Assistant Secretary for Administration and Management,2009,U.S. DOL,NA,NA,NA,NA,30.4,23,NA,162,27,20,NA,37
 Office of the Assistant Secretary for Administration and Management,2010,U.S. DOL,NA,NA,NA,NA,32,20,1,301,92,92,92,92
@@ -1736,18 +1790,17 @@ Office of the Assistant Secretary for Administration and Management,2011,U.S. DO
 Office of the Assistant Secretary for Administration and Management,2012,U.S. DOL,19,6,2,109,35.2,26.5,NA,257,35.5,35.5,22,49
 Office of the Assistant Secretary for Administration and Management,2013,U.S. DOL,18.8,7.5,1,93,51.8,29,1,925,NA,NA,NA,NA
 Office of the Assistant Secretary for Human Resources & Administration,2008,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Office of the Assistant Secretary for Operations, Security, and Preparedness",2009,VA,NA,NA,NA,NA,12,12.5,1,25,NA,NA,NA,NA
+"Office of the Assistant Secretary for Operations, Security, and Preparedness",2010,VA,NA,NA,NA,NA,13.71,13,NA,24,NA,NA,NA,NA
+"Office of the Assistant Secretary for Operations, Security, and Preparedness",2011,VA,NA,NA,NA,NA,21.62,16,10,46,NA,NA,NA,NA
+"Office of the Assistant Secretary for Operations, Security, and Preparedness",2012,VA,NA,NA,NA,NA,12.07,14,NA,32,NA,NA,NA,NA
+"Office of the Assistant Secretary for Operations, Security, and Preparedness",2013,VA,NA,NA,NA,NA,16.14,4,3,39,NA,NA,NA,NA
 Office of the Assistant Secretary for Policy,2008,U.S. DOL,2.7,1,1,6,9,9,9,9,NA,NA,NA,NA
 Office of the Assistant Secretary for Policy,2009,U.S. DOL,NA,NA,NA,NA,90,21,16,233,NA,NA,NA,NA
 Office of the Assistant Secretary for Policy,2010,U.S. DOL,3,2,3,5,1,2,3,5,NA,NA,NA,NA
 Office of the Assistant Secretary for Policy,2011,U.S. DOL,214.1,43,11,599,424.4,507,13,976,NA,NA,NA,NA
 Office of the Assistant Secretary for Policy,2012,U.S. DOL,369.9,262,9,1645,806.4,781,18,1825,NA,NA,NA,NA
 Office of the Assistant Secretary for Policy,2013,U.S. DOL,28.7,35,16,35,136.3,91,24,486,NA,NA,NA,NA
-Office of the Assistant Secretary for Public & Intergovernmental Affairs,2008,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of the Assistant Secretary for Public & Intergovernmental Affairs,2009,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of the Assistant Secretary for Public & Intergovernmental Affairs,2010,VA,NA,NA,NA,NA,58,58,58,58,NA,NA,NA,NA
-Office of the Assistant Secretary for Public & Intergovernmental Affairs,2011,VA,NA,NA,NA,NA,56,56,56,56,NA,NA,NA,NA
-Office of the Assistant Secretary for Public & Intergovernmental Affairs,2012,VA,NA,NA,NA,NA,20,20,20,20,NA,NA,NA,NA
-Office of the Assistant Secretary for Public & Intergovernmental Affairs,2013,VA,16,16,16,16,NA,NA,NA,NA,NA,NA,NA,NA
 Office of the Associate Attorney General,2008,DOJ,82,48,5,353,NA,NA,47,47,NA,NA,NA,NA
 Office of the Associate Attorney General,2009,DOJ,79,32,3,613,NA,NA,850,850,116,NA,96,136
 Office of the Associate Attorney General,2010,DOJ,79.29,31,NA,369,237.5,237.5,99,376,28.5,9,9,204
@@ -1795,24 +1848,12 @@ Office of the Chief Information Officer,2011,ED,155,145,38,292,128,137.5,26,211,
 Office of the Chief Information Officer,2012,ED,NA,NA,NA,NA,52.33,52,30,75,NA,NA,NA,NA
 Office of the Chief Information Officer,2013,ED,31,31,27,35,17.4,22,5,27,NA,NA,NA,NA
 Office of the Clerk of the Board,2010,MSPB,17,8,NA,85,NA,NA,NA,NA,NA,NA,NA,NA
-Office of the Comptroller of the Currency,2008,Treasury,10,5,1,20,15,10,1,20,NA,NA,NA,NA
-Office of the Comptroller of the Currency,2009,Treasury,9,4,1,10,13,6,1,20,3,2,1,5
-Office of the Comptroller of the Currency,2010,Treasury,11.46,6,NA,131,27.23,26,NA,185,6.92,5,NA,33
-Office of the Comptroller of the Currency,2011,Treasury,8.8,3,1,130,47.7,33,7,126,15.1,8,1,116
-Office of the Comptroller of the Currency,2012,Treasury,9,3,NA,254,39,26,NA,187,26,21,NA,139
-Office of the Comptroller of the Currency,2013,Treasury,10.51,7,NA,648,31.5,27.5,NA,108,19.8,18,NA,71
-Office of the Deputy Assistant Secretary for Budget,2008,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of the Deputy Assistant Secretary for Budget,2009,VA,NA,NA,NA,NA,12,12,5,19,NA,NA,NA,NA
-Office of the Deputy Assistant Secretary for Budget,2010,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of the Deputy Assistant Secretary for Budget,2011,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of the Deputy Assistant Secretary for Budget,2012,VA,NA,NA,NA,NA,63,63,63,63,NA,NA,NA,NA
-Office of the Deputy Assistant Secretary for Budget,2013,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of the Deputy Assistant Secretary for Intergovernmenal Affairs,2009,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of the Deputy Assistant Secretary for Intergovernmenal Affairs,2010,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of the Deputy Assistant Secretary for Intergovernmenal Affairs,2011,VA,NA,NA,NA,NA,21.5,21.5,8,35,NA,NA,NA,NA
-Office of the Deputy Assistant Secretary for Intergovernmenal Affairs,2012,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Office of the Deputy Assistant Secretary for Intergovernmenal Affairs,2013,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Office of the Deputy Assistant Secretary for Intergovernmental Affairs,2008,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of the Deputy Assistant Secretary for Intergovernmental Affairs,2009,VA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Office of the Deputy Assistant Secretary for Intergovernmental Affairs,2010,VA,NA,NA,NA,NA,58,58,58,58,NA,NA,NA,NA
+Office of the Deputy Assistant Secretary for Intergovernmental Affairs,2011,VA,NA,NA,NA,NA,56,56,56,56,NA,NA,NA,NA
+Office of the Deputy Assistant Secretary for Intergovernmental Affairs,2012,VA,NA,NA,NA,NA,20,20,20,20,NA,NA,NA,NA
+Office of the Deputy Assistant Secretary for Intergovernmental Affairs,2013,VA,16,16,16,16,NA,NA,NA,NA,NA,NA,NA,NA
 Office of the Deputy Attorney General,2008,DOJ,133,102,7,833,830,758,586,1465,190,179,34,357
 Office of the Deputy Attorney General,2009,DOJ,123,38,1,870,680,804,294,929,433,488,50,843
 Office of the Deputy Attorney General,2010,DOJ,142.66,91,NA,933,492.23,460,16,884,326.53,126,124,931
@@ -1864,21 +1905,25 @@ Office of the Inspector General,2010,HUD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Office of the Inspector General,2010,NASA,49.46,24,1,261,NA,NA,NA,NA,NA,NA,NA,NA
 Office of the Inspector General,2010,U.S. DOL,28,20,NA,186,86,48,1,242,22,17,1,41
 Office of the Inspector General,2010,USDA,14,8,2,34,156,100,41,778,NA,NA,NA,NA
+Office of the Inspector General,2010,USPS,8,8,NA,74,31,20,NA,61,6.25,6.5,4,8
 Office of the Inspector General,2011,DHS,8.57,8,1,33,29.93,17.5,3,139,NA,NA,NA,NA
 Office of the Inspector General,2011,HUD,28,17,1,282,98,98,25,172,83,83,83,83
 Office of the Inspector General,2011,NASA,16.84,18.5,NA,47,4,4,4,4,NA,NA,NA,NA
 Office of the Inspector General,2011,U.S. DOL,10,7,NA,33,108,37,1,482,30,30,30,30
 Office of the Inspector General,2011,USDA,22,16,2,305,47,20,1,489,NA,NA,NA,NA
+Office of the Inspector General,2011,USPS,6.11,2,NA,28,12.75,14,3,20,1,1,1,1
 Office of the Inspector General,2012,DHS,14.78,12,2,55,51.87,39,11,211,35,35,35,35
 Office of the Inspector General,2012,HUD,19.3,12,1,285,32.75,22,8,79,NA,NA,NA,NA
 Office of the Inspector General,2012,NASA,22.76,16.5,NA,80,NA,NA,NA,NA,NA,NA,NA,NA
 Office of the Inspector General,2012,U.S. DOL,13,6,NA,70,173,91,NA,712,3,1,NA,15
 Office of the Inspector General,2012,USDA,13,13,1,30,68,64,31,133,NA,NA,NA,NA
+Office of the Inspector General,2012,USPS,6.74,3,NA,30,30.7,21,2,74,1,1,1,1
 Office of the Inspector General,2013,DHS,29.22,22,1,119,71.2,54,7,304,117,117,117,117
 Office of the Inspector General,2013,HUD,9.98,9,1,93,28,28,15,41,18,18,18,18
 Office of the Inspector General,2013,NASA,11.36,9.5,NA,35,32.8,30,13,58,NA,NA,NA,NA
 Office of the Inspector General,2013,U.S. DOL,10,5,1,91,278,255,12,715,4,3,3,5
 Office of the Inspector General,2013,USDA,25,22,6,79,46,42,33,283,NA,NA,NA,NA
+Office of the Inspector General,2013,USPS,7.57,6,NA,59,44.39,32,NA,128,4,4,1,7
 Office of the Pardon Attorney,2008,DOJ,14.7,15,2,45,NA,NA,NA,NA,NA,NA,15,21
 Office of the Pardon Attorney,2009,DOJ,14,7,1,67,NA,NA,36,36,NA,NA,92,92
 Office of the Pardon Attorney,2010,DOJ,7.29,5,NA,49,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1887,12 +1932,12 @@ Office of the Pardon Attorney,2012,DOJ,3.91,2,NA,18,NA,NA,NA,NA,NA,NA,NA,NA
 Office of the Pardon Attorney,2013,DOJ,3.46,2,NA,16,NA,NA,NA,NA,NA,NA,NA,NA
 Office of the Secretary / Office of the Chief Information Officer,2011,USDA,11.5,10,1,28,50.6,29,4,242,8.3,8,2,15
 Office of the Secretary / Office of the Chief Information Officer,2012,USDA,142.36,28,1,774,168.4,102,1,642,71,71,45,97
-Office of the Secretary of Defense/Joint Staff,2008,DoD,11,3,1,669,486,237,1,4213,687,687,687,687
-Office of the Secretary of Defense/Joint Staff,2009,DoD,18,5,1,738,492,258,1,3850,299,55,28,815
-Office of the Secretary of Defense/Joint Staff,2010,DoD,15,4,NA,836,467,118,NA,4314,921,921,921,921
-Office of the Secretary of Defense/Joint Staff,2011,DoD,17,6,NA,877,504,107,1,4475,266,266,266,266
-Office of the Secretary of Defense/Joint Staff,2012,DoD,9.75,5,NA,430,447,101,NA,4097,NA,NA,NA,NA
-Office of the Secretary of Defense/Joint Staff,2013,DoD,8,5,NA,173,336,83,NA,3208,NA,NA,NA,NA
+Office of the Secretary and Joint Staff,2008,DoD,11,3,1,669,486,237,1,4213,687,687,687,687
+Office of the Secretary and Joint Staff,2009,DoD,18,5,1,738,492,258,1,3850,299,55,28,815
+Office of the Secretary and Joint Staff,2010,DoD,15,4,NA,836,467,118,NA,4314,921,921,921,921
+Office of the Secretary and Joint Staff,2011,DoD,17,6,NA,877,504,107,1,4475,266,266,266,266
+Office of the Secretary and Joint Staff,2012,DoD,9.75,5,NA,430,447,101,NA,4097,NA,NA,NA,NA
+Office of the Secretary and Joint Staff,2013,DoD,8,5,NA,173,336,83,NA,3208,NA,NA,NA,NA
 Office of the Secretary/Office of the Chief Information Officer/Departmental Management,2013,USDA,37.03,16,1,647,135.57,55.5,1,700,NA,NA,NA,NA
 Office of the Secretary,2008,DOC,12,10,1,48,151,136,50,366,NA,NA,NA,NA
 Office of the Secretary,2008,DOI,1,1,NA,15,28.33,NA,NA,547,13,13,3,22
@@ -1958,18 +2003,22 @@ Office of the Under Secretary,2010,ED,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Office of the Under Secretary,2011,ED,169,169,169,169,161.5,134.5,52,325,NA,NA,NA,NA
 Office of the Under Secretary,2012,ED,46,46,43,48,151,46.5,45,466,NA,NA,NA,NA
 Office of the Under Secretary,2013,ED,NA,NA,NA,NA,NA,NA,NA,NA,312,312,312,312
+Office of the United States Trade Representative,2010,USTR,46,45,30,85,269,186,47,1213,13,11,3,32
+Office of the United States Trade Representative,2011,USTR,17,9,1,46,305,374,3,805,10,7,1,40
+Office of the United States Trade Representative,2012,USTR,22,10,3,88,151,31,1,905,38,51,2,51
+Office of the United States Trade Representative,2013,USTR,19,16,1,41,141,39,7,789,NA,NA,NA,NA
 Office on Violence Against Women,2008,DOJ,13.25,14,2,24,NA,NA,NA,NA,NA,NA,NA,NA
 Office on Violence Against Women,2009,DOJ,15.7,13.5,1,45,NA,NA,NA,NA,NA,NA,NA,NA
 Office on Violence Against Women,2010,DOJ,10.25,8,NA,35,25.75,30.5,8,34,2.5,2.5,2,3
 Office on Violence Against Women,2011,DOJ,11.04,10,NA,41,NA,NA,NA,NA,NA,NA,NA,NA
 Office on Violence Against Women,2012,DOJ,13.79,15,NA,36,NA,NA,NA,NA,NA,NA,NA,NA
 Office on Violence Against Women,2013,DOJ,16.8,16,NA,154,NA,NA,NA,NA,NA,NA,NA,NA
-Officer of Special Education and Rehabilitative Services,2008,ED,157,145,4,631,80,63,3,211,NA,NA,NA,NA
-Officer of Special Education and Rehabilitative Services,2009,ED,53,19,NA,291,59,53,NA,209,NA,NA,NA,NA
-Officer of Special Education and Rehabilitative Services,2010,ED,70,37,12,357,47,47,3,95,NA,NA,NA,NA
-Officer of Special Education and Rehabilitative Services,2011,ED,88.25,45,1,381,128.82,102,32,482,NA,NA,NA,NA
-Officer of Special Education and Rehabilitative Services,2012,ED,26.1,28.5,7,51,67.61,49,21,228,NA,NA,NA,NA
-Officer of Special Education and Rehabilitative Services,2013,ED,14.24,9,4,79,38,27,1,114,NA,NA,NA,NA
+Officer of Special Education & Rehabilitative Services,2008,ED,157,145,4,631,80,63,3,211,NA,NA,NA,NA
+Officer of Special Education & Rehabilitative Services,2009,ED,53,19,NA,291,59,53,NA,209,NA,NA,NA,NA
+Officer of Special Education & Rehabilitative Services,2010,ED,70,37,12,357,47,47,3,95,NA,NA,NA,NA
+Officer of Special Education & Rehabilitative Services,2011,ED,88.25,45,1,381,128.82,102,32,482,NA,NA,NA,NA
+Officer of Special Education & Rehabilitative Services,2012,ED,26.1,28.5,7,51,67.61,49,21,228,NA,NA,NA,NA
+Officer of Special Education & Rehabilitative Services,2013,ED,14.24,9,4,79,38,27,1,114,NA,NA,NA,NA
 Overseas Private Investment Corporation,2008,OPIC,26,89,1,177,NA,NA,NA,NA,NA,NA,NA,NA
 Overseas Private Investment Corporation,2009,OPIC,12,10,NA,36,NA,NA,NA,NA,27.5,7.5,NA,94
 Overseas Private Investment Corporation,2010,OPIC,17.95,9,NA,92,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1988,14 +2037,14 @@ Pension Benefit Guaranty Corporation,2010,PBGC,6,6,NA,43,NA,NA,NA,NA,6,6,1,12
 Pension Benefit Guaranty Corporation,2011,PBGC,10,9,1,176,NA,NA,NA,NA,NA,NA,NA,NA
 Pension Benefit Guaranty Corporation,2012,PBGC,7,7,1,57,NA,NA,NA,NA,NA,NA,NA,NA
 Pension Benefit Guaranty Corporation,2013,PBGC,NA,NA,NA,NA,10,9,1,198,NA,NA,NA,NA
-Philadelphia District Office,2010,EEOC,13.5979,9,1,110,NA,NA,NA,NA,NA,NA,NA,NA
-Philadelphia District Office,2011,EEOC,24.791,23,1,165,NA,NA,NA,NA,NA,NA,NA,NA
-Philadelphia District Office,2012,EEOC,25.73,27,1,201,NA,NA,NA,NA,NA,NA,NA,NA
-Philadelphia District Office,2013,EEOC,28.67,29,1,112,NA,NA,NA,NA,NA,NA,NA,NA
-Phoenix District Office,2010,EEOC,8.36937,8,1,36,NA,NA,NA,NA,NA,NA,NA,NA
-Phoenix District Office,2011,EEOC,13.2801,15,1,30,NA,NA,NA,NA,NA,NA,NA,NA
-Phoenix District Office,2012,EEOC,11.49,14,1,28,NA,NA,NA,NA,NA,NA,NA,NA
-Phoenix District Office,2013,EEOC,15.19,17,1,30,NA,NA,NA,NA,NA,NA,NA,NA
+"Philadelphia District Office (Baltimore and Cleveland Field Offices, Pittsburgh Area Office)",2010,EEOC,13.5979,9,1,110,NA,NA,NA,NA,NA,NA,NA,NA
+"Philadelphia District Office (Baltimore and Cleveland Field Offices, Pittsburgh Area Office)",2011,EEOC,24.791,23,1,165,NA,NA,NA,NA,NA,NA,NA,NA
+"Philadelphia District Office (Baltimore and Cleveland Field Offices, Pittsburgh Area Office)",2012,EEOC,25.73,27,1,201,NA,NA,NA,NA,NA,NA,NA,NA
+"Philadelphia District Office (Baltimore and Cleveland Field Offices, Pittsburgh Area Office)",2013,EEOC,28.67,29,1,112,NA,NA,NA,NA,NA,NA,NA,NA
+"Phoenix District Office (Denver Field Office, Albuquerque Area Office)",2010,EEOC,8.36937,8,1,36,NA,NA,NA,NA,NA,NA,NA,NA
+"Phoenix District Office (Denver Field Office, Albuquerque Area Office)",2011,EEOC,13.2801,15,1,30,NA,NA,NA,NA,NA,NA,NA,NA
+"Phoenix District Office (Denver Field Office, Albuquerque Area Office)",2012,EEOC,11.49,14,1,28,NA,NA,NA,NA,NA,NA,NA,NA
+"Phoenix District Office (Denver Field Office, Albuquerque Area Office)",2013,EEOC,15.19,17,1,30,NA,NA,NA,NA,NA,NA,NA,NA
 Pipeline and Hazardous Materials Safety Administration,2008,DOT,205,78,NA,1513,88,89,15,158,168,153,10,403
 Pipeline and Hazardous Materials Safety Administration,2009,DOT,131,13,NA,3543,438,438,438,438,2,1,NA,1
 Pipeline and Hazardous Materials Safety Administration,2010,DOT,32,14,NA,434,44,22,NA,159,6,6,5,6
@@ -2018,12 +2067,6 @@ Postal Service,2010,USPS,21,7,NA,524,45,24,NA,495,NA,NA,NA,NA
 Postal Service,2011,USPS,13.06,5,NA,261,44.18,22,NA,573,17,12,NA,34
 Postal Service,2012,USPS,20.28,8,NA,335,45.2,24,1,476,NA,NA,NA,NA
 Postal Service,2013,USPS,18.15,7,NA,504,50.09,22,NA,1059,12,12,NA,24
-Privacy Office,2008,DHS,8.85,8,2,39,62.4,34,1,484,NA,NA,NA,NA
-Privacy Office,2009,DHS,7.92,7,1,108,62.33,35.5,1,528,83.5,83.5,28,139
-Privacy Office,2010,DHS,7.09,7,1,44,113.8,79,2,769,25.39,9,1,375
-Privacy Office,2011,DHS,6.72,6,1,19,74.71,41,3,476,391,391,391,391
-Privacy Office,2012,DHS,9.6,7,1,53,70.18,55,7,412,189,189,189,189
-Privacy Office,2013,DHS,16.47,7,1,149,62.89,38,1,441,21.3,16.5,9,58
 Professional Responsibility Advisory Office,2008,DOJ,12.1,6.5,1,72,NA,NA,NA,NA,NA,NA,NA,NA
 Professional Responsibility Advisory Office,2009,DOJ,11.7,14,1,26,NA,NA,NA,NA,NA,NA,NA,NA
 Professional Responsibility Advisory Office,2010,DOJ,7.71,5.5,NA,24,NA,NA,NA,NA,NA,NA,NA,NA
@@ -2042,116 +2085,116 @@ Railroad Retirement Board,2013,US RRB,12.13,11,1,26,NA,NA,NA,NA,NA,NA,NA,NA
 Recovery Accountability and Transparency Board,2011,RATB,3.3,1,1,19,11,9,7,19,NA,NA,NA,NA
 Recovery Accountability and Transparency Board,2012,RATB,10.4,8,1,20,NA,NA,NA,NA,NA,NA,NA,NA
 Recovery Accountability and Transparency Board,2013,RATB,11.5,6.5,2,29,NA,NA,NA,NA,NA,NA,NA,NA
-Region 1 - Boston,2010,HUD,49,93,3,186,296,350,181,411,NA,NA,NA,NA
-Region 1 - Boston,2011,HUD,20,22,1,62,46,43,22,78,NA,NA,NA,NA
-Region 1 - Boston,2012,HUD,14.18,15,1,45,20.63,20,1,70,10.83,7,1,24
-Region 1 - Boston,2013,HUD,12.73,14,1,31,18.1,16,1,58,18,18,18,18
-Region 10 -Seattle,2010,HUD,14,25,1,40,27,54,4,99,8,6,3,12
-Region 10 -Seattle,2011,HUD,15,17,2,69,27,23,1,54,4,4,4,5
-Region 10 -Seattle,2012,HUD,16.01,17,2,91,22.78,19,3,55,39,39,39,39
-Region 10 -Seattle,2013,HUD,15.74,14,1,81,46,28.5,11,115,NA,NA,NA,NA
-Region 10,2008,EPA,23.99,16.5,NA,412,65.81,59,7,157,NA,NA,NA,NA
-Region 10,2009,EPA,29.74,18,NA,441,76,33.5,8,611,NA,NA,NA,NA
-Region 10,2010,EPA,31.13,17,NA,1165,62.35,39,NA,326,8.67,12,1,13
-Region 10,2011,EPA,29.06,18,NA,298,57.2,64,35,73,31,31,31,31
-Region 10,2012,EPA,14.93,11,NA,17,47.43,42,9,337,NA,NA,NA,NA
-Region 10,2013,EPA,19.67,10,NA,666,72.7,51.5,8,327,NA,NA,NA,NA
-Region 1,2008,EPA,17.72,16,NA,219,47.91,37,19,184,NA,NA,NA,NA
-Region 1,2009,EPA,13.54,12,NA,167,58.94,51,22,274,NA,NA,NA,NA
-Region 1,2010,EPA,19.82,15,NA,298,187,55,32,474,5,5,5,5
-Region 1,2011,EPA,19.27,16,NA,191,3,3,3,3,NA,NA,NA,NA
-Region 1,2012,EPA,13.64,8.5,NA,16,38.8,34,1,851,NA,NA,NA,NA
-Region 1,2013,EPA,13.54,11,NA,74,45.65,27,21,482,NA,NA,NA,NA
-Region 2 - New York,2010,HUD,20,60,1,89,39,65,3,106,21,30,2,57
-Region 2 - New York,2011,HUD,16,16,1,75,30,20,2,262,2,2,2,2
-Region 2 - New York,2012,HUD,17.94,19.5,1,56,25.12,20,1,76,4,4,1,8
-Region 2 - New York,2013,HUD,18.11,19,1,79,22.36,23.5,2,58,4.5,3,2,10
-Region 2,2008,EPA,99.7,88,1,725,92.25,52.5,32,242,64.5,64.5,37,92
-Region 2,2009,EPA,57.45,53,2,842,73.94,42,17,375,NA,NA,NA,NA
-Region 2,2010,EPA,69.24,55,NA,435,82.55,75,NA,151,13,12,3,25
-Region 2,2011,EPA,104.88,96,NA,354,74.43,48.5,20,214,NA,NA,NA,NA
-Region 2,2012,EPA,18.88,16,NA,19,70.34,77,4,217,71,71,71,71
-Region 2,2013,EPA,10.42,11,NA,88,43,32,21,213,NA,NA,NA,NA
-Region 3 - Philadelphia,2010,HUD,26,150,1,260,36,65,5,115,19,19,19,191
-Region 3 - Philadelphia,2011,HUD,17,15,1,132,35,31,3,111,NA,NA,NA,NA
-Region 3 - Philadelphia,2012,HUD,14.7,13,1,65,17.71,14.5,1,54,NA,NA,NA,NA
-Region 3 - Philadelphia,2013,HUD,12.9,10,1,54,21.19,14,1,64,23,23,23,23
-Region 3,2008,EPA,20.11,21,NA,96,40.56,34,12,138,NA,NA,NA,NA
-Region 3,2009,EPA,20.24,21,NA,137,49.97,38,12,290,NA,NA,NA,NA
-Region 3,2010,EPA,20.58,21,NA,123,68.24,43.5,NA,721,24,24,24,24
-Region 3,2011,EPA,20.88,21,NA,138,60.25,44.5,21,321,NA,NA,NA,NA
-Region 3,2012,EPA,18.06,16,NA,19,33.56,35,5,525,32,32,32,32
-Region 3,2013,EPA,29.94,20,NA,97,43.03,36,21,397,35,35,35,35
-Region 4 - Atlanta,2010,HUD,15,150,1,215,23,135,1,170,16,15,2,29
-Region 4 - Atlanta,2011,HUD,12,10,1,112,25,21,1,154,11,7,1,25
-Region 4 - Atlanta,2012,HUD,18.13,16,1,80,19.32,16,1,68,21,21,21,21
-Region 4 - Atlanta,2013,HUD,15.09,15,1,96,21.44,19,1,96,3,3,3,3
-Region 4,2008,EPA,14.34,14,NA,79,32.01,30,7,116,20,20,20,20
-Region 4,2009,EPA,15.09,15,NA,103,38.65,29.5,5,169,NA,NA,NA,NA
-Region 4,2010,EPA,20.57,18,NA,224,74.73,53,4,256,7.5,7.5,4,11
-Region 4,2011,EPA,23.73,19,NA,558,64.3,48,4,252,11,11,11,11
-Region 4,2012,EPA,18.83,14,NA,19,39.33,37,7,503,NA,NA,NA,NA
-Region 4,2013,EPA,12.06,13,NA,20,39.54,28,11,438,NA,NA,NA,NA
-Region 5 - Chicago,2010,HUD,18,175,1,304,29,35,6,60,NA,NA,NA,NA
-Region 5 - Chicago,2011,HUD,15,13,1,111,22,17,13,36,NA,NA,NA,NA
-Region 5 - Chicago,2012,HUD,15.49,17,1,50,12.75,12,2,27,NA,NA,NA,NA
-Region 5 - Chicago,2013,HUD,19.49,19,5,17,13.71,17,1,35,NA,NA,NA,NA
-Region 5,2008,EPA,17.12,17,NA,107,78.8,62.5,29,244,55,55,55,55
-Region 5,2009,EPA,17.27,16,1,327,92.06,68,18,392,4,4,4,4
-Region 5,2010,EPA,15.7,15,NA,130,105.47,56,NA,558,10,9,1,18
-Region 5,2011,EPA,17.67,16,NA,260,79.27,69,21,207,NA,NA,NA,NA
-Region 5,2012,EPA,14.55,14,NA,17,35.01,33,NA,567,24,24,24,24
-Region 5,2013,EPA,17.26,16,NA,365,37.8,27,12,634,56,56,30,82
-Region 6 - Fort Worth,2010,HUD,18,75,1,101,30,47,3,88,15,11,10,20
-Region 6 - Fort Worth,2011,HUD,15,15,1,71,39,41,9,71,16,16,10,22
-Region 6 - Fort Worth,2012,HUD,15.67,13.5,1,94,19.56,17.5,1,66,17,17,17,17
-Region 6 - Fort Worth,2013,HUD,14.79,13,1,72,12.88,6,1,50,NA,NA,NA,NA
-Region 6,2008,EPA,32.44,22,NA,283,114.96,72,23,823,NA,NA,NA,NA
-Region 6,2009,EPA,80.61,44,NA,554,474.71,397,342,902,NA,NA,NA,NA
-Region 6,2010,EPA,44.01,26,NA,783,359,315.5,17,788,22.25,8,7,66
-Region 6,2011,EPA,33.3,25,NA,474,455.67,152,76,1139,NA,NA,NA,NA
-Region 6,2012,EPA,18.61,19,NA,19,44.49,41,NA,1186,NA,NA,NA,NA
-Region 6,2013,EPA,245.79,220,NA,779,53.03,34,NA,695,36,28,28,52
-Region 7 - Kansas,2010,HUD,22,27,1,59,30,25,20,51,NA,NA,NA,NA
-Region 7 - Kansas,2011,HUD,29,24,1,107,76,64,38,138,NA,NA,NA,NA
-Region 7 - Kansas,2012,HUD,29.14,22,1,120,46,26.5,1,119,NA,NA,NA,NA
-Region 7 - Kansas,2013,HUD,13.74,11.5,1,54,11,11,8,14,NA,NA,NA,NA
-Region 7,2008,EPA,20.64,15,NA,840,114,77,32,233,NA,NA,NA,NA
-Region 7,2009,EPA,24.8,16,NA,1222,265.33,229,32,535,NA,NA,NA,NA
-Region 7,2010,EPA,18.68,18,NA,92,60.75,36.5,6,164,6,6,6,6
-Region 7,2011,EPA,16.86,16,NA,127,483,483,483,483,18.5,18.5,18,19
-Region 7,2012,EPA,14.2,15,NA,17,37.91,36,2,327,NA,NA,NA,NA
-Region 7,2013,EPA,18.4,19,NA,148,37.55,24,NA,181,4,4,4,4
-Region 8 - Denver,2010,HUD,25,45,1,109,19,21,4,56,NA,NA,NA,NA
-Region 8 - Denver,2011,HUD,19,18,1,80,52,52,24,81,NA,NA,NA,NA
-Region 8 - Denver,2012,HUD,18.48,14,1,295,1,17.52,46,NA,NA,NA,NA,NA
-Region 8 - Denver,2013,HUD,20.27,20,24,92,0.5,0.5,1,1,NA,NA,NA,NA
-Region 8,2008,EPA,18.05,11,NA,883,144.11,55,30,404,NA,NA,NA,NA
-Region 8,2009,EPA,11.29,9,1,76,67.18,30,12,378,NA,NA,NA,NA
-Region 8,2010,EPA,11.9,9,NA,130,74.83,70,20,148,3.5,3.5,NA,9
-Region 8,2011,EPA,16.23,14,NA,377,92.09,42,7,400,NA,NA,NA,NA
-Region 8,2012,EPA,10.94,9,NA,14,33.02,34,NA,339,NA,NA,NA,NA
-Region 8,2013,EPA,25.52,16,NA,390,47.79,29,14,449,NA,NA,NA,NA
-Region 9 - San Fracisco,2010,HUD,30,175,1,356,63,275,3,411,15,17,5,20
-Region 9 - San Fracisco,2011,HUD,20,18,1,151,39,23,6,203,45,45,45,45
-Region 9 - San Fracisco,2012,HUD,17.35,13,1,21,25.26,21,1,82,9,9,9,9
-Region 9 - San Fracisco,2013,HUD,18.86,14,1,72,14.39,15,1,49,NA,NA,NA,NA
-Region 9,2008,EPA,21.93,21,NA,110,50.86,51,26,84,NA,NA,NA,NA
-Region 9,2009,EPA,18.55,18,NA,80,192.9,179.5,26,666,NA,NA,NA,NA
-Region 9,2010,EPA,22.68,20,NA,207,171.67,89,2,730,22,22,22,22
-Region 9,2011,EPA,16.65,14,NA,309,204.6,120,59,593,NA,NA,NA,NA
-Region 9,2012,EPA,10.56,8.5,NA,11,28.87,34,NA,99,29,29,29,29
-Region 9,2013,EPA,12.71,14,NA,20,55.42,36,NA,455,NA,NA,NA,NA
-Research and Innovative Technology Administration,2008,DOT,20,12,NA,79,160,160,160,160,NA,NA,NA,NA
-Research and Innovative Technology Administration,2009,DOT,12,10,NA,48,14,14,14,14,19,19,16,21
-Research and Innovative Technology Administration,2010,DOT,11,8,NA,68,49,49,49,49,9,9,5,19
-Research and Innovative Technology Administration,2011,DOT,16,9,NA,94,NA,NA,NA,NA,193,193,193,193
-Research and Innovative Technology Administration,2012,DOT,12,6,1,111,21,17,4,46,6,5,1,16
-Research and Innovative Technology Administration,2013,DOT,9,7,2,22,20,20,20,20,9,9,NA,24
-"Research, Education, and Economics",2010,USDA,NA,NA,NA,NA,13,12,1,32,NA,NA,NA,NA
-"Research, Education, and Economics",2011,USDA,NA,NA,NA,NA,13,13,1,45,17.5,17,17,18
-"Research, Education, and Economics",2012,USDA,7.8,7,1,20,18,18,1,80,20,20,20,20
-"Research, Education, and Economics",2013,USDA,9.53,10,1,21,18.63,19,1,89,NA,NA,NA,NA
+"Region 1 (States: CT, ME, MA, NH, RI, VT)",2008,EPA,17.72,16,NA,219,47.91,37,19,184,NA,NA,NA,NA
+"Region 1 (States: CT, ME, MA, NH, RI, VT)",2009,EPA,13.54,12,NA,167,58.94,51,22,274,NA,NA,NA,NA
+"Region 1 (States: CT, ME, MA, NH, RI, VT)",2010,EPA,19.82,15,NA,298,187,55,32,474,5,5,5,5
+"Region 1 (States: CT, ME, MA, NH, RI, VT)",2011,EPA,19.27,16,NA,191,3,3,3,3,NA,NA,NA,NA
+"Region 1 (States: CT, ME, MA, NH, RI, VT)",2012,EPA,13.64,8.5,NA,16,38.8,34,1,851,NA,NA,NA,NA
+"Region 1 (States: CT, ME, MA, NH, RI, VT)",2013,EPA,13.54,11,NA,74,45.65,27,21,482,NA,NA,NA,NA
+"Region 10 (States: AK, ID, OR, WA)",2008,EPA,23.99,16.5,NA,412,65.81,59,7,157,NA,NA,NA,NA
+"Region 10 (States: AK, ID, OR, WA)",2009,EPA,29.74,18,NA,441,76,33.5,8,611,NA,NA,NA,NA
+"Region 10 (States: AK, ID, OR, WA)",2010,EPA,31.13,17,NA,1165,62.35,39,NA,326,8.67,12,1,13
+"Region 10 (States: AK, ID, OR, WA)",2011,EPA,29.06,18,NA,298,57.2,64,35,73,31,31,31,31
+"Region 10 (States: AK, ID, OR, WA)",2012,EPA,14.93,11,NA,17,47.43,42,9,337,NA,NA,NA,NA
+"Region 10 (States: AK, ID, OR, WA)",2013,EPA,19.67,10,NA,666,72.7,51.5,8,327,NA,NA,NA,NA
+"Region 2 (States: NJ, NY, PR VI)",2008,EPA,99.7,88,1,725,92.25,52.5,32,242,64.5,64.5,37,92
+"Region 2 (States: NJ, NY, PR VI)",2009,EPA,57.45,53,2,842,73.94,42,17,375,NA,NA,NA,NA
+"Region 2 (States: NJ, NY, PR VI)",2010,EPA,69.24,55,NA,435,82.55,75,NA,151,13,12,3,25
+"Region 2 (States: NJ, NY, PR VI)",2011,EPA,104.88,96,NA,354,74.43,48.5,20,214,NA,NA,NA,NA
+"Region 2 (States: NJ, NY, PR VI)",2012,EPA,18.88,16,NA,19,70.34,77,4,217,71,71,71,71
+"Region 2 (States: NJ, NY, PR VI)",2013,EPA,10.42,11,NA,88,43,32,21,213,NA,NA,NA,NA
+"Region 3 (States: DE, DC, MD, PA, VA, WV)",2008,EPA,20.11,21,NA,96,40.56,34,12,138,NA,NA,NA,NA
+"Region 3 (States: DE, DC, MD, PA, VA, WV)",2009,EPA,20.24,21,NA,137,49.97,38,12,290,NA,NA,NA,NA
+"Region 3 (States: DE, DC, MD, PA, VA, WV)",2010,EPA,20.58,21,NA,123,68.24,43.5,NA,721,24,24,24,24
+"Region 3 (States: DE, DC, MD, PA, VA, WV)",2011,EPA,20.88,21,NA,138,60.25,44.5,21,321,NA,NA,NA,NA
+"Region 3 (States: DE, DC, MD, PA, VA, WV)",2012,EPA,18.06,16,NA,19,33.56,35,5,525,32,32,32,32
+"Region 3 (States: DE, DC, MD, PA, VA, WV)",2013,EPA,29.94,20,NA,97,43.03,36,21,397,35,35,35,35
+"Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)",2008,EPA,14.34,14,NA,79,32.01,30,7,116,20,20,20,20
+"Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)",2009,EPA,15.09,15,NA,103,38.65,29.5,5,169,NA,NA,NA,NA
+"Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)",2010,EPA,20.57,18,NA,224,74.73,53,4,256,7.5,7.5,4,11
+"Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)",2011,EPA,23.73,19,NA,558,64.3,48,4,252,11,11,11,11
+"Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)",2012,EPA,18.83,14,NA,19,39.33,37,7,503,NA,NA,NA,NA
+"Region 4 (States: AL, FL, GA, KY, MS, NC, SC, TN)",2013,EPA,12.06,13,NA,20,39.54,28,11,438,NA,NA,NA,NA
+"Region 5 (States: IL, IN, MI, MN, OH, WI)",2008,EPA,17.12,17,NA,107,78.8,62.5,29,244,55,55,55,55
+"Region 5 (States: IL, IN, MI, MN, OH, WI)",2009,EPA,17.27,16,1,327,92.06,68,18,392,4,4,4,4
+"Region 5 (States: IL, IN, MI, MN, OH, WI)",2010,EPA,15.7,15,NA,130,105.47,56,NA,558,10,9,1,18
+"Region 5 (States: IL, IN, MI, MN, OH, WI)",2011,EPA,17.67,16,NA,260,79.27,69,21,207,NA,NA,NA,NA
+"Region 5 (States: IL, IN, MI, MN, OH, WI)",2012,EPA,14.55,14,NA,17,35.01,33,NA,567,24,24,24,24
+"Region 5 (States: IL, IN, MI, MN, OH, WI)",2013,EPA,17.26,16,NA,365,37.8,27,12,634,56,56,30,82
+"Region 6 (States: AR, LA, NM, OK, TX)",2008,EPA,32.44,22,NA,283,114.96,72,23,823,NA,NA,NA,NA
+"Region 6 (States: AR, LA, NM, OK, TX)",2009,EPA,80.61,44,NA,554,474.71,397,342,902,NA,NA,NA,NA
+"Region 6 (States: AR, LA, NM, OK, TX)",2010,EPA,44.01,26,NA,783,359,315.5,17,788,22.25,8,7,66
+"Region 6 (States: AR, LA, NM, OK, TX)",2011,EPA,33.3,25,NA,474,455.67,152,76,1139,NA,NA,NA,NA
+"Region 6 (States: AR, LA, NM, OK, TX)",2012,EPA,18.61,19,NA,19,44.49,41,NA,1186,NA,NA,NA,NA
+"Region 6 (States: AR, LA, NM, OK, TX)",2013,EPA,245.79,220,NA,779,53.03,34,NA,695,36,28,28,52
+"Region 7 (States: IA, KS, MO, NE)",2008,EPA,20.64,15,NA,840,114,77,32,233,NA,NA,NA,NA
+"Region 7 (States: IA, KS, MO, NE)",2009,EPA,24.8,16,NA,1222,265.33,229,32,535,NA,NA,NA,NA
+"Region 7 (States: IA, KS, MO, NE)",2010,EPA,18.68,18,NA,92,60.75,36.5,6,164,6,6,6,6
+"Region 7 (States: IA, KS, MO, NE)",2011,EPA,16.86,16,NA,127,483,483,483,483,18.5,18.5,18,19
+"Region 7 (States: IA, KS, MO, NE)",2012,EPA,14.2,15,NA,17,37.91,36,2,327,NA,NA,NA,NA
+"Region 7 (States: IA, KS, MO, NE)",2013,EPA,18.4,19,NA,148,37.55,24,NA,181,4,4,4,4
+"Region 8 (States: CO, MT, ND, SD, UT, WY)",2008,EPA,18.05,11,NA,883,144.11,55,30,404,NA,NA,NA,NA
+"Region 8 (States: CO, MT, ND, SD, UT, WY)",2009,EPA,11.29,9,1,76,67.18,30,12,378,NA,NA,NA,NA
+"Region 8 (States: CO, MT, ND, SD, UT, WY)",2010,EPA,11.9,9,NA,130,74.83,70,20,148,3.5,3.5,NA,9
+"Region 8 (States: CO, MT, ND, SD, UT, WY)",2011,EPA,16.23,14,NA,377,92.09,42,7,400,NA,NA,NA,NA
+"Region 8 (States: CO, MT, ND, SD, UT, WY)",2012,EPA,10.94,9,NA,14,33.02,34,NA,339,NA,NA,NA,NA
+"Region 8 (States: CO, MT, ND, SD, UT, WY)",2013,EPA,25.52,16,NA,390,47.79,29,14,449,NA,NA,NA,NA
+"Region 9 (States: AZ, CA, HI, NV, AS, GU)",2008,EPA,21.93,21,NA,110,50.86,51,26,84,NA,NA,NA,NA
+"Region 9 (States: AZ, CA, HI, NV, AS, GU)",2009,EPA,18.55,18,NA,80,192.9,179.5,26,666,NA,NA,NA,NA
+"Region 9 (States: AZ, CA, HI, NV, AS, GU)",2010,EPA,22.68,20,NA,207,171.67,89,2,730,22,22,22,22
+"Region 9 (States: AZ, CA, HI, NV, AS, GU)",2011,EPA,16.65,14,NA,309,204.6,120,59,593,NA,NA,NA,NA
+"Region 9 (States: AZ, CA, HI, NV, AS, GU)",2012,EPA,10.56,8.5,NA,11,28.87,34,NA,99,29,29,29,29
+"Region 9 (States: AZ, CA, HI, NV, AS, GU)",2013,EPA,12.71,14,NA,20,55.42,36,NA,455,NA,NA,NA,NA
+"Region I (Boston, Hartford, Manchester, Providence)",2010,HUD,49,93,3,186,296,350,181,411,NA,NA,NA,NA
+"Region I (Boston, Hartford, Manchester, Providence)",2011,HUD,20,22,1,62,46,43,22,78,NA,NA,NA,NA
+"Region I (Boston, Hartford, Manchester, Providence)",2012,HUD,14.18,15,1,45,20.63,20,1,70,10.83,7,1,24
+"Region I (Boston, Hartford, Manchester, Providence)",2013,HUD,12.73,14,1,31,18.1,16,1,58,18,18,18,18
+"Region II (New York, Albany, Buffalo, Camden, Newark, Syracuse)",2010,HUD,20,60,1,89,39,65,3,106,21,30,2,57
+"Region II (New York, Albany, Buffalo, Camden, Newark, Syracuse)",2011,HUD,16,16,1,75,30,20,2,262,2,2,2,2
+"Region II (New York, Albany, Buffalo, Camden, Newark, Syracuse)",2012,HUD,17.94,19.5,1,56,25.12,20,1,76,4,4,1,8
+"Region II (New York, Albany, Buffalo, Camden, Newark, Syracuse)",2013,HUD,18.11,19,1,79,22.36,23.5,2,58,4.5,3,2,10
+"Region III (Philadelphia, Baltimore, Pittsburgh, Richmond, Washington, D.C., Charleston, Wilmington)",2010,HUD,26,150,1,260,36,65,5,115,19,19,19,191
+"Region III (Philadelphia, Baltimore, Pittsburgh, Richmond, Washington, D.C., Charleston, Wilmington)",2011,HUD,17,15,1,132,35,31,3,111,NA,NA,NA,NA
+"Region III (Philadelphia, Baltimore, Pittsburgh, Richmond, Washington, D.C., Charleston, Wilmington)",2012,HUD,14.7,13,1,65,17.71,14.5,1,54,NA,NA,NA,NA
+"Region III (Philadelphia, Baltimore, Pittsburgh, Richmond, Washington, D.C., Charleston, Wilmington)",2013,HUD,12.9,10,1,54,21.19,14,1,64,23,23,23,23
+"Region IV (Atlanta, Birmingham, Caribbean, Columbia, Greensboro, Jackson, Jacksonville, Knoxville, Louisville, Nashville, Memphis, Miami, Orlando, Tampa)",2010,HUD,15,150,1,215,23,135,1,170,16,15,2,29
+"Region IV (Atlanta, Birmingham, Caribbean, Columbia, Greensboro, Jackson, Jacksonville, Knoxville, Louisville, Nashville, Memphis, Miami, Orlando, Tampa)",2011,HUD,12,10,1,112,25,21,1,154,11,7,1,25
+"Region IV (Atlanta, Birmingham, Caribbean, Columbia, Greensboro, Jackson, Jacksonville, Knoxville, Louisville, Nashville, Memphis, Miami, Orlando, Tampa)",2012,HUD,18.13,16,1,80,19.32,16,1,68,21,21,21,21
+"Region IV (Atlanta, Birmingham, Caribbean, Columbia, Greensboro, Jackson, Jacksonville, Knoxville, Louisville, Nashville, Memphis, Miami, Orlando, Tampa)",2013,HUD,15.09,15,1,96,21.44,19,1,96,3,3,3,3
+"Region IX (San Francisco, Honolulu, Los Angeles, Phoenix, Sacramento)",2010,HUD,30,175,1,356,63,275,3,411,15,17,5,20
+"Region IX (San Francisco, Honolulu, Los Angeles, Phoenix, Sacramento)",2011,HUD,20,18,1,151,39,23,6,203,45,45,45,45
+"Region IX (San Francisco, Honolulu, Los Angeles, Phoenix, Sacramento)",2012,HUD,17.35,13,1,21,25.26,21,1,82,9,9,9,9
+"Region IX (San Francisco, Honolulu, Los Angeles, Phoenix, Sacramento)",2013,HUD,18.86,14,1,72,14.39,15,1,49,NA,NA,NA,NA
+"Region V (Chicago, Columbus, Cleveland, Detroit, Indianapolis, Milwaukee, Minneapolis-St. Paul)",2010,HUD,18,175,1,304,29,35,6,60,NA,NA,NA,NA
+"Region V (Chicago, Columbus, Cleveland, Detroit, Indianapolis, Milwaukee, Minneapolis-St. Paul)",2011,HUD,15,13,1,111,22,17,13,36,NA,NA,NA,NA
+"Region V (Chicago, Columbus, Cleveland, Detroit, Indianapolis, Milwaukee, Minneapolis-St. Paul)",2012,HUD,15.49,17,1,50,12.75,12,2,27,NA,NA,NA,NA
+"Region V (Chicago, Columbus, Cleveland, Detroit, Indianapolis, Milwaukee, Minneapolis-St. Paul)",2013,HUD,19.49,19,5,17,13.71,17,1,35,NA,NA,NA,NA
+"Region VI (Ft. Worth, Albuquerque, Houston, Little Rock, New Orleans, Oklahoma, San Antonio)",2010,HUD,18,75,1,101,30,47,3,88,15,11,10,20
+"Region VI (Ft. Worth, Albuquerque, Houston, Little Rock, New Orleans, Oklahoma, San Antonio)",2011,HUD,15,15,1,71,39,41,9,71,16,16,10,22
+"Region VI (Ft. Worth, Albuquerque, Houston, Little Rock, New Orleans, Oklahoma, San Antonio)",2012,HUD,15.67,13.5,1,94,19.56,17.5,1,66,17,17,17,17
+"Region VI (Ft. Worth, Albuquerque, Houston, Little Rock, New Orleans, Oklahoma, San Antonio)",2013,HUD,14.79,13,1,72,12.88,6,1,50,NA,NA,NA,NA
+"Region VII (Kansas City, Des Moines, Omaha, St. Louis)",2010,HUD,22,27,1,59,30,25,20,51,NA,NA,NA,NA
+"Region VII (Kansas City, Des Moines, Omaha, St. Louis)",2011,HUD,29,24,1,107,76,64,38,138,NA,NA,NA,NA
+"Region VII (Kansas City, Des Moines, Omaha, St. Louis)",2012,HUD,29.14,22,1,120,46,26.5,1,119,NA,NA,NA,NA
+"Region VII (Kansas City, Des Moines, Omaha, St. Louis)",2013,HUD,13.74,11.5,1,54,11,11,8,14,NA,NA,NA,NA
+Region VIII (Denver),2010,HUD,25,45,1,109,19,21,4,56,NA,NA,NA,NA
+Region VIII (Denver),2011,HUD,19,18,1,80,52,52,24,81,NA,NA,NA,NA
+Region VIII (Denver),2012,HUD,18.48,14,1,295,1,17.52,46,NA,NA,NA,NA,NA
+Region VIII (Denver),2013,HUD,20.27,20,24,92,0.5,0.5,1,1,NA,NA,NA,NA
+"Region X (Seattle, Anchorage, Portland)",2010,HUD,14,25,1,40,27,54,4,99,8,6,3,12
+"Region X (Seattle, Anchorage, Portland)",2011,HUD,15,17,2,69,27,23,1,54,4,4,4,5
+"Region X (Seattle, Anchorage, Portland)",2012,HUD,16.01,17,2,91,22.78,19,3,55,39,39,39,39
+"Region X (Seattle, Anchorage, Portland)",2013,HUD,15.74,14,1,81,46,28.5,11,115,NA,NA,NA,NA
+Research & Innovative Technology Administration,2008,DOT,20,12,NA,79,160,160,160,160,NA,NA,NA,NA
+Research & Innovative Technology Administration,2009,DOT,12,10,NA,48,14,14,14,14,19,19,16,21
+Research & Innovative Technology Administration,2010,DOT,11,8,NA,68,49,49,49,49,9,9,5,19
+Research & Innovative Technology Administration,2011,DOT,16,9,NA,94,NA,NA,NA,NA,193,193,193,193
+Research & Innovative Technology Administration,2012,DOT,12,6,1,111,21,17,4,46,6,5,1,16
+Research & Innovative Technology Administration,2013,DOT,9,7,2,22,20,20,20,20,9,9,NA,24
+"Research, Education & Economics",2010,USDA,NA,NA,NA,NA,13,12,1,32,NA,NA,NA,NA
+"Research, Education & Economics",2011,USDA,NA,NA,NA,NA,13,13,1,45,17.5,17,17,18
+"Research, Education & Economics",2012,USDA,7.8,7,1,20,18,18,1,80,20,20,20,20
+"Research, Education & Economics",2013,USDA,9.53,10,1,21,18.63,19,1,89,NA,NA,NA,NA
 Richland Operations Office,2008,DOE,15,18,1,64,NA,NA,NA,NA,NA,NA,NA,NA
 Richland Operations Office,2009,DOE,12,10,NA,58,NA,NA,NA,NA,NA,NA,NA,NA
 Richland Operations Office,2010,DOE,11.36,7,NA,229,NA,NA,NA,NA,NA,NA,NA,NA
@@ -2172,28 +2215,34 @@ Saint Lawrence Seaway Development Corporation,2010,DOT,8,8,4,14,NA,NA,NA,NA,4,4,
 Saint Lawrence Seaway Development Corporation,2011,DOT,12,12,3,21,63,61,29,100,NA,NA,NA,NA
 Saint Lawrence Seaway Development Corporation,2012,DOT,11,12,2,20,113,113,113,113,NA,NA,NA,NA
 Saint Lawrence Seaway Development Corporation,2013,DOT,14,12,9,26,NA,NA,NA,NA,NA,NA,NA,NA
-San Francisco District Office,2010,EEOC,11.8959,13,1,49,NA,NA,NA,NA,NA,NA,NA,NA
-San Francisco District Office,2011,EEOC,9.03789,7,1,100,NA,NA,NA,NA,NA,NA,NA,NA
-San Francisco District Office,2012,EEOC,18.25,18,1,53,NA,NA,NA,NA,NA,NA,NA,NA
-San Francisco District Office,2013,EEOC,27.82,23,1,228,NA,NA,NA,NA,NA,NA,NA,NA
+"San Francisco District Office (Seattle Field Office, Oakland and San Jose Local Offices)",2010,EEOC,11.8959,13,1,49,NA,NA,NA,NA,NA,NA,NA,NA
+"San Francisco District Office (Seattle Field Office, Oakland and San Jose Local Offices)",2011,EEOC,9.03789,7,1,100,NA,NA,NA,NA,NA,NA,NA,NA
+"San Francisco District Office (Seattle Field Office, Oakland and San Jose Local Offices)",2012,EEOC,18.25,18,1,53,NA,NA,NA,NA,NA,NA,NA,NA
+"San Francisco District Office (Seattle Field Office, Oakland and San Jose Local Offices)",2013,EEOC,27.82,23,1,228,NA,NA,NA,NA,NA,NA,NA,NA
 San Francisco Regional Office,2008,FLRA,7,7,7,7,NA,NA,NA,NA,NA,NA,NA,NA
 San Francisco Regional Office,2009,FLRA,11,9,3,20,NA,NA,NA,NA,NA,NA,NA,NA
 San Francisco Regional Office,2010,FLRA,14,17,9,20,NA,NA,NA,NA,NA,NA,NA,NA
 San Francisco Regional Office,2011,FLRA,20,20,20,20,NA,NA,NA,NA,NA,NA,NA,NA
 San Francisco Regional Office,2012,FLRA,18,18,15,20,NA,NA,NA,NA,NA,NA,NA,NA
 San Francisco Regional Office,2013,FLRA,4.17,3.5,NA,8,NA,NA,NA,NA,NA,NA,NA,NA
-Savannah River Office,2010,DOE,15.06,11,NA,136,NA,NA,NA,NA,NA,NA,NA,NA
-Savannah River Office,2011,DOE,17.76,12,NA,366,NA,NA,NA,NA,NA,NA,NA,NA
-Savannah River Office,2012,DOE,12.41,11,NA,65,NA,NA,NA,NA,NA,NA,NA,NA
-Savannah River Office,2013,DOE,16.5,13.5,NA,76,NA,NA,NA,NA,NA,NA,NA,NA
 Savannah River Operations Office,2008,DOE,156,21,1,867,NA,NA,NA,NA,NA,NA,NA,NA
 Savannah River Operations Office,2009,DOE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Science and Technology Directorate,2008,DHS,14.79,11,1,74,100,93,74,494,NA,NA,NA,NA
-Science and Technology Directorate,2009,DHS,22.66,14,1,97,796,1013,247,1128,NA,NA,NA,NA
-Science and Technology Directorate,2010,DHS,11,13,1,48,NA,NA,NA,NA,NA,NA,NA,NA
-Science and Technology Directorate,2011,DHS,12.14,8,1,55,62.4,47,32,131,NA,NA,NA,NA
-Science and Technology Directorate,2012,DHS,11,12,1,50,81,58,35,228,NA,NA,NA,NA
-Science and Technology Directorate,2013,DHS,6.75,5,1,18,110.17,94,67,184,93,93,93,93
+Savannah River Operations Office,2010,DOE,15.06,11,NA,136,NA,NA,NA,NA,NA,NA,NA,NA
+Savannah River Operations Office,2011,DOE,17.76,12,NA,366,NA,NA,NA,NA,NA,NA,NA,NA
+Savannah River Operations Office,2012,DOE,12.41,11,NA,65,NA,NA,NA,NA,NA,NA,NA,NA
+Savannah River Operations Office,2013,DOE,16.5,13.5,NA,76,NA,NA,NA,NA,NA,NA,NA,NA
+Science & Technology Directorate,2008,DHS,14.79,11,1,74,100,93,74,494,NA,NA,NA,NA
+Science & Technology Directorate,2009,DHS,22.66,14,1,97,796,1013,247,1128,NA,NA,NA,NA
+Science & Technology Directorate,2010,DHS,11,13,1,48,NA,NA,NA,NA,NA,NA,NA,NA
+Science & Technology Directorate,2011,DHS,12.14,8,1,55,62.4,47,32,131,NA,NA,NA,NA
+Science & Technology Directorate,2012,DHS,11,12,1,50,81,58,35,228,NA,NA,NA,NA
+Science & Technology Directorate,2013,DHS,6.75,5,1,18,110.17,94,67,184,93,93,93,93
+Securities and Exchange Commission,2008,SEC,158,66,1,870,575,570,8,820,3,2,1,6
+Securities and Exchange Commission,2009,SEC,27,6,1,769,424,445,1,941,44,31,4,132
+Securities and Exchange Commission,2010,SEC,18.38,7,NA,411,553.33,563.5,3,1015,49,49,15,83
+Securities and Exchange Commission,2011,SEC,11,4,NA,427,164,1,NA,1242,36,8,4,138
+Securities and Exchange Commission,2012,SEC,14,6,NA,399,325,147,1,776,13,6,1,81
+Securities and Exchange Commission,2013,SEC,14.51,5,NA,786,514,645,NA,803,58.15,40,2,344
 Security & Law Enforcement,2008,VA,NA,NA,NA,NA,5,20.5,1,41,NA,NA,NA,NA
 Selective Service System,2008,SSS,4,8,1,27,NA,NA,NA,NA,NA,NA,NA,NA
 Selective Service System,2009,SSS,4,6,1,23,NA,NA,NA,NA,NA,NA,NA,NA
@@ -2201,18 +2250,24 @@ Selective Service System,2010,SSS,3,6,1,12,NA,NA,NA,NA,NA,NA,NA,NA
 Selective Service System,2011,SSS,5,1,1,35,NA,NA,NA,NA,NA,NA,NA,NA
 Selective Service System,2012,SSS,2,2,1,4,NA,NA,NA,NA,NA,NA,NA,NA
 Selective Service System,2013,SSS,2,2,1,3,NA,NA,NA,NA,NA,NA,NA,NA
+Small Business Administration,2008,SBA,13.7,6,1,318,NA,NA,NA,NA,NA,NA,NA,NA
+Small Business Administration,2009,SBA,11.67,8,NA,427,NA,NA,NA,NA,4.5,4.5,2,7
+Small Business Administration,2010,SBA,12,7,NA,297,NA,NA,NA,NA,NA,NA,NA,NA
+Small Business Administration,2011,SBA,5.61,2,NA,424,35.5,47,NA,47,10.83,12.5,NA,15
+Small Business Administration,2012,SBA,4.2,2,NA,222,NA,NA,NA,NA,NA,NA,NA,NA
+Small Business Administration,2013,SBA,6.5,5,NA,97,NA,NA,NA,NA,NA,NA,NA,NA
 Social Security Administration,2008,SSA,30,16,1,78,60,44,1,246,NA,NA,NA,NA
 Social Security Administration,2009,SSA,17,11,1,256,77,61,2,387,NA,NA,NA,NA
 Social Security Administration,2010,SSA,18,10,2,118,50,42,1,234,NA,NA,NA,NA
 Social Security Administration,2011,SSA,22,17,3,159,56,47,3,248,NA,NA,NA,NA
 Social Security Administration,2012,SSA,19,12,3,257,57,41,1,298,NA,NA,NA,NA
 Social Security Administration,2013,SSA,17,18,1,45,64,45,1,331,NA,NA,NA,NA
-South Eastern Power Administration,2008,DOE,5,5,2,7,NA,NA,NA,NA,NA,NA,NA,NA
-South Eastern Power Administration,2009,DOE,12,12,1,31,NA,NA,NA,NA,NA,NA,NA,NA
-South Eastern Power Administration,2010,DOE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-South Eastern Power Administration,2011,DOE,11.4,13,NA,23,NA,NA,NA,NA,NA,NA,NA,NA
-South Eastern Power Administration,2012,DOE,4.33,3,1,10,NA,NA,NA,NA,NA,NA,NA,NA
-South Eastern Power Administration,2013,DOE,2.2,2,NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+Southeastern Power Administration,2008,DOE,5,5,2,7,NA,NA,NA,NA,NA,NA,NA,NA
+Southeastern Power Administration,2009,DOE,12,12,1,31,NA,NA,NA,NA,NA,NA,NA,NA
+Southeastern Power Administration,2010,DOE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Southeastern Power Administration,2011,DOE,11.4,13,NA,23,NA,NA,NA,NA,NA,NA,NA,NA
+Southeastern Power Administration,2012,DOE,4.33,3,1,10,NA,NA,NA,NA,NA,NA,NA,NA
+Southeastern Power Administration,2013,DOE,2.2,2,NA,5,NA,NA,NA,NA,NA,NA,NA,NA
 Southwestern Power Administration,2008,DOE,11,1,1,20,NA,NA,NA,NA,NA,NA,NA,NA
 Southwestern Power Administration,2009,DOE,10,11,2,16,NA,NA,NA,NA,NA,NA,NA,NA
 Southwestern Power Administration,2010,DOE,17.83,19,3,30,NA,NA,NA,NA,NA,NA,NA,NA
@@ -2227,22 +2282,22 @@ Special Inspector General for Iraq Reconstruction,2009,SIGIR,15,14,4,39,NA,NA,NA
 Special Inspector General for Iraq Reconstruction,2010,SIGIR,12,12,1,23,43,43,32,53,NA,NA,NA,NA
 Special Inspector General for Iraq Reconstruction,2011,SIGIR,12,12,4,21,NA,NA,NA,NA,NA,NA,NA,NA
 Special Inspector General for Iraq Reconstruction,2012,SIGIR,12,12,1,20,NA,NA,NA,NA,NA,NA,NA,NA
-St. Louis District Office,2010,EEOC,14.2394,17,1,30,NA,NA,NA,NA,NA,NA,NA,NA
-St. Louis District Office,2011,EEOC,15.0617,17,1,30,NA,NA,NA,NA,NA,NA,NA,NA
-St. Louis District Office,2012,EEOC,18.25,19,1,35,NA,NA,NA,NA,NA,NA,NA,NA
-St. Louis District Office,2013,EEOC,11.34,5,1,306,NA,NA,NA,NA,NA,NA,NA,NA
+St. Louis District Office (Kansas City and Oklahoma Area Offices),2010,EEOC,14.2394,17,1,30,NA,NA,NA,NA,NA,NA,NA,NA
+St. Louis District Office (Kansas City and Oklahoma Area Offices),2011,EEOC,15.0617,17,1,30,NA,NA,NA,NA,NA,NA,NA,NA
+St. Louis District Office (Kansas City and Oklahoma Area Offices),2012,EEOC,18.25,19,1,35,NA,NA,NA,NA,NA,NA,NA,NA
+St. Louis District Office (Kansas City and Oklahoma Area Offices),2013,EEOC,11.34,5,1,306,NA,NA,NA,NA,NA,NA,NA,NA
 Stennis Space Center,2008,NASA,28,7,2,146,220,10,14,28,NA,NA,NA,NA
 Stennis Space Center,2009,NASA,28,7,2,146,220,10,14,28,NA,NA,NA,NA
 Stennis Space Center,2010,NASA,4.59,2,NA,22,38.8,6,NA,164,2,2,2,2
 Stennis Space Center,2011,NASA,11.57,9,NA,50,246.5,246.5,151,342,NA,NA,NA,NA
 Stennis Space Center,2012,NASA,5.5,4,NA,13,4,4,4,4,NA,NA,NA,NA
 Stennis Space Center,2013,NASA,3.29,3,NA,11,9,9,9,9,NA,NA,NA,NA
-Strategic Petroleum Reserve,2008,DOE,12,25,3,35,NA,NA,NA,NA,NA,NA,NA,NA
-Strategic Petroleum Reserve,2009,DOE,5,7,1,8,47,12,6,122,NA,NA,NA,NA
-Strategic Petroleum Reserve,2010,DOE,14,15,6,21,NA,NA,NA,NA,NA,NA,NA,NA
-Strategic Petroleum Reserve,2011,DOE,14.93,15.5,NA,35,NA,NA,NA,NA,NA,NA,NA,NA
-Strategic Petroleum Reserve,2012,DOE,11.67,10.5,5,19,NA,NA,NA,NA,NA,NA,NA,NA
-Strategic Petroleum Reserve,2013,DOE,3,3,3,3,NA,NA,NA,NA,8,8,8,8
+Strategic Petroleum Reserve Project,2008,DOE,12,25,3,35,NA,NA,NA,NA,NA,NA,NA,NA
+Strategic Petroleum Reserve Project,2009,DOE,5,7,1,8,47,12,6,122,NA,NA,NA,NA
+Strategic Petroleum Reserve Project,2010,DOE,14,15,6,21,NA,NA,NA,NA,NA,NA,NA,NA
+Strategic Petroleum Reserve Project,2011,DOE,14.93,15.5,NA,35,NA,NA,NA,NA,NA,NA,NA,NA
+Strategic Petroleum Reserve Project,2012,DOE,11.67,10.5,5,19,NA,NA,NA,NA,NA,NA,NA,NA
+Strategic Petroleum Reserve Project,2013,DOE,3,3,3,3,NA,NA,NA,NA,8,8,8,8
 Substance Abuse and Mental Health Services Administration,2008,HHS,NA,NA,NA,NA,75,70,8,138,NA,NA,NA,NA
 Substance Abuse and Mental Health Services Administration,2009,HHS,20,12,NA,30,75,68,12,180,NA,NA,NA,NA
 Substance Abuse and Mental Health Services Administration,2010,HHS,12,5,2,17,273,190,53,280,NA,NA,NA,NA
@@ -2255,12 +2310,12 @@ Surface Transportation Board,2010,STB,7.3,7,1,14,NA,NA,NA,NA,NA,NA,NA,NA
 Surface Transportation Board,2011,STB,9.1,8,1,31,NA,NA,NA,NA,NA,NA,NA,NA
 Surface Transportation Board,2012,STB,5.9,3,1,20,NA,NA,NA,NA,NA,NA,NA,NA
 Surface Transportation Board,2013,STB,6,4,1,19,NA,NA,NA,NA,NA,NA,NA,NA
-"TRICARE Management Agency, DoD Health Care System",2008,DoD,22,8,1,164,89,47,21,382,NA,NA,NA,NA
-"TRICARE Management Agency, DoD Health Care System",2009,DoD,13,10,1,20,67,40,23,156,NA,NA,NA,NA
-"TRICARE Management Agency, DoD Health Care System",2010,DoD,2,2,NA,3,65,30,NA,432,NA,NA,NA,NA
-"TRICARE Management Agency, DoD Health Care System",2011,DoD,16,12,NA,83,127,95,NA,412,NA,NA,NA,NA
-"TRICARE Management Agency, DoD Health Care System",2012,DoD,19,11,NA,161,59,41,NA,253,NA,NA,NA,NA
-"TRICARE Management Agency, DoD Health Care System",2013,DoD,21,12,NA,369,59,40,16,298,18,18,18,18
+TRICARE Management Activity,2008,DoD,22,8,1,164,89,47,21,382,NA,NA,NA,NA
+TRICARE Management Activity,2009,DoD,13,10,1,20,67,40,23,156,NA,NA,NA,NA
+TRICARE Management Activity,2010,DoD,2,2,NA,3,65,30,NA,432,NA,NA,NA,NA
+TRICARE Management Activity,2011,DoD,16,12,NA,83,127,95,NA,412,NA,NA,NA,NA
+TRICARE Management Activity,2012,DoD,19,11,NA,161,59,41,NA,253,NA,NA,NA,NA
+TRICARE Management Activity,2013,DoD,21,12,NA,369,59,40,16,298,18,18,18,18
 Tax Division,2008,DOJ,6,1,1,114,132,87,1,394,14,2,1,64
 Tax Division,2009,DOJ,7,2,1,54,64,75,1,116,NA,NA,NA,NA
 Tax Division,2010,DOJ,9.48,3,NA,111,105.71,97,1,327,NA,NA,NA,NA
@@ -2273,6 +2328,18 @@ Tennessee Valley Authority,2010,TVA,7.8,6,1,20,48.8,35,21,235,NA,NA,NA,NA
 Tennessee Valley Authority,2011,TVA,6.5,5,1,20,50,43,22,103,NA,NA,NA,NA
 Tennessee Valley Authority,2012,TVA,7.7,7,1,20,36.4,34,21,86,NA,NA,NA,NA
 Tennessee Valley Authority,2013,TVA,9.48,9,1,20,77.92,36,21,627,NA,NA,NA,NA
+The Authority,2008,FLRA,79,20,1,325,NA,NA,NA,NA,NA,NA,NA,NA
+The Authority,2009,FLRA,146,18,1,1061,NA,NA,NA,NA,NA,NA,NA,NA
+The Authority,2010,FLRA,27,17,1,250,NA,NA,NA,NA,NA,NA,NA,NA
+The Authority,2011,FLRA,13,13,NA,32,NA,NA,NA,NA,NA,NA,NA,NA
+The Authority,2012,FLRA,12,11,1,28,66,12,21,156,NA,NA,NA,NA
+The Authority,2013,FLRA,10.64,10,NA,49,37.33,38,18,56,NA,NA,NA,NA
+The Federal Service Impasses Panel,2008,FLRA,1,1,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+The Federal Service Impasses Panel,2009,FLRA,6,1,NA,29,NA,NA,NA,NA,NA,NA,NA,NA
+The Federal Service Impasses Panel,2010,FLRA,2,1,NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+The Federal Service Impasses Panel,2011,FLRA,1,1,NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+The Federal Service Impasses Panel,2012,FLRA,4,1,NA,20,NA,NA,NA,NA,NA,NA,NA,NA
+The Federal Service Impasses Panel,2013,FLRA,9.31,3,NA,45,NA,NA,NA,NA,NA,NA,NA,NA
 Transportation Security Administration,2008,DHS,37.95,21.5,1,174,55.42,42,1,251,43.66,9,5,117
 Transportation Security Administration,2009,DHS,37.28,21,1,321,124.39,59,1,1037,NA,NA,NA,NA
 Transportation Security Administration,2010,DHS,31.58,16,1,205,115.6,54,1,1148,NA,NA,NA,NA
@@ -2291,76 +2358,124 @@ U. S. General Services  Administration,2010,GSA,33,28,NA,411,NA,NA,NA,NA,NA,NA,N
 U. S. General Services  Administration,2011,GSA,36,29,1,455,NA,NA,NA,NA,NA,NA,NA,NA
 U. S. General Services  Administration,2012,GSA,49.73,35,NA,1507,NA,NA,NA,NA,NA,NA,NA,NA
 U. S. General Services  Administration,2013,GSA,20.06,21,NA,40,63.45,48,NA,400,1,1,NA,2
-U.S. Office of Special Counsel,2010,OSC,10,1,1,147,NA,NA,NA,NA,7,6,2,12
-U.S. Office of Special Counsel,2011,OSC,3,2,NA,27,42,17,NA,288,12,12,3,21
-U.S. Office of Special Counsel,2012,OSC,29,10,1,211,271,134,1,747,83,20,9,381
-U.S. Office of Special Counsel,2013,OSC,31.54,14,NA,301,291.62,259,28,715,204.33,266.5,1,377
-U.S. Trade and Development Agency,2010,USTDA,NA,NA,NA,NA,105,60,2,303,NA,NA,NA,NA
-U.S. Trade and Development Agency,2011,USTDA,NA,NA,NA,NA,155.3,48,1,539,62.5,62.5,16,109
-U.S. Trade and Development Agency,2012,USTDA,NA,NA,NA,NA,20.6,13,7,84,NA,NA,NA,NA
-U.S. Trade and Development Agency,2013,USTDA,NA,NA,NA,NA,15.75,10,5,44,NA,NA,NA,NA
+U.S. Africa Command,2009,DoD,11,6,1,42,35,35,35,35,NA,NA,NA,NA
+U.S. Africa Command,2010,DoD,NA,NA,NA,NA,34,34,34,34,NA,NA,NA,NA
+U.S. Africa Command,2011,DoD,17,25,1,50,28,28,27,29,NA,NA,NA,NA
+U.S. Africa Command,2012,DoD,21,16,1,44,103,76,36,427,44,44,44,44
+U.S. Africa Command,2013,DoD,35,39,1,68,445,128,29,861,NA,NA,NA,NA
+U.S. Agency for International Development,2008,USAID,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+U.S. Agency for International Development,2009,USAID,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+U.S. Agency for International Development,2010,USAID,84.57,46,NA,739,354.98,213.5,3,2084,163.17,134.5,1,344
+U.S. Agency for International Development,2011,USAID,147.66,83,NA,731,307.42,226,NA,1399,139.4,64,12,302
+U.S. Agency for International Development,2012,USAID,163.02,73,2,759,280.2,145,NA,1500,154.12,59,12,487
+U.S. Agency for International Development,2013,USAID,74.83,17,NA,789,205.8,101,NA,1330,288,295,19,543
+U.S. Central Command,2008,DoD,34,19,1,135,138,23,1,819,NA,NA,NA,NA
+U.S. Central Command,2009,DoD,79,6,1,961,428,394,1,1420,NA,NA,NA,NA
+U.S. Central Command,2010,DoD,60,43,1,442,365,300,1,828,185,185,1,364
+U.S. Central Command,2011,DoD,130,31,1,784,452,351,17,1659,NA,NA,NA,NA
+U.S. Central Command,2012,DoD,97,33,1,1103,152,74,1,1457,NA,NA,NA,NA
+U.S. Central Command,2013,DoD,5,5,1,18,159,87,1,1418,52,57,13,58
+U.S. Citizenship & Immigration Services,2008,DHS,230.4,238,1,977,291.8,NA,1,747,63,27,2,439
+U.S. Citizenship & Immigration Services,2009,DHS,215.09,198.24,1,1396,319.15,NA,1,967,67.2,26.46,4,309
+U.S. Citizenship & Immigration Services,2010,DHS,42.86,35.62,1,886,61.45,62.34,1,640,74.21,22.61,6,497
+U.S. Citizenship & Immigration Services,2011,DHS,61.41,55,1,737,74.32,69,1,873,44.59,17,6,187
+U.S. Citizenship & Immigration Services,2012,DHS,86.41,103,1,480,98.5,101,1,579,49.64,23,3,285
+U.S. Citizenship & Immigration Services,2013,DHS,19.76,15.76,1,397,28.08,25.35,1,531,39.09,23.98,5,219
+U.S. Coast Guard,2008,DHS,17,5,1,1064,343,139,1,2860,8,8,1,14
+U.S. Coast Guard,2009,DHS,15.23,6,1,411,378.93,195,1,3265,1.78,1,1,8
+U.S. Coast Guard,2010,DHS,17.37,9,1,379,76.75,56,1,594,4,4,2,3
+U.S. Coast Guard,2011,DHS,11.5,5,1,520,43.8,45,1,695,NA,NA,NA,NA
+U.S. Coast Guard,2012,DHS,10.09,7,1,494,65.31,39,3,491,NA,NA,NA,NA
+U.S. Coast Guard,2013,DHS,10.83,11,1,20,97.29,35,2,983,NA,NA,NA,NA
+U.S. Customs & Border Protection,2008,DHS,23.31,9,NA,254,101,50,NA,832,NA,NA,NA,NA
+U.S. Customs & Border Protection,2009,DHS,38.46,18.57,1,369,91.09,60,1,990,NA,NA,NA,NA
+U.S. Customs & Border Protection,2010,DHS,30.27,24,1,413,41.54,39,1,587,NA,NA,NA,NA
+U.S. Customs & Border Protection,2011,DHS,36.49,4,1,261,65.85,60,1,213,2.75,1.5,1,7
+U.S. Customs & Border Protection,2012,DHS,106.83,118,1,462,84.25,87.5,1,324,1,1,1,1
+U.S. Customs & Border Protection,2013,DHS,142.02,129,1,544,94.86,66.5,1,509,38.44,23,1,119
+U.S. European Command,2008,DoD,71,65,3,247,266,254,245,300,NA,NA,NA,NA
+U.S. European Command,2009,DoD,91,46,2,406,189,175,65,342,NA,NA,NA,NA
+U.S. European Command,2010,DoD,106,56,1,511,442,555,28,839,109,1,NA,109
+U.S. European Command,2011,DoD,101,19,1,1271,402,277,4,1074,NA,NA,NA,NA
+U.S. European Command,2012,DoD,15,7,1,72,314,607,16,812,NA,NA,NA,NA
+U.S. European Command,2013,DoD,10,5,1,76,385,168,11,1752,NA,NA,NA,NA
+U.S. Fish and Wildlife Service,2008,DOI,16.5,5,12,39,276.86,NA,73,1300,1,1,1,1
+U.S. Fish and Wildlife Service,2009,DOI,9,6,NA,36,32.5,NA,NA,624,4,3,1,9
+U.S. Fish and Wildlife Service,2010,DOI,6,3,1,19,27,15,NA,667,12,12,7,17
+U.S. Fish and Wildlife Service,2011,DOI,3,2,NA,12,43,15,NA,1278,17,18,5,28
+U.S. Fish and Wildlife Service,2012,DOI,13,13,NA,29,39,18,NA,713,13,7,4,27
+U.S. Fish and Wildlife Service,2013,DOI,5,3,NA,43,41,17,NA,894,11,3,3,46
+U.S. Geological Survey,2008,DOI,NA,NA,NA,2,6.38,NA,NA,76,NA,NA,NA,NA
+U.S. Geological Survey,2009,DOI,1,NA,NA,2,15.12,NA,NA,166,NA,NA,NA,NA
+U.S. Geological Survey,2010,DOI,NA,NA,NA,NA,18,15,NA,179,NA,NA,NA,NA
+U.S. Geological Survey,2011,DOI,NA,NA,NA,NA,15,12,NA,300,1,1,NA,1
+U.S. Geological Survey,2012,DOI,1,1,NA,1,13,14,NA,46,NA,NA,NA,NA
+U.S. Geological Survey,2013,DOI,2,2,NA,3,15,8,NA,585,NA,NA,NA,NA
+U.S. Immigration & Customs Enforcement,2008,DHS,17,1,1,807,39.9,10,1,1023,44,15,2,180
+U.S. Immigration & Customs Enforcement,2009,DHS,12.46,8,1,152,38.48,23,1,313,58,58,7,109
+U.S. Immigration & Customs Enforcement,2010,DHS,10,7,1,281,26,13,1,352,37,21,2,105
+U.S. Immigration & Customs Enforcement,2011,DHS,14.05,7,1,347,34.08,20,1,357,18.5,17.5,1,45
+U.S. Immigration & Customs Enforcement,2012,DHS,24.34,19,1,180,42.83,26,1,373,12.29,8,8,23
+U.S. Immigration & Customs Enforcement,2013,DHS,52.79,45,1,273,63.01,37,2,590,28.76,19,1,149
+U.S. Northern Command,2008,DoD,11,13,1,24,NA,NA,NA,NA,NA,NA,NA,NA
+U.S. Northern Command,2009,DoD,8,8,1,19,6,6,5,8,NA,NA,NA,NA
+U.S. Northern Command,2010,DoD,12,17,1,39,NA,NA,NA,NA,NA,NA,NA,NA
+U.S. Northern Command,2011,DoD,20,17,3,120,NA,NA,NA,NA,NA,NA,NA,NA
+U.S. Northern Command,2012,DoD,30,26,1,167,NA,NA,NA,NA,NA,NA,NA,NA
+U.S. Northern Command,2013,DoD,8,19,1,21,218,89,23,973,NA,NA,NA,NA
+U.S. Pacific Command,2008,DoD,138,NA,1,1724,489,NA,2,2694,11,NA,11,12
+U.S. Pacific Command,2009,DoD,15,64,1,100,365,92,1,3665,1,1,1,1
+U.S. Pacific Command,2010,DoD,3,2,NA,7,422,88,1,3757,184,81,16,346
+U.S. Pacific Command,2011,DoD,1,1,1,1,144,25,1,2035,NA,NA,NA,NA
+U.S. Pacific Command,2012,DoD,1,1,1,2,116,73,8,2151,NA,NA,NA,NA
+U.S. Pacific Command,2013,DoD,8,8,1,17,109,68,21,495,NA,NA,NA,NA
+U.S. Patent and Trademark Office,2008,DOC,11,9,1,318,NA,NA,NA,NA,20,20,20,20
+U.S. Patent and Trademark Office,2009,DOC,7,5,NA,58,NA,NA,NA,NA,NA,NA,NA,NA
+U.S. Patent and Trademark Office,2010,DOC,8,8,1,30,NA,NA,NA,NA,NA,NA,NA,NA
+U.S. Patent and Trademark Office,2011,DOC,9.59,9,1,30,NA,NA,NA,NA,NA,NA,NA,NA
+U.S. Patent and Trademark Office,2012,DOC,11,11,1,29,NA,NA,NA,NA,NA,NA,NA,NA
+U.S. Patent and Trademark Office,2013,DOC,13,14,1,20,28,25,21,60,NA,NA,NA,NA
+U.S. Southern Command,2008,DoD,163,140,15,420,NA,NA,NA,NA,NA,NA,NA,NA
+U.S. Southern Command,2009,DoD,7,6,2,15,339,115,37,981,NA,NA,NA,NA
+U.S. Southern Command,2010,DoD,13,9,4,17,NA,NA,NA,NA,NA,NA,NA,NA
+U.S. Southern Command,2011,DoD,15,11,6,19,102,93,31,409,NA,NA,NA,NA
+U.S. Southern Command,2012,DoD,3,9,1,15,167,104,45,643,NA,NA,NA,NA
+U.S. Southern Command,2013,DoD,10,21,4,28,202,145,53,695,NA,NA,NA,NA
+U.S. Special Operations Command,2008,DoD,162,6,1,1553,598,305,2,2797,523,539,484,545
+U.S. Special Operations Command,2009,DoD,293,14,1,1236,418,397,1,2342,1120,934,919,1507
+U.S. Special Operations Command,2010,DoD,60,2,1,1054,438,82,1,2423,970,970,970,970
+U.S. Special Operations Command,2011,DoD,134,7,1,1493,345,64,1,2088,NA,NA,NA,NA
+U.S. Special Operations Command,2012,DoD,5,3,1,20,317,122,2,4099,NA,NA,NA,NA
+U.S. Special Operations Command,2013,DoD,15,16,1,83,308,94,1,2517,NA,NA,NA,NA
+U.S. Strategic Command,2008,DoD,14,13,1,49,38,29,5,92,13,5,5,29
+U.S. Strategic Command,2009,DoD,9,7,1,25,27,30,5,49,NA,NA,NA,NA
+U.S. Strategic Command,2010,DoD,14,9,1,63,71,54,38,147,NA,NA,NA,NA
+U.S. Strategic Command,2011,DoD,38,13,NA,496,566,202,47,3816,NA,NA,NA,NA
+U.S. Strategic Command,2012,DoD,10,8,NA,37,31,56,7,144,NA,NA,NA,NA
+U.S. Strategic Command,2013,DoD,5,3,NA,16,68,48,26,135,NA,NA,NA,NA
+U.S. Transportation Command,2008,DoD,8,7,1,24,51,43,29,138,NA,NA,NA,NA
+U.S. Transportation Command,2009,DoD,16,2,1,32,102,55,39,144,NA,NA,NA,NA
+U.S. Transportation Command,2010,DoD,8,12,1,118,258,132,121,398,1,1,1,4
+U.S. Transportation Command,2011,DoD,17,3,1,114,187,86,49,742,NA,NA,NA,NA
+U.S. Transportation Command,2012,DoD,6,14,1,19,105,57,21,543,8,8,8,8
+U.S. Transportation Command,2013,DoD,7,12,1,20,60,33,23,163,NA,NA,NA,NA
 USPS General Counsel,2011,USPS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United Sates Department of Health and Human Services,2008,HHS,60,18,1,1643,300,98,1,3211.6,110,15,1,1108
-United Sates Department of Health and Human Services,2009,HHS,46,19,NA,1431,141,107,NA,2272,54,37,NA,635
-United Sates Department of Health and Human Services,2010,HHS,32.94,14,NA,1401,139.79,122,NA,3926,27.25,121,NA,416
-United Sates Department of Health and Human Services,2011,HHS,35,15,NA,1305,112,174,NA,1760,70,60,3,556
-United Sates Department of Health and Human Services,2012,HHS,35,8,NA,1198,80,42,NA,2648,11,60,NA,400
-United Sates Department of Health and Human Services,2013,HHS,29,10,NA,1260,99,63,NA,1541,98,30,NA,512
-United States Africa Command,2009,DoD,11,6,1,42,35,35,35,35,NA,NA,NA,NA
-United States Africa Command,2010,DoD,NA,NA,NA,NA,34,34,34,34,NA,NA,NA,NA
-United States Africa Command,2011,DoD,17,25,1,50,28,28,27,29,NA,NA,NA,NA
-United States Africa Command,2012,DoD,21,16,1,44,103,76,36,427,44,44,44,44
-United States Africa Command,2013,DoD,35,39,1,68,445,128,29,861,NA,NA,NA,NA
+United Sates Department of Health & Human Services,2008,HHS,60,18,1,1643,300,98,1,3211.6,110,15,1,1108
+United Sates Department of Health & Human Services,2009,HHS,46,19,NA,1431,141,107,NA,2272,54,37,NA,635
+United Sates Department of Health & Human Services,2010,HHS,32.94,14,NA,1401,139.79,122,NA,3926,27.25,121,NA,416
+United Sates Department of Health & Human Services,2011,HHS,35,15,NA,1305,112,174,NA,1760,70,60,3,556
+United Sates Department of Health & Human Services,2012,HHS,35,8,NA,1198,80,42,NA,2648,11,60,NA,400
+United Sates Department of Health & Human Services,2013,HHS,29,10,NA,1260,99,63,NA,1541,98,30,NA,512
 United States African Development Foundation,2010,US ADF,9,8,6,14,NA,NA,NA,NA,NA,NA,NA,NA
 United States African Development Foundation,2011,US ADF,4,3,1,9,NA,NA,NA,NA,7,7,7,7
 United States African Development Foundation,2012,US ADF,10,10,7,13,NA,NA,NA,NA,3,3,3,3
 United States African Development Foundation,2013,US ADF,7,6.5,4,11,NA,NA,NA,NA,NA,NA,NA,NA
-United States Agency for International Development,2008,USAID,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United States Agency for International Development,2009,USAID,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-United States Agency for International Development,2010,USAID,84.57,46,NA,739,354.98,213.5,3,2084,163.17,134.5,1,344
-United States Agency for International Development,2011,USAID,147.66,83,NA,731,307.42,226,NA,1399,139.4,64,12,302
-United States Agency for International Development,2012,USAID,163.02,73,2,759,280.2,145,NA,1500,154.12,59,12,487
-United States Agency for International Development,2013,USAID,74.83,17,NA,789,205.8,101,NA,1330,288,295,19,543
-United States Central Command,2008,DoD,34,19,1,135,138,23,1,819,NA,NA,NA,NA
-United States Central Command,2009,DoD,79,6,1,961,428,394,1,1420,NA,NA,NA,NA
-United States Central Command,2010,DoD,60,43,1,442,365,300,1,828,185,185,1,364
-United States Central Command,2011,DoD,130,31,1,784,452,351,17,1659,NA,NA,NA,NA
-United States Central Command,2012,DoD,97,33,1,1103,152,74,1,1457,NA,NA,NA,NA
-United States Central Command,2013,DoD,5,5,1,18,159,87,1,1418,52,57,13,58
-United States Citizenship and Immigration Services,2008,DHS,230.4,238,1,977,291.8,NA,1,747,63,27,2,439
-United States Citizenship and Immigration Services,2009,DHS,215.09,198.24,1,1396,319.15,NA,1,967,67.2,26.46,4,309
-United States Citizenship and Immigration Services,2010,DHS,42.86,35.62,1,886,61.45,62.34,1,640,74.21,22.61,6,497
-United States Citizenship and Immigration Services,2011,DHS,61.41,55,1,737,74.32,69,1,873,44.59,17,6,187
-United States Citizenship and Immigration Services,2012,DHS,86.41,103,1,480,98.5,101,1,579,49.64,23,3,285
-United States Citizenship and Immigration Services,2013,DHS,19.76,15.76,1,397,28.08,25.35,1,531,39.09,23.98,5,219
-United States Coast Guard,2008,DHS,17,5,1,1064,343,139,1,2860,8,8,1,14
-United States Coast Guard,2009,DHS,15.23,6,1,411,378.93,195,1,3265,1.78,1,1,8
-United States Coast Guard,2010,DHS,17.37,9,1,379,76.75,56,1,594,4,4,2,3
-United States Coast Guard,2011,DHS,11.5,5,1,520,43.8,45,1,695,NA,NA,NA,NA
-United States Coast Guard,2012,DHS,10.09,7,1,494,65.31,39,3,491,NA,NA,NA,NA
-United States Coast Guard,2013,DHS,10.83,11,1,20,97.29,35,2,983,NA,NA,NA,NA
-United States Commission on Civil Rights,2010,USCCR,15,7.5,1,161,NA,NA,NA,NA,NA,NA,NA,NA
-United States Commission on Civil Rights,2011,USCCR,NA,NA,NA,NA,40,14,NA,742,NA,NA,NA,NA
-United States Commission on Civil Rights,2012,USCCR,7,1,1,6,22,10,3,63,NA,NA,NA,NA
-United States Commission on Civil Rights,2013,USCCR,3,1,NA,21,14,14,14,14,NA,NA,NA,NA
-United States Consumer Product Safety Commission,2008,U.S. CPSC,12,10,1,50,85,60,5,780,NA,NA,NA,NA
-United States Consumer Product Safety Commission,2009,U.S. CPSC,33,17,NA,332,68,68,1,368,NA,NA,NA,NA
-United States Consumer Product Safety Commission,2010,U.S. CPSC,40,19,1,350,87,65,1,617,NA,NA,NA,NA
-United States Consumer Product Safety Commission,2011,U.S. CPSC,51,9,1,580,97,64,1,632,NA,NA,NA,NA
-United States Consumer Product Safety Commission,2012,U.S. CPSC,35,8,1,615,102,77,1,644,99,99,99,99
-United States Consumer Product Safety Commission,2013,U.S. CPSC,27,11,1,402,96,53,1,1159,NA,NA,NA,NA
 United States Copyright Office,2008,CO,14,4,1,194,NA,NA,NA,NA,NA,NA,NA,NA
 United States Copyright Office,2009,CO,106,19,2,376,NA,NA,NA,NA,NA,NA,NA,NA
 United States Copyright Office,2010,CO,30.3,14,1,243,NA,NA,NA,NA,NA,NA,NA,NA
 United States Copyright Office,2011,CO,19.8,20,1,50,NA,NA,NA,NA,NA,NA,NA,NA
 United States Copyright Office,2012,CO,18.6,7.5,NA,153,NA,NA,NA,NA,NA,NA,NA,NA
 United States Copyright Office,2013,CO,13.4,10,1,94,NA,NA,NA,NA,NA,NA,NA,NA
-United States Customs and Border Protection,2008,DHS,23.31,9,NA,254,101,50,NA,832,NA,NA,NA,NA
-United States Customs and Border Protection,2009,DHS,38.46,18.57,1,369,91.09,60,1,990,NA,NA,NA,NA
-United States Customs and Border Protection,2010,DHS,30.27,24,1,413,41.54,39,1,587,NA,NA,NA,NA
-United States Customs and Border Protection,2011,DHS,36.49,4,1,261,65.85,60,1,213,2.75,1.5,1,7
-United States Customs and Border Protection,2012,DHS,106.83,118,1,462,84.25,87.5,1,324,1,1,1,1
-United States Customs and Border Protection,2013,DHS,142.02,129,1,544,94.86,66.5,1,509,38.44,23,1,119
 United States Department of Agriculture,2010,USDA,26.05,23,NA,1106,50.43,161,NA,1042,19.2,80.5,NA,1189
 United States Department of Agriculture,2011,USDA,19.2235,10.5,NA,969,56.8951,22.75,NA,1027,3.6305,NA,NA,94
 United States Department of Agriculture,2012,USDA,33.12,16,NA,954,76.4,25,NA,863,34.7,13,1,313
@@ -2377,42 +2492,12 @@ United States Department of Labor,2010,U.S. DOL,11.6,4.5,NA,523,27.4,12,NA,792,1
 United States Department of Labor,2011,U.S. DOL,37.7,5,NA,1280,214.9,24.8,NA,976,83.2,6.25,NA,901
 United States Department of Labor,2012,U.S. DOL,48,8,NA,1970,54.6,12,NA,2796,139.9,9,1,1928
 United States Department of Labor,2013,U.S. DOL,20.4,8,NA,1211,28.5,11,NA,1735,39.5,7,1,519
-United States Department of State,2008,State,118,70,1,736,275,196,5,1900,201,41,3,1509
-United States Department of State,2009,State,104,88,2,1556,384,307,2,2383,164,25,21,720
-United States Department of State,2010,State,144,142,NA,1723,284,228,21,2162,435,280,NA,1276
-United States Department of State,2011,State,156,150,1,1603,342,279,6,2460,926,49,49,1802
-United States Department of State,2012,State,88.51,66.43,NA,1589,559.9,450,NA,3035,760.44,921.43,46,1559
-United States Department of State,2013,State,106,90,NA,1631,532.8,373.5,NA,2070,405,202,4,1841
-United States Department of the Air Force,2008,DoD,13,12,NA,NA,86,17,NA,NA,20,44,NA,NA
-United States Department of the Air Force,2009,DoD,11,6,1,739,97,35,1,2354,15,12,1,56
-United States Department of the Air Force,2010,DoD,23,11,10,1044,87,36,1,1022,17,11,1,88
-United States Department of the Air Force,2011,DoD,26,10,1,3664,81,36,1,3608,53,8,1,1023
-United States Department of the Air Force,2012,DoD,15,10,1,3022,85,39,1,1398,14,13,1,57
-United States Department of the Air Force,2013,DoD,14,8,1,1031,82,40,1,887,22,11,1,111
-United States Department of the Army,2008,DoD,36,6,1,1725,41,30,1,1579,21,5,1,290
-United States Department of the Army,2009,DoD,28,NA,1,1262,62,NA,1,1920,13,NA,1,154
-United States Department of the Army,2010,DoD,28,NA,NA,1984,54,NA,NA,1633,7,NA,NA,273
-United States Department of the Army,2011,DoD,14,NA,NA,1551,34,NA,NA,1313,14,NA,NA,524
-United States Department of the Army,2012,DoD,8,NA,NA,572,48,NA,NA,1641,13,NA,NA,148
-United States Department of the Army,2013,DoD,6,NA,NA,443,34,NA,NA,1456,13,NA,NA,30
-United States Department of the Navy,2008,DoD,33,15,1,868,133,26,1,2477,8,2,1,37
-United States Department of the Navy,2009,DoD,111,275,1,2918,74,40,1,2331,8,6,1,37
-United States Department of the Navy,2010,DoD,11,10,NA,70,137,322,67,560,NA,NA,NA,NA
-United States Department of the Navy,2011,DoD,23,11,NA,3760,73,23,NA,1410,9,10,NA,63
-United States Department of the Navy,2012,DoD,7,7,NA,20,60,40,1,1908,2,3,NA,90
-United States Department of the Navy,2013,DoD,7,5,1,20,43,20,1,3089,2,NA,NA,21
-United States European Command,2008,DoD,71,65,3,247,266,254,245,300,NA,NA,NA,NA
-United States European Command,2009,DoD,91,46,2,406,189,175,65,342,NA,NA,NA,NA
-United States European Command,2010,DoD,106,56,1,511,442,555,28,839,109,1,NA,109
-United States European Command,2011,DoD,101,19,1,1271,402,277,4,1074,NA,NA,NA,NA
-United States European Command,2012,DoD,15,7,1,72,314,607,16,812,NA,NA,NA,NA
-United States European Command,2013,DoD,10,5,1,76,385,168,11,1752,NA,NA,NA,NA
-United States Geological Survey,2008,DOI,NA,NA,NA,2,6.38,NA,NA,76,NA,NA,NA,NA
-United States Geological Survey,2009,DOI,1,NA,NA,2,15.12,NA,NA,166,NA,NA,NA,NA
-United States Geological Survey,2010,DOI,NA,NA,NA,NA,18,15,NA,179,NA,NA,NA,NA
-United States Geological Survey,2011,DOI,NA,NA,NA,NA,15,12,NA,300,1,1,NA,1
-United States Geological Survey,2012,DOI,1,1,NA,1,13,14,NA,46,NA,NA,NA,NA
-United States Geological Survey,2013,DOI,2,2,NA,3,15,8,NA,585,NA,NA,NA,NA
+United States International Boundary and Water Commission,2008,USIBWC,17.38,18.5,2,27,NA,NA,NA,NA,NA,NA,NA,NA
+United States International Boundary and Water Commission,2009,USIBWC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+United States International Boundary and Water Commission,2010,USIBWC,15.6,17,2,34,NA,NA,NA,NA,NA,NA,NA,NA
+United States International Boundary and Water Commission,2011,USIBWC,NA,NA,NA,NA,27.3,29,12,71,4.4,4,1,7
+United States International Boundary and Water Commission,2012,USIBWC,5.6,5,1,12,31.9,30,14,62,NA,NA,NA,NA
+United States International Boundary and Water Commission,2013,USIBWC,14.6,19,1,27,64,54,42,110,NA,NA,NA,NA
 United States International Trade Commission,2008,USITC,16,16,1,60,NA,NA,NA,NA,10.5,10.5,1,20
 United States International Trade Commission,2009,USITC,19,18,2,49,NA,NA,NA,NA,NA,NA,NA,NA
 United States International Trade Commission,2010,USITC,1,17,1,37,NA,NA,NA,NA,4,4,4,4
@@ -2429,66 +2514,18 @@ United States Marshals Service,2010,DOJ,10.46,2,NA,219,23.27,22,1,59,3.67,3,1,8
 United States Marshals Service,2011,DOJ,9.75,1,NA,288,66,90,2,106,9.5,9.5,9,10
 United States Marshals Service,2012,DOJ,11.05,2,NA,207,38.5,38.5,24,53,120,120,120,120
 United States Marshals Service,2013,DOJ,77,3,NA,688,123.25,85.5,16,374,28.5,28.5,16,41
-United States Merit Systems Protection Board,2008,MSPB,9.2,11,NA,25,47.5,40,30,180,NA,NA,NA,NA
-United States Merit Systems Protection Board,2009,MSPB,15,7,NA,93,NA,NA,NA,NA,NA,NA,NA,NA
-United States Merit Systems Protection Board,2010,MSPB,17,8,NA,85,NA,NA,NA,NA,NA,NA,NA,NA
-United States Merit Systems Protection Board,2011,MSPB,9,17,NA,35,42,42,4,81,NA,NA,NA,NA
-United States Merit Systems Protection Board,2012,MSPB,10,18,NA,38,NA,NA,NA,NA,8,8,8,8
-United States Merit Systems Protection Board,2013,MSPB,22.3,13,NA,440,67.92,55,31,150,NA,NA,NA,NA
 United States Mint,2008,Treasury,NA,NA,NA,NA,13.3,11,1,60,NA,NA,NA,NA
 United States Mint,2009,Treasury,NA,NA,NA,NA,12.9,35,1,71,29,29,5,53
 United States Mint,2010,Treasury,NA,NA,NA,NA,10,8,1,20,3,3,1,5
 United States Mint,2011,Treasury,10,8,1,10,NA,NA,NA,NA,NA,NA,NA,NA
 United States Mint,2012,Treasury,10,8,1,20,NA,NA,NA,NA,NA,NA,NA,NA
 United States Mint,2013,Treasury,9.3,6,NA,20,NA,NA,NA,NA,5,5,5,5
-United States National Central Bureau -- INTERPOL,2008,DOJ,2.27,2,1,13,23.16,23,23,24,9.79,12,1,23
-United States National Central Bureau -- INTERPOL,2009,DOJ,4,2,NA,30,14,9,5,33,2,2,NA,3
-United States National Central Bureau -- INTERPOL,2010,DOJ,20.48,5,1,118,68.86,46.5,1,207,NA,NA,NA,NA
-United States National Central Bureau -- INTERPOL,2011,DOJ,16.87,7.5,NA,200,137.57,113.5,5,390,NA,NA,NA,NA
-United States National Central Bureau -- INTERPOL,2012,DOJ,27.14,12,NA,289,119.17,100.5,54,299,11,11,4,18
-United States National Central Bureau -- INTERPOL,2013,DOJ,7.99,2,NA,450,30.78,5,NA,220,4.17,3,2,10
-United States Northern Command,2008,DoD,11,13,1,24,NA,NA,NA,NA,NA,NA,NA,NA
-United States Northern Command,2009,DoD,8,8,1,19,6,6,5,8,NA,NA,NA,NA
-United States Northern Command,2010,DoD,12,17,1,39,NA,NA,NA,NA,NA,NA,NA,NA
-United States Northern Command,2011,DoD,20,17,3,120,NA,NA,NA,NA,NA,NA,NA,NA
-United States Northern Command,2012,DoD,30,26,1,167,NA,NA,NA,NA,NA,NA,NA,NA
-United States Northern Command,2013,DoD,8,19,1,21,218,89,23,973,NA,NA,NA,NA
-United States Nuclear Regulatory Commission,2008,USNRC,15,11,NA,136,56,49,NA,178,NA,NA,NA,NA
-United States Nuclear Regulatory Commission,2009,USNRC,14,11,NA,113,45,43,3,156,NA,NA,NA,NA
-United States Nuclear Regulatory Commission,2010,USNRC,11,9,NA,70,53,43,NA,219,NA,NA,NA,NA
-United States Nuclear Regulatory Commission,2011,USNRC,11,9,NA,63,46,32,1,290,6,6,6,6
-United States Nuclear Regulatory Commission,2012,USNRC,10,7,NA,129,51,20,NA,437,135,23,15,366
-United States Nuclear Regulatory Commission,2013,USNRC,12,9,NA,93,82,21,NA,617,391,391,391,391
-United States Office of Government Ethics,2008,OGE,11,12.5,1,30,NA,NA,NA,NA,NA,NA,NA,NA
-United States Office of Government Ethics,2009,OGE,12.4,13,NA,30,NA,NA,NA,NA,9,9,9,9
-United States Office of Government Ethics,2010,OGE,13.02,13.5,1,173,NA,NA,NA,NA,NA,NA,NA,NA
-United States Office of Government Ethics,2011,OGE,12.097,9.5,1,54,NA,NA,NA,NA,8,8,8,8
-United States Office of Government Ethics,2012,OGE,10.959,9,1,43,NA,NA,NA,NA,NA,NA,NA,NA
-United States Office of Government Ethics,2013,OGE,8.6,7,1,30,NA,NA,NA,NA,NA,NA,NA,NA
-United States Office of Personnel Management,2008,OPM,NA,NA,NA,NA,51,1,1,3510,NA,NA,NA,NA
-United States Office of Personnel Management,2009,OPM,NA,NA,NA,NA,37,64,1,2666,51,60,24,60
-United States Office of Personnel Management,2010,OPM,NA,NA,NA,NA,72,618,1,388,5,6,1,9
-United States Office of Personnel Management,2011,OPM,NA,NA,NA,NA,44,34,1,435,41,42,1,133
-United States Office of Personnel Management,2012,OPM,16,7,1,1359,102,121,1,867,81,27,1,479
-United States Office of Personnel Management,2013,OPM,22,2,1,406,41,35,1,791,37,17,3,398
-United States Pacific Command,2008,DoD,138,NA,1,1724,489,NA,2,2694,11,NA,11,12
-United States Pacific Command,2009,DoD,15,64,1,100,365,92,1,3665,1,1,1,1
-United States Pacific Command,2010,DoD,3,2,NA,7,422,88,1,3757,184,81,16,346
-United States Pacific Command,2011,DoD,1,1,1,1,144,25,1,2035,NA,NA,NA,NA
-United States Pacific Command,2012,DoD,1,1,1,2,116,73,8,2151,NA,NA,NA,NA
-United States Pacific Command,2013,DoD,8,8,1,17,109,68,21,495,NA,NA,NA,NA
 United States Parole Commission,2008,DOJ,NA,NA,NA,NA,24,1,NA,1002,NA,NA,NA,NA
 United States Parole Commission,2009,DOJ,9,2,1,299,186,214,1,505,NA,NA,NA,NA
 United States Parole Commission,2010,DOJ,14.76,3,NA,316,109.86,48,NA,378,NA,NA,NA,NA
 United States Parole Commission,2011,DOJ,8.25,2,NA,285,72.28,39,NA,349,NA,NA,NA,NA
 United States Parole Commission,2012,DOJ,8.08,1.5,NA,272,38.92,13,NA,434,NA,NA,NA,NA
 United States Parole Commission,2013,DOJ,11.12,3,NA,124,39.06,25,NA,393,NA,NA,NA,NA
-United States Patent and Trademark Office,2008,DOC,11,9,1,318,NA,NA,NA,NA,20,20,20,20
-United States Patent and Trademark Office,2009,DOC,7,5,NA,58,NA,NA,NA,NA,NA,NA,NA,NA
-United States Patent and Trademark Office,2010,DOC,8,8,1,30,NA,NA,NA,NA,NA,NA,NA,NA
-United States Patent and Trademark Office,2011,DOC,9.59,9,1,30,NA,NA,NA,NA,NA,NA,NA,NA
-United States Patent and Trademark Office,2012,DOC,11,11,1,29,NA,NA,NA,NA,NA,NA,NA,NA
-United States Patent and Trademark Office,2013,DOC,13,14,1,20,28,25,21,60,NA,NA,NA,NA
 United States Postal Service,2010,USPS,17,7,NA,524,46,25,NA,495,6.25,6.5,4,8
 United States Postal Service,2011,USPS,11.44,5,NA,888,43.13,21,NA,573,14.33,9.5,NA,34
 United States Postal Service,2012,USPS,15.06,7,NA,335,44.06,23.5,1,476,1,1,1,1
@@ -2505,48 +2542,10 @@ United States Secret Service,2010,DHS,13.95,14,3,20,196.9,47,21,1965,NA,NA,NA,NA
 United States Secret Service,2011,DHS,14.28,14,1,20,250.9,80,21,1529,76,76,76,76
 United States Secret Service,2012,DHS,17.75,19,3,20,129.87,44,21,1648,324.5,235.5,14,813
 United States Secret Service,2013,DHS,10.79,11,1,20,223.4,92,21,1510,NA,NA,NA,NA
-"United States Section, International Boundary and Water Commission",2008,USIBWC,17.38,18.5,2,27,NA,NA,NA,NA,NA,NA,NA,NA
-"United States Section, International Boundary and Water Commission",2009,USIBWC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"United States Section, International Boundary and Water Commission",2010,USIBWC,15.6,17,2,34,NA,NA,NA,NA,NA,NA,NA,NA
-"United States Section, International Boundary and Water Commission",2011,USIBWC,NA,NA,NA,NA,27.3,29,12,71,4.4,4,1,7
-"United States Section, International Boundary and Water Commission",2012,USIBWC,5.6,5,1,12,31.9,30,14,62,NA,NA,NA,NA
-"United States Section, International Boundary and Water Commission",2013,USIBWC,14.6,19,1,27,64,54,42,110,NA,NA,NA,NA
-United States Securities and Exchange Commission,2008,SEC,158,66,1,870,575,570,8,820,3,2,1,6
-United States Securities and Exchange Commission,2009,SEC,27,6,1,769,424,445,1,941,44,31,4,132
-United States Securities and Exchange Commission,2010,SEC,18.38,7,NA,411,553.33,563.5,3,1015,49,49,15,83
-United States Securities and Exchange Commission,2011,SEC,11,4,NA,427,164,1,NA,1242,36,8,4,138
-United States Securities and Exchange Commission,2012,SEC,14,6,NA,399,325,147,1,776,13,6,1,81
-United States Securities and Exchange Commission,2013,SEC,14.51,5,NA,786,514,645,NA,803,58.15,40,2,344
-United States Small Business Administration,2008,SBA,13.7,6,1,318,NA,NA,NA,NA,NA,NA,NA,NA
-United States Small Business Administration,2009,SBA,11.67,8,NA,427,NA,NA,NA,NA,4.5,4.5,2,7
-United States Small Business Administration,2010,SBA,12,7,NA,297,NA,NA,NA,NA,NA,NA,NA,NA
-United States Small Business Administration,2011,SBA,5.61,2,NA,424,35.5,47,NA,47,10.83,12.5,NA,15
-United States Small Business Administration,2012,SBA,4.2,2,NA,222,NA,NA,NA,NA,NA,NA,NA,NA
-United States Small Business Administration,2013,SBA,6.5,5,NA,97,NA,NA,NA,NA,NA,NA,NA,NA
-United States Southern Command,2008,DoD,163,140,15,420,NA,NA,NA,NA,NA,NA,NA,NA
-United States Southern Command,2009,DoD,7,6,2,15,339,115,37,981,NA,NA,NA,NA
-United States Southern Command,2010,DoD,13,9,4,17,NA,NA,NA,NA,NA,NA,NA,NA
-United States Southern Command,2011,DoD,15,11,6,19,102,93,31,409,NA,NA,NA,NA
-United States Southern Command,2012,DoD,3,9,1,15,167,104,45,643,NA,NA,NA,NA
-United States Southern Command,2013,DoD,10,21,4,28,202,145,53,695,NA,NA,NA,NA
-United States Special Operations Command,2008,DoD,162,6,1,1553,598,305,2,2797,523,539,484,545
-United States Special Operations Command,2009,DoD,293,14,1,1236,418,397,1,2342,1120,934,919,1507
-United States Special Operations Command,2010,DoD,60,2,1,1054,438,82,1,2423,970,970,970,970
-United States Special Operations Command,2011,DoD,134,7,1,1493,345,64,1,2088,NA,NA,NA,NA
-United States Special Operations Command,2012,DoD,5,3,1,20,317,122,2,4099,NA,NA,NA,NA
-United States Special Operations Command,2013,DoD,15,16,1,83,308,94,1,2517,NA,NA,NA,NA
-United States Strategic Command,2008,DoD,14,13,1,49,38,29,5,92,13,5,5,29
-United States Strategic Command,2009,DoD,9,7,1,25,27,30,5,49,NA,NA,NA,NA
-United States Strategic Command,2010,DoD,14,9,1,63,71,54,38,147,NA,NA,NA,NA
-United States Strategic Command,2011,DoD,38,13,NA,496,566,202,47,3816,NA,NA,NA,NA
-United States Strategic Command,2012,DoD,10,8,NA,37,31,56,7,144,NA,NA,NA,NA
-United States Strategic Command,2013,DoD,5,3,NA,16,68,48,26,135,NA,NA,NA,NA
-United States Transportation Command,2008,DoD,8,7,1,24,51,43,29,138,NA,NA,NA,NA
-United States Transportation Command,2009,DoD,16,2,1,32,102,55,39,144,NA,NA,NA,NA
-United States Transportation Command,2010,DoD,8,12,1,118,258,132,121,398,1,1,1,4
-United States Transportation Command,2011,DoD,17,3,1,114,187,86,49,742,NA,NA,NA,NA
-United States Transportation Command,2012,DoD,6,14,1,19,105,57,21,543,8,8,8,8
-United States Transportation Command,2013,DoD,7,12,1,20,60,33,23,163,NA,NA,NA,NA
+United States Trade and Development Agency,2010,USTDA,NA,NA,NA,NA,105,60,2,303,NA,NA,NA,NA
+United States Trade and Development Agency,2011,USTDA,NA,NA,NA,NA,155.3,48,1,539,62.5,62.5,16,109
+United States Trade and Development Agency,2012,USTDA,NA,NA,NA,NA,20.6,13,7,84,NA,NA,NA,NA
+United States Trade and Development Agency,2013,USTDA,NA,NA,NA,NA,15.75,10,5,44,NA,NA,NA,NA
 United States Visitor and Immigrant Status Indicator Technology,2008,DHS,11.12,10,1,103,32,17,1,96,NA,NA,NA,NA
 United States Visitor and Immigrant Status Indicator Technology,2009,DHS,32.86,5,NA,224,19,11,11,35,NA,NA,NA,NA
 United States Visitor and Immigrant Status Indicator Technology,2010,DHS,23.8,27,1,176,81.29,68,63,117,NA,NA,NA,NA
@@ -2567,12 +2566,12 @@ Veterans Health Administration,2010,VA,NA,NA,NA,NA,10.12,2,NA,379,7.5,1.5,NA,72
 Veterans Health Administration,2011,VA,1.49,0.5,NA,8,11.6,4,NA,682,4.11,1,NA,53
 Veterans Health Administration,2012,VA,10.16,4,NA,444,21.36,8,NA,733,7.17,2,NA,49
 Veterans Health Administration,2013,VA,15.88,5,NA,449,25.96,12,NA,1438,36.39,12,NA,176
-Veterans' Employment and Training Service,2008,U.S. DOL,11.06,10,1,32,28.7,40,2,127,10.2,5.5,1,15
-Veterans' Employment and Training Service,2009,U.S. DOL,10.9,10,1,63,14,10,7,23,6,5,1,20
-Veterans' Employment and Training Service,2010,U.S. DOL,13.1,14,1,28,26.34,12,1,252,4.4,5,1,45
-Veterans' Employment and Training Service,2011,U.S. DOL,12.3,12,1,28,53.7,13,1,495,8,8,4,12
-Veterans' Employment and Training Service,2012,U.S. DOL,811.9,793,2,1970,60.3,26,1,1888,7.5,7.5,7,8
-Veterans' Employment and Training Service,2013,U.S. DOL,65.2,48,1,276,62.1,28,1,359,59.3,5,1,226
+Veterans' Employment & Training Service,2008,U.S. DOL,11.06,10,1,32,28.7,40,2,127,10.2,5.5,1,15
+Veterans' Employment & Training Service,2009,U.S. DOL,10.9,10,1,63,14,10,7,23,6,5,1,20
+Veterans' Employment & Training Service,2010,U.S. DOL,13.1,14,1,28,26.34,12,1,252,4.4,5,1,45
+Veterans' Employment & Training Service,2011,U.S. DOL,12.3,12,1,28,53.7,13,1,495,8,8,4,12
+Veterans' Employment & Training Service,2012,U.S. DOL,811.9,793,2,1970,60.3,26,1,1888,7.5,7.5,7,8
+Veterans' Employment & Training Service,2013,U.S. DOL,65.2,48,1,276,62.1,28,1,359,59.3,5,1,226
 Wage and Hour Division,2009,U.S. DOL,19,8,1,50,53,24,1,213,4,2,1,11
 Wage and Hour Division,2010,U.S. DOL,17.7,10,1,523,37.6,27,NA,273,8.6,6,1,41
 Wage and Hour Division,2011,U.S. DOL,25.4,15,NA,230,42.7,26,1,491,14,12,1,47

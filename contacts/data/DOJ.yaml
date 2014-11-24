@@ -448,6 +448,45 @@ departments:
   name: Bureau of Alcohol, Tobacco, Firearms, and Explosives
   phone: 202-648-8740
   public_liaison: 'Stephanie Boucher, Phone: (202) 648-8740'
+  request_time_stats:
+    '2008':
+      simple_average_days: '13'
+      simple_highest_days: '209'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2009':
+      simple_average_days: '13'
+      simple_highest_days: '250'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2010':
+      complex_average_days: '22.11'
+      complex_highest_days: '386'
+      complex_median_days: '12'
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '9'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '2'
+    '2011':
+      complex_average_days: '19.64'
+      complex_highest_days: '440'
+      complex_median_days: '12'
+      expedited_processing_average_days: '188'
+      expedited_processing_highest_days: '373'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '188'
+    '2012':
+      complex_average_days: '19.01'
+      complex_highest_days: '266'
+      complex_median_days: '14'
+    '2013':
+      complex_average_days: '50.05'
+      complex_highest_days: '600'
+      complex_median_days: '28'
+      expedited_processing_average_days: '95'
+      expedited_processing_highest_days: '95'
+      expedited_processing_lowest_days: '95'
+      expedited_processing_median_days: '95'
   service_center: 'Phone: (202) 648-8740'
   top_level: true
   usa_id: '49081'
@@ -1364,6 +1403,69 @@ departments:
   phone: 202-514-6655
   public_liaison: 'Wilson Moorer, Phone: (202) 514-6655'
   request_form: http://www.bop.gov/foia/submit.jsp
+  request_time_stats:
+    '2008':
+      complex_average_days: '40.37'
+      complex_highest_days: '246'
+      complex_median_days: '27'
+      expedited_processing_average_days: '2.4'
+      expedited_processing_highest_days: '10'
+      expedited_processing_median_days: '1'
+      simple_average_days: '15.87'
+      simple_highest_days: '247'
+      simple_median_days: '4'
+    '2009':
+      complex_average_days: '53'
+      complex_highest_days: '285'
+      complex_median_days: '37'
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '12'
+      expedited_processing_median_days: '3'
+      simple_average_days: '18'
+      simple_highest_days: '200'
+      simple_median_days: '7'
+    '2010':
+      complex_average_days: '67.79'
+      complex_highest_days: '394'
+      complex_median_days: '40'
+      expedited_processing_average_days: '25.75'
+      expedited_processing_highest_days: '48'
+      expedited_processing_lowest_days: '12'
+      expedited_processing_median_days: '21.5'
+      simple_average_days: '19.13'
+      simple_highest_days: '469'
+      simple_median_days: '3'
+    '2011':
+      complex_average_days: '116.61'
+      complex_highest_days: '647'
+      complex_median_days: '81'
+      expedited_processing_average_days: '20.5'
+      expedited_processing_highest_days: '65'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '7'
+      simple_average_days: '26.99'
+      simple_highest_days: '694'
+      simple_median_days: '10'
+    '2012':
+      complex_average_days: '96.09'
+      complex_highest_days: '744'
+      complex_median_days: '65'
+      expedited_processing_average_days: '37.38'
+      expedited_processing_highest_days: '125'
+      expedited_processing_median_days: '19'
+      simple_average_days: '16.89'
+      simple_highest_days: '642'
+      simple_median_days: '6'
+    '2013':
+      complex_average_days: '108.48'
+      complex_highest_days: '784'
+      complex_median_days: '67'
+      expedited_processing_average_days: '44.09'
+      expedited_processing_highest_days: '292'
+      expedited_processing_median_days: '9'
+      simple_average_days: '17.07'
+      simple_highest_days: '545'
+      simple_median_days: '4'
   service_center: 'Phone: (202) 616-7750'
   top_level: true
   usa_id: '49126'
@@ -1431,6 +1533,71 @@ departments:
   reading_rooms:
   - - FOIA Library
     - http://www.justice.gov/interpol-washington/foia-library
+  request_time_stats:
+    '2008':
+      complex_average_days: '23.16'
+      complex_highest_days: '24'
+      complex_lowest_days: '23'
+      complex_median_days: '23'
+      expedited_processing_average_days: '9.79'
+      expedited_processing_highest_days: '23'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '12'
+      simple_average_days: '2.27'
+      simple_highest_days: '13'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
+    '2009':
+      complex_average_days: '14'
+      complex_highest_days: '33'
+      complex_lowest_days: '5'
+      complex_median_days: '9'
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '3'
+      expedited_processing_median_days: '2'
+      simple_average_days: '4'
+      simple_highest_days: '30'
+      simple_median_days: '2'
+    '2010':
+      complex_average_days: '68.86'
+      complex_highest_days: '207'
+      complex_lowest_days: '1'
+      complex_median_days: '46.5'
+      simple_average_days: '20.48'
+      simple_highest_days: '118'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
+    '2011':
+      complex_average_days: '137.57'
+      complex_highest_days: '390'
+      complex_lowest_days: '5'
+      complex_median_days: '113.5'
+      simple_average_days: '16.87'
+      simple_highest_days: '200'
+      simple_median_days: '7.5'
+    '2012':
+      complex_average_days: '119.17'
+      complex_highest_days: '299'
+      complex_lowest_days: '54'
+      complex_median_days: '100.5'
+      expedited_processing_average_days: '11'
+      expedited_processing_highest_days: '18'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '11'
+      simple_average_days: '27.14'
+      simple_highest_days: '289'
+      simple_median_days: '12'
+    '2013':
+      complex_average_days: '30.78'
+      complex_highest_days: '220'
+      complex_median_days: '5'
+      expedited_processing_average_days: '4.17'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '3'
+      simple_average_days: '7.99'
+      simple_highest_days: '450'
+      simple_median_days: '2'
   service_center: 'Phone: (202) 616-0201'
   top_level: false
   website: http://www.justice.gov/interpol-washington/foia.html
@@ -1757,12 +1924,9 @@ departments:
   keywords:
   - Administrative practice and procedure
   - Claims
-  - Colleges and universities
   - Crime
   - Disability benefits
   - Education
-  - Educational facilities
-  - Educational study programs
   - Emergency medical services
   - Firefighters
   - Grant programs
@@ -1772,8 +1936,6 @@ departments:
   - Motor vehicle safety
   - Motor vehicles
   - Reporting and recordkeeping requirements
-  - Schools
-  - Student aid
   - Transportation
   - Victim compensation
   misc:
@@ -2853,7 +3015,6 @@ keywords:
 - Health professions
 - Highways and roads
 - Historic preservation
-- Hospitals
 - Human research subjects
 - Immigration
 - Imports
@@ -2864,7 +3025,6 @@ keywords:
 - Investigations
 - Justice Department
 - Juvenile delinquency
-- Labor
 - Law enforcement
 - Law enforcement officers
 - Lawyers
@@ -2893,7 +3053,6 @@ keywords:
 - Reporting and recordkeeping requirements
 - Research
 - Safety
-- Schools
 - Scientific equipment
 - Seals and insignia
 - Search warrants

@@ -37,6 +37,67 @@ departments:
   - - FOIA Library
     - http://www.census.gov/foia/foia_library/
   request_form: http://www.census.gov/foia/foia_request.php
+  request_time_stats:
+    '2008':
+      expedited_processing_average_days: '14'
+      expedited_processing_highest_days: '24'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '14'
+      simple_average_days: '16'
+      simple_highest_days: '97'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2009':
+      expedited_processing_average_days: '24'
+      expedited_processing_highest_days: '30'
+      expedited_processing_lowest_days: '20'
+      expedited_processing_median_days: '24'
+      simple_average_days: '11'
+      simple_highest_days: '66'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
+    '2010':
+      expedited_processing_average_days: '39'
+      expedited_processing_highest_days: '60'
+      expedited_processing_lowest_days: '30'
+      expedited_processing_median_days: '33'
+      simple_average_days: '18'
+      simple_highest_days: '125'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
+    '2011':
+      expedited_processing_average_days: '26'
+      expedited_processing_highest_days: '100'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '10'
+      simple_average_days: '23'
+      simple_highest_days: '206'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
+    '2012':
+      complex_average_days: '23'
+      complex_highest_days: '239'
+      complex_lowest_days: '1'
+      complex_median_days: '18'
+      expedited_processing_average_days: '18'
+      expedited_processing_highest_days: '29'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '20'
+      simple_average_days: '18'
+      simple_highest_days: '39'
+      simple_lowest_days: '1'
+      simple_median_days: '19'
+    '2013':
+      complex_average_days: '6'
+      complex_highest_days: '167'
+      complex_median_days: '1'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '28'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '11'
+      simple_average_days: '4'
+      simple_highest_days: '19'
+      simple_median_days: '4'
   service_center: 'Phone: (301) 763-2127'
   top_level: true
   usa_id: '48005'
@@ -55,6 +116,41 @@ departments:
   name: Economics and Statistics Administration Bureau
   phone: 202-482-5997
   public_liaison: 'Pamela Moulder, Phone: (202) 482-5997'
+  request_time_stats:
+    '2008':
+      simple_average_days: '17'
+      simple_highest_days: '35'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
+    '2009':
+      simple_average_days: '10'
+      simple_highest_days: '25'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
+    '2010':
+      simple_average_days: '7'
+      simple_highest_days: '19'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2011':
+      simple_average_days: '6'
+      simple_highest_days: '22'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2012':
+      complex_average_days: '38'
+      complex_highest_days: '46'
+      complex_lowest_days: '29'
+      complex_median_days: '17'
+      simple_average_days: '3'
+      simple_highest_days: '6'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
+    '2013':
+      simple_average_days: '8'
+      simple_highest_days: '19'
+      simple_lowest_days: '2'
+      simple_median_days: '6'
   service_center: 'Phone: (202) 482-5997'
   top_level: false
   website: https://www.esa.doc.gov/freedom-information-act
@@ -203,6 +299,73 @@ departments:
   name: Bureau of Industry and Security
   phone: 202-482-0953
   public_liaison: 'Jennifer Kuo, Phone: (202) 482-0953'
+  request_time_stats:
+    '2008':
+      complex_average_days: '46'
+      complex_highest_days: '73'
+      complex_lowest_days: '19'
+      complex_median_days: '46'
+      expedited_processing_average_days: '14'
+      expedited_processing_highest_days: '14'
+      expedited_processing_lowest_days: '14'
+      expedited_processing_median_days: '14'
+      simple_average_days: '11'
+      simple_highest_days: '31'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
+    '2009':
+      complex_average_days: '74'
+      complex_highest_days: '214'
+      complex_lowest_days: '10'
+      complex_median_days: '51'
+      simple_average_days: '15'
+      simple_highest_days: '112'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2010':
+      complex_average_days: '225'
+      complex_highest_days: '225'
+      complex_lowest_days: '225'
+      complex_median_days: '225'
+      expedited_processing_average_days: '3'
+      expedited_processing_highest_days: '7'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '1'
+      simple_average_days: '25'
+      simple_highest_days: '181'
+      simple_lowest_days: '1'
+      simple_median_days: '15'
+    '2011':
+      complex_average_days: '101'
+      complex_highest_days: '102'
+      complex_lowest_days: '101'
+      complex_median_days: '101'
+      simple_average_days: '19'
+      simple_highest_days: '31'
+      simple_lowest_days: '1'
+      simple_median_days: '16'
+    '2012':
+      expedited_processing_average_days: '7'
+      expedited_processing_highest_days: '7'
+      expedited_processing_lowest_days: '7'
+      expedited_processing_median_days: '7'
+      simple_average_days: '15'
+      simple_highest_days: '66'
+      simple_lowest_days: '4'
+      simple_median_days: '10'
+    '2013':
+      complex_average_days: '28'
+      complex_highest_days: '61'
+      complex_lowest_days: '8'
+      complex_median_days: '25'
+      expedited_processing_average_days: '16'
+      expedited_processing_highest_days: '16'
+      expedited_processing_lowest_days: '16'
+      expedited_processing_median_days: '16'
+      simple_average_days: '8'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '7'
   service_center: 'Phone: (202) 482-0953'
   top_level: false
   website: http://www.bis.doc.gov/foia/default.htm
@@ -793,6 +956,44 @@ departments:
   name: U.S. Patent and Trademark Office
   phone: 571-272-3000
   public_liaison: 'Dahlia George, Phone: (571) 272-3000'
+  request_time_stats:
+    '2008':
+      expedited_processing_average_days: '20'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '20'
+      expedited_processing_median_days: '20'
+      simple_average_days: '11'
+      simple_highest_days: '318'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
+    '2009':
+      simple_average_days: '7'
+      simple_highest_days: '58'
+      simple_median_days: '5'
+    '2010':
+      simple_average_days: '8'
+      simple_highest_days: '30'
+      simple_lowest_days: '1'
+      simple_median_days: '8'
+    '2011':
+      simple_average_days: '9.59'
+      simple_highest_days: '30'
+      simple_lowest_days: '1'
+      simple_median_days: '9'
+    '2012':
+      simple_average_days: '11'
+      simple_highest_days: '29'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2013':
+      complex_average_days: '28'
+      complex_highest_days: '60'
+      complex_lowest_days: '21'
+      complex_median_days: '25'
+      simple_average_days: '13'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
   service_center: 'Phone: (571) 272-3000'
   top_level: true
   usa_id: '48151'
@@ -927,7 +1128,6 @@ departments:
   - Cooperatives
   - Courts
   - Credit
-  - Credit unions
   - Crime
   - Crop insurance
   - Cultural exchange programs

@@ -177,7 +177,6 @@ departments:
   - Seashores
   - Sulfur
   - Surety bonds
-  - Traffic regulations
   - Water resources
   - Wilderness areas
   - Wildlife
@@ -596,6 +595,74 @@ departments:
   - - FWS FOIA Library
     - http://www.fws.gov/irm/bpim/foiaread.html
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  request_time_stats:
+    '2008':
+      complex_average_days: '276.86'
+      complex_highest_days: '1300'
+      complex_lowest_days: '73'
+      expedited_processing_average_days: '1'
+      expedited_processing_highest_days: '1'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
+      simple_average_days: '16.5'
+      simple_highest_days: '39'
+      simple_lowest_days: '12'
+      simple_median_days: '5'
+    '2009':
+      complex_average_days: '32.5'
+      complex_highest_days: '624'
+      expedited_processing_average_days: '4'
+      expedited_processing_highest_days: '9'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '3'
+      simple_average_days: '9'
+      simple_highest_days: '36'
+      simple_median_days: '6'
+    '2010':
+      complex_average_days: '27'
+      complex_highest_days: '667'
+      complex_median_days: '15'
+      expedited_processing_average_days: '12'
+      expedited_processing_highest_days: '17'
+      expedited_processing_lowest_days: '7'
+      expedited_processing_median_days: '12'
+      simple_average_days: '6'
+      simple_highest_days: '19'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2011':
+      complex_average_days: '43'
+      complex_highest_days: '1278'
+      complex_median_days: '15'
+      expedited_processing_average_days: '17'
+      expedited_processing_highest_days: '28'
+      expedited_processing_lowest_days: '5'
+      expedited_processing_median_days: '18'
+      simple_average_days: '3'
+      simple_highest_days: '12'
+      simple_median_days: '2'
+    '2012':
+      complex_average_days: '39'
+      complex_highest_days: '713'
+      complex_median_days: '18'
+      expedited_processing_average_days: '13'
+      expedited_processing_highest_days: '27'
+      expedited_processing_lowest_days: '4'
+      expedited_processing_median_days: '7'
+      simple_average_days: '13'
+      simple_highest_days: '29'
+      simple_median_days: '13'
+    '2013':
+      complex_average_days: '41'
+      complex_highest_days: '894'
+      complex_median_days: '17'
+      expedited_processing_average_days: '11'
+      expedited_processing_highest_days: '46'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '3'
+      simple_average_days: '5'
+      simple_highest_days: '43'
+      simple_median_days: '3'
   service_center: 'Phone: (703) 358-2504'
   top_level: true
   usa_id: '48057'
@@ -617,6 +684,41 @@ departments:
   phone: 703-648-7196
   public_liaison: 'Joye Durant, Phone: (703) 648-7196'
   request_form: http://www.doi.gov/foia/foia-request-form.cfm
+  request_time_stats:
+    '2008':
+      complex_average_days: '6.38'
+      complex_highest_days: '76'
+      simple_highest_days: '2'
+    '2009':
+      complex_average_days: '15.12'
+      complex_highest_days: '166'
+      simple_average_days: '1'
+      simple_highest_days: '2'
+    '2010':
+      complex_average_days: '18'
+      complex_highest_days: '179'
+      complex_median_days: '15'
+    '2011':
+      complex_average_days: '15'
+      complex_highest_days: '300'
+      complex_median_days: '12'
+      expedited_processing_average_days: '1'
+      expedited_processing_highest_days: '1'
+      expedited_processing_median_days: '1'
+    '2012':
+      complex_average_days: '13'
+      complex_highest_days: '46'
+      complex_median_days: '14'
+      simple_average_days: '1'
+      simple_highest_days: '1'
+      simple_median_days: '1'
+    '2013':
+      complex_average_days: '15'
+      complex_highest_days: '585'
+      complex_median_days: '8'
+      simple_average_days: '2'
+      simple_highest_days: '3'
+      simple_median_days: '2'
   service_center: 'Phone: (703) 648-7196'
   top_level: false
   website: http://www.usgs.gov/foia/
@@ -1101,7 +1203,6 @@ keywords:
 - Highways and roads
 - Historic preservation
 - Homesteads
-- Hospitals
 - Hostages
 - Hunting
 - Hydrocarbons
@@ -1150,7 +1251,6 @@ keywords:
 - Natural resources
 - Navigation (air)
 - Navigation (water)
-- Nonprofit organizations
 - Northern Mariana Islands
 - Oil and gas exploration
 - Oil and gas reserves

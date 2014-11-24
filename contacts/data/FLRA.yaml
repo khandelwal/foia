@@ -21,6 +21,43 @@ departments:
   reading_rooms:
   - - Electronic Reading Room
     - http://www.flra.gov/elibrary
+  request_time_stats:
+    '2008':
+      simple_average_days: '79'
+      simple_highest_days: '325'
+      simple_lowest_days: '1'
+      simple_median_days: '20'
+    '2009':
+      simple_average_days: '146'
+      simple_highest_days: '1061'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
+    '2010':
+      simple_average_days: '27'
+      simple_highest_days: '250'
+      simple_lowest_days: '1'
+      simple_median_days: '17'
+    '2011':
+      simple_average_days: '13'
+      simple_highest_days: '32'
+      simple_median_days: '13'
+    '2012':
+      complex_average_days: '66'
+      complex_highest_days: '156'
+      complex_lowest_days: '21'
+      complex_median_days: '12'
+      simple_average_days: '12'
+      simple_highest_days: '28'
+      simple_lowest_days: '1'
+      simple_median_days: '11'
+    '2013':
+      complex_average_days: '37.33'
+      complex_highest_days: '56'
+      complex_lowest_days: '18'
+      complex_median_days: '38'
+      simple_average_days: '10.64'
+      simple_highest_days: '49'
+      simple_median_days: '10'
   service_center: 'Phone: (202) 218-7770'
   top_level: false
   website: http://www.flra.gov/FOIA
@@ -413,6 +450,31 @@ departments:
   name: The Federal Service Impasses Panel
   phone: 202-218-7790
   public_liaison: ''
+  request_time_stats:
+    '2008':
+      simple_average_days: '1'
+      simple_highest_days: '2'
+      simple_median_days: '1'
+    '2009':
+      simple_average_days: '6'
+      simple_highest_days: '29'
+      simple_median_days: '1'
+    '2010':
+      simple_average_days: '2'
+      simple_highest_days: '7'
+      simple_median_days: '1'
+    '2011':
+      simple_average_days: '1'
+      simple_highest_days: '5'
+      simple_median_days: '1'
+    '2012':
+      simple_average_days: '4'
+      simple_highest_days: '20'
+      simple_median_days: '1'
+    '2013':
+      simple_average_days: '9.31'
+      simple_highest_days: '45'
+      simple_median_days: '3'
   service_center: 'Phone: (202) 218-7790'
   top_level: false
   website: http://www.flra.gov/foia_contact
@@ -439,7 +501,6 @@ fax: 202-343-1007
 keywords:
 - Administrative practice and procedure
 - Conflict of interests
-- Equal access to justice
 - Government employees
 - Labor management relations
 name: Federal Labor Relations Authority

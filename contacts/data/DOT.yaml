@@ -126,7 +126,6 @@ departments:
   - Alcohol abuse
   - Alcoholism
   - Armed forces
-  - Arms and munitions
   - Authority delegations (Government agencies)
   - Aviation safety
   - Canada
@@ -142,7 +141,6 @@ departments:
   - Environmental protection
   - Equal access to justice
   - Ethiopia
-  - Explosives
   - Exports
   - Federal Aviation Administration
   - Federal buildings and facilities
@@ -186,7 +184,6 @@ departments:
   - Teachers
   - Transportation
   - Weather
-  - X-rays
   - Yugoslavia
   misc:
     FOIA Coordinator: 'Phone: (202) 267-9165'
@@ -614,7 +611,6 @@ departments:
   - Drug testing
   - Freight
   - Freight forwarders
-  - Grant programs
   - Grant programs-transportation
   - Hazardous materials transportation
   - Highway safety
@@ -855,7 +851,6 @@ departments:
   foia_officer: 'T. Mitchell Hudson, Jr., Phone: (202) 366-5320'
   keywords:
   - Administrative practice and procedure
-  - Antitrust
   - Authority delegations (Government agencies)
   - Citizenship and naturalization
   - Claims
@@ -1172,19 +1167,15 @@ departments:
   fax: 202-245-0460
   keywords:
   - Administrative practice and procedure
-  - Agricultural commodities
-  - Antitrust
   - Authority delegations (Government agencies)
   - Bankruptcy
   - Brokers
   - Common carriers
   - Communications
   - Confidential business information
-  - Environmental impact statements
   - Freedom of information
   - Freight
   - Freight forwarders
-  - Intermodal transportation
   - Investigations
   - Maritime carriers
   - Motor carriers
@@ -1238,7 +1229,6 @@ keywords:
 - Antitrust
 - Archives and records
 - Armed forces
-- Arms and munitions
 - Authority delegations (Government agencies)
 - Aviation safety
 - Bankruptcy
@@ -1293,7 +1283,6 @@ keywords:
 - Equal employment opportunity
 - Ethics
 - Ethiopia
-- Explosives
 - Exports
 - Federal Aviation Administration
 - Federal buildings and facilities
@@ -1336,7 +1325,6 @@ keywords:
 - Highway safety
 - Highways and roads
 - Historic preservation
-- Hospitals
 - Hostages
 - Human research subjects
 - Imports
@@ -1388,7 +1376,6 @@ keywords:
 - Navigation (air)
 - Navigation (water)
 - Noise control
-- Nonprofit organizations
 - Nuclear vessels
 - Occupational safety and health
 - Oceanographic research vessels
@@ -1469,7 +1456,6 @@ keywords:
 - Whistleblowing
 - Wildlife refuges
 - Women
-- X-rays
 - Yugoslavia
 name: Department of Transportation
 phone: 202-366-4542
