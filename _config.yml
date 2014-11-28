@@ -21,8 +21,8 @@ author:
   url: http://localhost:4000
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl:
-logoalt:
+logourl: https://18f.gsa.gov/assets/images/logo-18f.png
+logoalt: 18f logo
 
 # Navigation
 # List links that should appear in the site sidebar here
