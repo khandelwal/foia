@@ -43,7 +43,7 @@ Most of the scripts written to collect data are also written in Python. (see:
 ## Open source and Contributing
 
 This project is open source and we welcome contributions from the public. See
-our [developer][developers.html] page. 
+our [developer](developers.html) page. 
 
 ### Legal License Things
 
