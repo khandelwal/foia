@@ -3,6 +3,13 @@ layout: page
 title:  "Developers"
 ---
 
+## Technology
+
+The foia-hub is a Python/Django application.
+
+Most of the scripts written to collect data are also written in Python. See:
+[scripts source](https://github.com/18F/foia/tree/master/contacts).
+
 ## API
 
 All of the information that our <a href="https://foia.18f.us">FOIA-hub</a>

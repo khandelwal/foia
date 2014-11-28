@@ -1,4 +1,3 @@
-
 FOIA
 
 The Freedom of Information Act (FOIA) grants the public (everyone!) the right
@@ -33,19 +32,13 @@ rooms or libraries. FOIA-hub collects and provides links ot these online
 libraries. It is hoped that potential requesters will check the libraries
 first, before submitting a request. 
 
-## Technology
-
-The foia-hub is a Python/Django application.
-
-Most of the scripts written to collect data are also written in Python. (see:
-(https://github.com/18F/foia/tree/master/contacts)[scripts source])
 
 ## Open source and Contributing
 
 This project is open source and we welcome contributions from the public. See
 our [developer](developers.html) page. 
 
-### Legal License Things
+### License 
 
 This project is in the public domain within the United States, and copyright
 and related rights in the work worldwide are waived through CC0 1.0 Universal
