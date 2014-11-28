@@ -17,8 +17,8 @@ baseurl: '/foia'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Name
-  url: http://localhost:4000
+  name: 18F
+  url: https://18f.gsa.gov
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: assets/img/18f-logo.png
