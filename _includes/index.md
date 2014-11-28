@@ -8,8 +8,9 @@ federal agency.
 
 We aim to improve the FOIA request experience. 
 
-Our first tool is the FOIA-hub, an online tool to guide users to up-to-date
-contact and request information across the federal government. 
+Our first tool is the (FOIA-hub)[https://foia.18f.us], an online tool to guide
+users to up-to-date contact and request information across the federal
+government. It is a work in progress by (18F)[https://18f.gsa.gov].
 
 
 ## Features
@@ -40,6 +41,11 @@ Most of the scripts written to collect data are also written in Python. (see:
 (https://github.com/18F/foia/tree/master/contacts)[scripts source])
 
 ## Open source and Contributing
+
+This project is open source and we welcome contributions from the public. See
+our (developer)[developer] page. 
+
+### Legal License Things
 
 This project is in the public domain within the United States, and copyright
 and related rights in the work worldwide are waived through CC0 1.0 Universal
