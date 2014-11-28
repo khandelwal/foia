@@ -40,9 +40,12 @@ navigation:
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: DOCter
-  description: Jekyll template for docs
-  url: https://github.com/cfpb/DOCter
+- name: foia
+  description: Main repository
+  url: https://github.com/18F/foia
+- name: foia-hub
+  description: FOIA request hub
+  url: https://github.com/18F/foia-hub
 
 # Style Variables
 brand_color: "#1188ff"
