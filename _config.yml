@@ -5,7 +5,7 @@ markdown: kramdown
 pygments: true
 
 # Title
-name: DOCter
+name: foia
 subtitle: A Jekyll template for project documentation
 
 # When using this template with a project page set the baseurl to '/project-name'
@@ -45,4 +45,4 @@ repos:
   url: https://github.com/cfpb/DOCter
 
 # Style Variables
-brand_color: "#2cb34a"
+brand_color: "#18f18f18f"
