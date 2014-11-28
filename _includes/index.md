@@ -27,7 +27,7 @@ Homeland Security.
 
 - #### FOIA LIBRARIES
 Many agencies provide oft-requested responsive documents in online reading
-rooms or libraries. FOIA-hub collects and provides links ot these online
+rooms or libraries. FOIA-hub collects and provides links to these online
 libraries. It is hoped that potential requesters will check the libraries
 first, before submitting a request. 
 
@@ -38,7 +38,7 @@ The foia-hub is a Python/Django application.
 Most of the scripts written to collect data are also written in Python. See:
 [scripts source](https://github.com/18F/foia/tree/master/contacts).
 
-## Open source and Contributing
+## Open Source and Contributing
 
 This project is open source and we welcome contributions from the public. We
 work in an agile fashion in two-week sprints. Our product backlog is
