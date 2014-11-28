@@ -8,9 +8,9 @@ federal agency.
 
 We aim to improve the FOIA request experience. 
 
-Our first tool is the (FOIA-hub)[https://foia.18f.us], an online tool to guide
+Our first tool is the [FOIA-hub](https://foia.18f.us), an online tool to guide
 users to up-to-date contact and request information across the federal
-government. It is a work in progress by (18F)[https://18f.gsa.gov].
+government. It is a work in progress by [18F](https://18f.gsa.gov).
 
 
 ## Features
