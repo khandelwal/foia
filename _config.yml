@@ -33,6 +33,10 @@ navigation:
 - text: Developers
   url: developers.html
   internal: true
+- text: Screenshots
+  url: screenshots.html
+  internal: true
+
 #- text: DOCter Repo
 #  url: https://github.com/cfpb/DOCter
 #  internal: false
