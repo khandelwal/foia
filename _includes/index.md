@@ -1,6 +1,16 @@
 
 FOIA
 
+The Freedom of Information Act (FOIA) grants the public (everyone!) the right
+to access information from the federal government. The FOIA process requires
+the public to submit a request for information or records within a specific
+federal agency. 
+
+We aim to improve the FOIA request experience. 
+
+Our first tool is the FOIA-hub, an online tool to guide users to up-to-date
+contact and request information across the federal government. 
+
 
 ## Features
 
