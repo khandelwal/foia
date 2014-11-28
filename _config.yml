@@ -6,7 +6,7 @@ pygments: true
 
 # Title
 name: FOIA
-subtitle: A Jekyll template for project documentation
+subtitle: Improving the FOIA requester experience. 
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
