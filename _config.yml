@@ -33,9 +33,9 @@ navigation:
 - text: Developers
   url: developers.html
   internal: true
-- text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
-  internal: false
+#- text: DOCter Repo
+#  url: https://github.com/cfpb/DOCter
+#  internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
